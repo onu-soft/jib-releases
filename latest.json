@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "\n- ⌥Space 로 앱·파일·명령을 찾아 실행합니다.\n- 초성으로도 찾습니다 — `ㅂㅁ` 로 `부모 자리`.\n- 계산기: `1,200*1.1` · `100+10%` · `10 km to mi` · `100 c to f`\n- 클립보드 기록을 모아 두고 다시 붙여넣습니다.\n- 창을 화면 절반·1/4·1/3 로 맞춥니다.\n- 자주 쓰는 검색·사이트를 빠른 링크로 등록합니다.\n- 런처 창을 끌어서 옮길 수 있고, 옮긴 위치를 기억합니다.",
-  "pub_date": "2026-09-28T07:31:12Z",
+  "version": "0.1.1",
+  "notes": "\n- 새 버전이 나오면 검색 칸 바로 아래에 알려 드립니다. 눌러서 바로 업데이트할 수 있습니다.\n- 메뉴 막대 메뉴를 간결하게 다듬었습니다.",
+  "pub_date": "2026-09-28T09:38:47Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlOSms0a0tSNHNUUzhuUTgvbTZkV1dvejEvZmt3QkVNT2lzZXpCZm1tWS9SNlFOK05uVldTaGdxU2U2NERMZXQxak45ZU5rSWdQYUVnbW9lMG1lY2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTgwNjE4CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMAp3VWtSNlZGamc1M2Vud1RyMGptTVM0YWVNSS9aYmJCdEh6THkwOElSVC94L3hnM0NHL2pNK2tOdytnR25ueUhoa3dSNVdBL3RVM2FCNDN0a0J1VzJBQT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.0/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnhaQllkOXZTd2RUWkJtMzcxdkMyR3hlelpEM1Z4SHZKS01ZZVFLOWdzS0xwKzNieUMrRnBORkNveGZaTmpEZEVkOTVMaE1WRkkycG9pcEVPUGJJMmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTg4Mjk5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMQpvbUEreUtiY2JGaVd6UDFxVEZqMTFHR20reWhjOXJPdnlpdnlGdHNhckNkYTc4L0M3b0Vyam50UUhwVlFHaUhxMXc4d3llL2lOTjNXcHdyNldFNW1Edz09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.1/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlOSms0a0tSNHNUUzhuUTgvbTZkV1dvejEvZmt3QkVNT2lzZXpCZm1tWS9SNlFOK05uVldTaGdxU2U2NERMZXQxak45ZU5rSWdQYUVnbW9lMG1lY2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTgwNjE4CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMAp3VWtSNlZGamc1M2Vud1RyMGptTVM0YWVNSS9aYmJCdEh6THkwOElSVC94L3hnM0NHL2pNK2tOdytnR25ueUhoa3dSNVdBL3RVM2FCNDN0a0J1VzJBQT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.0/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnhaQllkOXZTd2RUWkJtMzcxdkMyR3hlelpEM1Z4SHZKS01ZZVFLOWdzS0xwKzNieUMrRnBORkNveGZaTmpEZEVkOTVMaE1WRkkycG9pcEVPUGJJMmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTg4Mjk5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMQpvbUEreUtiY2JGaVd6UDFxVEZqMTFHR20reWhjOXJPdnlpdnlGdHNhckNkYTc4L0M3b0Vyam50UUhwVlFHaUhxMXc4d3llL2lOTjNXcHdyNldFNW1Edz09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.1/Jib.app.tar.gz"
     }
   }
 }
