@@ -1,15 +1,15 @@
 {
-  "version": "0.1.5",
-  "notes": "\n- **암호는 클립보드 기록에 담지 않습니다.** 비트워든·1Password·KeePassXC 등 암호 관리자에서 복사한 것은 남기지 않습니다.\n- 클립보드 기록을 한 번에 지울 수 있습니다. 설정 › 클립보드.\n- 손쉬운 사용 화면에서 **열기**를 누르면 시스템 설정의 해당 목록이 바로 열립니다.\n- 로그를 켜고 끌 수 있습니다. 수준도 고르고, 파일을 Finder 에서 바로 열 수 있습니다. 설정 › 로그.\n- 런처에서 오른쪽 단추를 누르면 ⌘K 와 같은 동작 목록이 나옵니다.\n- 앱을 고르면 그 앱이 맨 앞으로 오지 않던 것을 고쳤습니다.",
-  "pub_date": "2026-09-28T12:44:55Z",
+  "version": "0.1.6",
+  "notes": "\n- 런처를 다시 열면 **마지막에 고른 줄**에 그대로 있습니다. 뜨는 순간 목록이 움직이지 않습니다.\n- 제안을 몇 줄까지 보일지 정할 수 있습니다. 기본 20줄. 설정 › 검색.",
+  "pub_date": "2026-09-28T13:06:47Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZkWWFWMjNqMEV2bEFRTlg1cko4YTBhK1VnNnlNY2cxR0lTSDNseS9iT1NQWVhLYWM0bFhwWlpzRHc3WlFsQTN6U1VtS0FGY3drQVVRckFRdDh6QmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTk5NDczCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNQpxWi9ic3RPbnJJQmE5ZnpKdzkyTEpLeVBCTGxxV3JPalF6bnArOVZYUVhSdno3YjcvU3BvcUxQZmVFL2JXa2E5OTJBMmUydlZhR3JQSEl3d1kyY2ZCdz09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.5/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdSamltRjJqbW1NY2VUSkdCdlNRT1B2SEpDVEtxeDR4MlpYcC9Ta3F5Y2pQTFZMaUJGRmNVdUgxc2x2RFZZeWkyZlJiN1B0dDhiZmdjSlo5NnZ1MFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjAwNzg1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNgp1QU9zelVrR1lteng4M25UZUg2ZW5lVkdhbXRnOENUVzF2V0tFRjl3ZWloMzE5MFAzUTB1UGJtWVVUcHNPZ25CbEVxTzV4clN2K2Q3anJqSEhoTHlCQT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.6/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZkWWFWMjNqMEV2bEFRTlg1cko4YTBhK1VnNnlNY2cxR0lTSDNseS9iT1NQWVhLYWM0bFhwWlpzRHc3WlFsQTN6U1VtS0FGY3drQVVRckFRdDh6QmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTk5NDczCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNQpxWi9ic3RPbnJJQmE5ZnpKdzkyTEpLeVBCTGxxV3JPalF6bnArOVZYUVhSdno3YjcvU3BvcUxQZmVFL2JXa2E5OTJBMmUydlZhR3JQSEl3d1kyY2ZCdz09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.5/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdSamltRjJqbW1NY2VUSkdCdlNRT1B2SEpDVEtxeDR4MlpYcC9Ta3F5Y2pQTFZMaUJGRmNVdUgxc2x2RFZZeWkyZlJiN1B0dDhiZmdjSlo5NnZ1MFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjAwNzg1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNgp1QU9zelVrR1lteng4M25UZUg2ZW5lVkdhbXRnOENUVzF2V0tFRjl3ZWloMzE5MFAzUTB1UGJtWVVUcHNPZ25CbEVxTzV4clN2K2Q3anJqSEhoTHlCQT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.6/Jib.app.tar.gz"
     }
   }
 }
