@@ -1,15 +1,15 @@
 {
-  "version": "0.1.8",
-  "notes": "\n- **로그가 통째로 지워지지 않습니다.** 40KB 마다 옛 기록을 버리던 것을 2MB 로 올리고, 넘치면 날짜를 붙여 두 벌까지 남깁니다 — 문제를 신고할 때 그 판의 기록이 남아 있습니다.\n- **켜고 한참 뒤에 처음 열어도 제안이 온전히 나옵니다.** 앱 목록을 다 훑기 전에 세운 첫 화면이 그대로 굳어, 처음 열면 몇 줄만 나오고 닫았다 열어야 제대로 나오던 것을 고쳤습니다.",
-  "pub_date": "2026-09-29T09:02:14Z",
+  "version": "0.1.9",
+  "notes": "\n- **설정 창 글씨가 또렷해졌습니다.** 설명글을 한 급 밝게 하고 반픽셀 크기를 없앴습니다.\n- **업데이트 중에도 글씨가 흐려지지 않습니다.** 진행률은 단추 글자 대신 **진행 막대**로 보여 주고, 받는 중 · 설치 중 · 크기를 모를 때(받은 용량)를 갈라 적습니다.\n- **업데이트를 확인하는 동안 버전 번호가 움직이지 않습니다.** 단추가 미리 자리를 잡습니다.\n- 설치가 실패했는데 \"확인하지 못했습니다\" 라고 하던 것을 고쳤습니다.",
+  "pub_date": "2026-09-29T11:59:08Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdEcUd4WE5UcDc2QTNsb0NOcm0zaEM4ZUJkdUNyelE5TkduSkRhT1gyZS9FbnhJMi9nMVFtV0szRjlySkF3N2ZiSkN4T1dITFBzWmFvMDVoK0R6YlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjcyNTAxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOApmeWRjUGxITUZWc2hlSTNaUFFJSzRqMjgvUVpHa0RtcUJRZ0hQZVRQUHdIZDRscXB2b3Vlc2hqQWc3cDdBQWNwVXVVTWd2bDhXbnZqVmpzVERtNWlCUT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.8/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlzbmlqaUNSNWJEa1ZQazB0bDkzbVZObWFQaUtZMlZkV2w2eUliejF4amxqdUdMRmRWakIxYi81YXoyejVmSmhtdll6aEUyMXk1Z3lBOTE5UGphTWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjgzMTIxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOQpmdEVjQkRQbitJRWMwTnp3alRuUU9VTkxIbUVZRUdTbUNmbEdmK3RONEJKdGhGWEVzd1hsangvd2xxWUd4c3YydlNLdENMT014UkJpUEtTWjRWK1hEZz09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.9/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdEcUd4WE5UcDc2QTNsb0NOcm0zaEM4ZUJkdUNyelE5TkduSkRhT1gyZS9FbnhJMi9nMVFtV0szRjlySkF3N2ZiSkN4T1dITFBzWmFvMDVoK0R6YlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjcyNTAxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOApmeWRjUGxITUZWc2hlSTNaUFFJSzRqMjgvUVpHa0RtcUJRZ0hQZVRQUHdIZDRscXB2b3Vlc2hqQWc3cDdBQWNwVXVVTWd2bDhXbnZqVmpzVERtNWlCUT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.8/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlzbmlqaUNSNWJEa1ZQazB0bDkzbVZObWFQaUtZMlZkV2w2eUliejF4amxqdUdMRmRWakIxYi81YXoyejVmSmhtdll6aEUyMXk1Z3lBOTE5UGphTWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjgzMTIxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOQpmdEVjQkRQbitJRWMwTnp3alRuUU9VTkxIbUVZRUdTbUNmbEdmK3RONEJKdGhGWEVzd1hsangvd2xxWUd4c3YydlNLdENMT014UkJpUEtTWjRWK1hEZz09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.9/Jib.app.tar.gz"
     }
   }
 }
