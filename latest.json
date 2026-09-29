@@ -1,15 +1,15 @@
 {
-  "version": "0.1.6",
-  "notes": "\n- 런처를 다시 열면 **마지막에 고른 줄**에 그대로 있습니다. 뜨는 순간 목록이 움직이지 않습니다.\n- 제안을 몇 줄까지 보일지 정할 수 있습니다. 기본 20줄. 설정 › 검색.",
-  "pub_date": "2026-09-28T13:06:47Z",
+  "version": "0.1.7",
+  "notes": "\n- 검색 칸이 있는 **윗부분이 목록과 다른 면으로** 보입니다. 글자를 치는 자리가 한눈에 들어오고, 깜빡이는 커서도 강조색입니다.\n- **마우스를 올리기만 한 줄은 골라지지 않습니다.** 목록 위에서 스크롤해도 고른 줄이 따라 움직이지 않아, 다시 열 때 목록이 엉뚱한 자리까지 내려간 채 뜨던 것을 고쳤습니다. 커서를 올린 줄은 옅게, 고른 줄은 그대로 표시됩니다.\n- 손쉬운 사용 화면에 **이 Jib 이 어느 자리에 있는지** 표시합니다. 같은 앱이 두 벌 있으면 목록에 둘 다 “Jib” 으로 올라가 엉뚱한 쪽을 켜게 되는데, 그것을 가릴 수 있습니다.",
+  "pub_date": "2026-09-29T08:25:21Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdSamltRjJqbW1NY2VUSkdCdlNRT1B2SEpDVEtxeDR4MlpYcC9Ta3F5Y2pQTFZMaUJGRmNVdUgxc2x2RFZZeWkyZlJiN1B0dDhiZmdjSlo5NnZ1MFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjAwNzg1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNgp1QU9zelVrR1lteng4M25UZUg2ZW5lVkdhbXRnOENUVzF2V0tFRjl3ZWloMzE5MFAzUTB1UGJtWVVUcHNPZ25CbEVxTzV4clN2K2Q3anJqSEhoTHlCQT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.6/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNHdXQ2WUtjV0d5MlUzVlo1WFRXN2F6ZUdXL3B3Vjg2OHJZZ2ttWHQvMCszUk55bTFYL2xDZzYxR3N5eHIxRHU2bTlENFVZSWExdkFOa0JmVmtpUEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjcwMjg5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNwpIRENrRllLNllDd1hwRW9xNEZuMlQ3SkJKdGk4dENIM2hTajk2am1kUEJ4bTZ1MFJhK1ZNZU40ajAxMnBQQWk2VnovQlJDc0FRUmhPT1E0d3l5cnlEUT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.7/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdSamltRjJqbW1NY2VUSkdCdlNRT1B2SEpDVEtxeDR4MlpYcC9Ta3F5Y2pQTFZMaUJGRmNVdUgxc2x2RFZZeWkyZlJiN1B0dDhiZmdjSlo5NnZ1MFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjAwNzg1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNgp1QU9zelVrR1lteng4M25UZUg2ZW5lVkdhbXRnOENUVzF2V0tFRjl3ZWloMzE5MFAzUTB1UGJtWVVUcHNPZ25CbEVxTzV4clN2K2Q3anJqSEhoTHlCQT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.6/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNHdXQ2WUtjV0d5MlUzVlo1WFRXN2F6ZUdXL3B3Vjg2OHJZZ2ttWHQvMCszUk55bTFYL2xDZzYxR3N5eHIxRHU2bTlENFVZSWExdkFOa0JmVmtpUEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjcwMjg5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNwpIRENrRllLNllDd1hwRW9xNEZuMlQ3SkJKdGk4dENIM2hTajk2am1kUEJ4bTZ1MFJhK1ZNZU40ajAxMnBQQWk2VnovQlJDc0FRUmhPT1E0d3l5cnlEUT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.7/Jib.app.tar.gz"
     }
   }
 }
