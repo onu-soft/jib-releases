@@ -1,15 +1,15 @@
 {
-  "version": "0.1.15",
-  "notes": "\n- **클립보드 기록에 이미지도 남습니다.** 스크린샷이나 복사한 그림이 작은 미리보기와 함께 기록에 쌓이고, ⏎ 로 다시 붙여넣습니다. `이미지` 로 치면 이미지만 추립니다.\n  고정하지 않은 이미지는 모두 합쳐 256MB 를 넘으면 오래된 것부터 지웁니다. 설정 → 클립보드에서 끌 수 있습니다.",
-  "pub_date": "2026-10-03T04:17:44Z",
+  "version": "0.1.16",
+  "notes": "\n- **명령에도 단축키를 답니다.** 설정 → 단축키에서 `창 왼쪽 절반` 같은 명령을 골라 단축키를 달면 런처를 열지 않고 바로 실행합니다.\n- **창 관리가 넷 늘었습니다.** `창 가운데 1/3` · `창 오른쪽 2/3` · `창을 다음 화면으로 이동` · `창 이전 크기로 돌아가기`(Jib 이 옮기기 전 자리로).\n- **선택한 글 한영 전환.** 한글 상태로 친 `dkssud` 를 골라 부르면 `안녕` 으로 바꿔 그 자리에 붙입니다.\n- **평·억·날짜를 셈합니다.** `30평` → 99.17㎡, `3억 5천 * 2`, `오늘 + 100일`, `d-day 12월 25일`, `2026-03-01부터`(며칠째).\n- **스니펫에 자리표시자를 씁니다.** `{날짜}` `{시간}` `{클립보드}` `{커서}` 가 붙이는 순간 채워집니다.\n- **클립보드 기록을 종류별로 봅니다.** Tab 으로 전체 · 글 · 링크 · 이미지를 오갑니다. 설정 → 클립보드에서 보관 기간을 정할 수 있습니다.\n- **붙여넣고 스타일 일치.** 복사한 글을 서식 없이 붙입니다.\n- **스크립트 명령.** 스크립트 폴더에 실행 파일을 넣으면 런처 명령이 됩니다. Raycast 스크립트를 그대로 옮겨 쓸 수 있습니다(설정 → 스크립트 → 예시 만들기).\n- 화면이 하나일 때 `다음 화면으로 이동` 을 고르면 런처만 사라지던 것과, 단축키가 `⌃⌥⌘Semicolon` 처럼 보이던 것을 고쳤습니다.",
+  "pub_date": "2026-10-03T12:52:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlmVG1nc3AzQVhEakt2eHZCWGdSeTFpVUJGRXNlbm9oV29oWTV3YStOZGIwSUhLemxtMU9SUnh1YmNYNU1HN3JDeStSMkJuZXgzUE9MT1ZrdG5hckF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDAxMDQyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTUKS3ZPVEppS2lucmhhQWFYNWdDSng1WU5ycVhFU0pMajN2cm5hcUFoU0FjOGRWVzE5Mkg0L1NESDlDQ3UweWxRaGZLQnhBSDdFQVI2cnNBVitJclFzQUE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.15/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdQMXVGQ1VMVS9hRFhValhxbmJvMkNmQ0VsWTRYdTVtbU1oZEo1UkU3T1ZHZDl2Z0VOaUplcUxnTVQyblFpSXhoOXcrYm9FRnJLSE9PWnRwVUs1eHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDMxOTMyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTYKeGN2L1JabmtMcE11K1hwcnRXU2lKNjNZVnJqZ3loZGRBNFBmQWNWMFRDcTJJNkx5M1ZoQ0g4RWZwWElyNis5VTA5MEg4b2lMSHkxbEpONG81TUZRREE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.16/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlmVG1nc3AzQVhEakt2eHZCWGdSeTFpVUJGRXNlbm9oV29oWTV3YStOZGIwSUhLemxtMU9SUnh1YmNYNU1HN3JDeStSMkJuZXgzUE9MT1ZrdG5hckF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDAxMDQyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTUKS3ZPVEppS2lucmhhQWFYNWdDSng1WU5ycVhFU0pMajN2cm5hcUFoU0FjOGRWVzE5Mkg0L1NESDlDQ3UweWxRaGZLQnhBSDdFQVI2cnNBVitJclFzQUE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.15/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdQMXVGQ1VMVS9hRFhValhxbmJvMkNmQ0VsWTRYdTVtbU1oZEo1UkU3T1ZHZDl2Z0VOaUplcUxnTVQyblFpSXhoOXcrYm9FRnJLSE9PWnRwVUs1eHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDMxOTMyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTYKeGN2L1JabmtMcE11K1hwcnRXU2lKNjNZVnJqZ3loZGRBNFBmQWNWMFRDcTJJNkx5M1ZoQ0g4RWZwWElyNis5VTA5MEg4b2lMSHkxbEpONG81TUZRREE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.16/Jib.app.tar.gz"
     }
   }
 }
