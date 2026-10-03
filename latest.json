@@ -1,15 +1,15 @@
 {
-  "version": "0.1.13",
-  "notes": "\n- **영문 이름 앱을 한글로도 찾습니다.** `사파리`·`크롬`·`카톡`처럼 쳐도 나오고, 초성(`ㅅㅍㄹ`)으로도 찾습니다.\n- **앱에 키워드를 달 수 있습니다.** 설정 → 앱 키워드에서 Ghostty 에 `터미널` 처럼 원하는 말을 달면 그 말로 찾습니다.\n- **파일 검색 중에도 화면이 멈추지 않습니다.** 짧게 친 동안 잠깐 굳어서 고른 앱이 늦게 뜨던 것을 고쳤습니다.",
-  "pub_date": "2026-10-03T02:47:04Z",
+  "version": "0.1.14",
+  "notes": "\n- **입력기를 안 바꾸고 쳐도 찾습니다.** 한글 상태로 친 `ㄴㅁㄹㅁ갸` 는 Safari 로, 영문 상태로 친 `apah` 는 메모로 읽습니다.\n- **스니펫.** 자주 쓰는 문구를 설정 → 스니펫에 등록하면, 런처에서 찾아 ⏎ 로 붙여넣습니다(⌥⏎ 는 복사).\n- **열린 창으로 바로 갑니다.** 창 제목을 치면 그 창이 나오고, ⏎ 하면 앞으로 가져옵니다. Dock 으로 내린 창도 올라옵니다.\n- **이모지·특수문자를 이름으로 찾습니다.** `하트`·`화살표`·`섭씨`처럼 쳐서 ⏎ 하면 붙여넣습니다.\n- **다른 나라 시각을 셈합니다.** `뉴욕 시간`, `오후 3시 런던`, `3pm PST` 처럼 칩니다.\n- **앱마다 단축키를 달 수 있습니다.** 설정 → 앱 단축키에서 단축키 하나로 그 앱을 바로 엽니다.\n- **⌘K 메뉴에서 앱을 종료·강제 종료합니다.**\n- **빠른 링크에 검색어를 붙여 칩니다.** `n 날씨` 처럼 키워드 뒤에 검색어를 쓰면 바로 검색합니다. 네이버·유튜브·파파고 링크를 기본으로 넣어 드립니다(빠른 링크가 없을 때만).\n- 단축키를 바꿀 때 키가 안 먹던 것과, 못 누르는 \"저장\" 단추 글자가 잘 안 보이던 것을 고쳤습니다.",
+  "pub_date": "2026-10-03T04:05:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjYwVnFPVnlxYXMySWUvWm1zc0pxZ012dU8vSlh3R2gxUFRITk40Z2JHNk8zNGJQRVgySXE0NExaQ0o5RjdiczRmRDlScmNTNGZOYW0xdGRwNkxiNncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTk1NTkwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTMKVm1QWUp6ckJYZC9XZzJ2ZTQ3N3J3WjNTMkpYTE9DUmUxT2xFSGJLclY4MHEyZWNvUVBiT09oNzlRelp1cExnYzNrZE1TQzRuRzBVTGpCK1BHc3NCQ0E9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.13/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRzb1g0Q1JCQU9IWmN2SzQvYk5qVWJTbHdUTnI2ekx3Ri9KM2p1eVUxOFhFbHE0OVZHaGhFaDhRa0NFSU5DNnFXSitXWDNhZlNoZzFTVzZlUWpLZ3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDAwMjg4CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTQKNnV6NkR3NThKeE5OQ05LckJIZ2E5akM0cHJldVQ2SWU0ays2bkxNZGFUcTN5K0NZRmpSb21aVHpmRktyLzg5SmpTaXh3bU04ZkpOR3dIZGZnTkVsRHc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.14/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjYwVnFPVnlxYXMySWUvWm1zc0pxZ012dU8vSlh3R2gxUFRITk40Z2JHNk8zNGJQRVgySXE0NExaQ0o5RjdiczRmRDlScmNTNGZOYW0xdGRwNkxiNncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTk1NTkwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTMKVm1QWUp6ckJYZC9XZzJ2ZTQ3N3J3WjNTMkpYTE9DUmUxT2xFSGJLclY4MHEyZWNvUVBiT09oNzlRelp1cExnYzNrZE1TQzRuRzBVTGpCK1BHc3NCQ0E9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.13/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRzb1g0Q1JCQU9IWmN2SzQvYk5qVWJTbHdUTnI2ekx3Ri9KM2p1eVUxOFhFbHE0OVZHaGhFaDhRa0NFSU5DNnFXSitXWDNhZlNoZzFTVzZlUWpLZ3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDAwMjg4CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTQKNnV6NkR3NThKeE5OQ05LckJIZ2E5akM0cHJldVQ2SWU0ays2bkxNZGFUcTN5K0NZRmpSb21aVHpmRktyLzg5SmpTaXh3bU04ZkpOR3dIZGZnTkVsRHc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.14/Jib.app.tar.gz"
     }
   }
 }
