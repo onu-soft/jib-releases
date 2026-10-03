@@ -1,15 +1,15 @@
 {
-  "version": "0.1.12",
-  "notes": "\n- **아래·위 키를 누르고 있어도 고른 줄이 깔끔하게 따라옵니다.** 목록 끝에서 지나간 줄이 잔상처럼 남던 것을 고쳤습니다.",
-  "pub_date": "2026-09-29T13:18:10Z",
+  "version": "0.1.13",
+  "notes": "\n- **영문 이름 앱을 한글로도 찾습니다.** `사파리`·`크롬`·`카톡`처럼 쳐도 나오고, 초성(`ㅅㅍㄹ`)으로도 찾습니다.\n- **앱에 키워드를 달 수 있습니다.** 설정 → 앱 키워드에서 Ghostty 에 `터미널` 처럼 원하는 말을 달면 그 말로 찾습니다.\n- **파일 검색 중에도 화면이 멈추지 않습니다.** 짧게 친 동안 잠깐 굳어서 고른 앱이 늦게 뜨던 것을 고쳤습니다.",
+  "pub_date": "2026-10-03T02:47:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjBoY3RTc2VodU5FdDhQRGR4c0lXS0JJcnRCMS9kZHRWOVdmRW80SXRzNTNrcTM2OU55TFVQYjdvWFEwS0RuZnh1SlF6SHg2Mm45emtqOXRNM1pVY3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjg3ODYzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTIKek1aRktJNnhsbkkxSFZsTzFDSW44b0l3OHdTUHQrZmdzcmRubm1YVDIzMk5ERmxXMXl4eis2TVhSSHB5d3N3UzlQZTBPVEUzN0c3SlRWREVlRkNsQ2c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.12/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjYwVnFPVnlxYXMySWUvWm1zc0pxZ012dU8vSlh3R2gxUFRITk40Z2JHNk8zNGJQRVgySXE0NExaQ0o5RjdiczRmRDlScmNTNGZOYW0xdGRwNkxiNncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTk1NTkwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTMKVm1QWUp6ckJYZC9XZzJ2ZTQ3N3J3WjNTMkpYTE9DUmUxT2xFSGJLclY4MHEyZWNvUVBiT09oNzlRelp1cExnYzNrZE1TQzRuRzBVTGpCK1BHc3NCQ0E9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.13/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjBoY3RTc2VodU5FdDhQRGR4c0lXS0JJcnRCMS9kZHRWOVdmRW80SXRzNTNrcTM2OU55TFVQYjdvWFEwS0RuZnh1SlF6SHg2Mm45emtqOXRNM1pVY3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjg3ODYzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTIKek1aRktJNnhsbkkxSFZsTzFDSW44b0l3OHdTUHQrZmdzcmRubm1YVDIzMk5ERmxXMXl4eis2TVhSSHB5d3N3UzlQZTBPVEUzN0c3SlRWREVlRkNsQ2c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.12/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjYwVnFPVnlxYXMySWUvWm1zc0pxZ012dU8vSlh3R2gxUFRITk40Z2JHNk8zNGJQRVgySXE0NExaQ0o5RjdiczRmRDlScmNTNGZOYW0xdGRwNkxiNncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTk1NTkwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTMKVm1QWUp6ckJYZC9XZzJ2ZTQ3N3J3WjNTMkpYTE9DUmUxT2xFSGJLclY4MHEyZWNvUVBiT09oNzlRelp1cExnYzNrZE1TQzRuRzBVTGpCK1BHc3NCQ0E9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.13/Jib.app.tar.gz"
     }
   }
 }
