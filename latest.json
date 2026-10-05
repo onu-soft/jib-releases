@@ -1,15 +1,15 @@
 {
-  "version": "0.1.26",
-  "notes": "\n- **선택한 것에 바로 동작.** 아무 앱에서나 글을 고르고 `⌃⇧1` 을 누르면 그 글에 할 일이 뜹니다 — 다듬기·맞춤법 교정·공손하게·번역(결과를 보고 ⏎ 로 그 자리에 바꿔 붙이기), 요약, 메일로 보내기, 떠 있는 메모에 덧붙이기, 웹에서 검색, 복사. 다른 말을 치면 고른 글을 바탕으로 AI 에게 물을 수 있습니다. 붙임판은 원래대로 남습니다.\n- **번역할 언어를 고를 수 있습니다.** 설정 › AI 에서 `내 언어` 와 `두 번째 언어` 를 고르면, 고른 글이 내 언어면 두 번째 언어로, 다른 말이면 내 언어로 옮깁니다. 기본은 맥의 언어와 영어입니다. 런처에서 `일본어`·`스페인어` 처럼 치면 그때만 그 말로 옮길 수도 있습니다. 14개 언어를 지원하고, 일본어를 영어로 옮기던 문제도 고쳤습니다(`선택한 글 번역 (AI)`·글자 인식 번역 포함).",
-  "pub_date": "2026-10-05T09:00:14Z",
+  "version": "0.1.27",
+  "notes": "\n- **주식 시세.** 런처에 `주가 삼성전자`, `주가 애플`, `$TSLA` 처럼 치면 현재가와 등락을 바로 보여 줍니다(국내·해외·지수). ⏎ 로 종목 페이지를 열고, ⌥⏎ 로 시세를 복사합니다. ⌘K → `관심 종목에 추가` 를 하면 `주식 시세` 명령으로 한 번에 볼 수 있습니다. 한글 자판인 채로 친 티커도 알아듣습니다. 시세는 네이버 증권·야후 파이낸스에서 받고, `주가`·`$` 를 붙였을 때만 묻습니다.",
+  "pub_date": "2026-10-05T09:20:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNwd01VdkZ4dTB2Zi84d0E4ZGphVlY2TjhyTG9qTmNuNmV6RU5pM2lwaDFudGptTW40a1dKUXU3UDhMNkhQbkRWbHM4Yk5VWndFM3dnL3hnaVRnQ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkwNzg2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjYKY0xITXpiN05pQW5zUGlGYTVaU01QWC81d1hkclpWQXFpTW1rWWRKN2djd1hScThOeHd2YURzbWdyTVVTT21jK2htcGZEMmFOTEZsY2dYSnkva3lvQ2c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.26/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnd6UDlUNWo2Uy9OT3FBbDlVMnFYSzZYMENJQU45Yk03U0svNHJIMDdGdVZIa1p1Uktza2VmazNGOUNFa3g4Z1k2cy94NXNHWWMxbTRQVFBpajVhUGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkyMDEyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjcKWXdGZGxtVHpWOUVKSG1PRzBEQnZSZmVoSG5EY0xMdWR1VEdwcnBDR3pCSHRJbUxqTlZCWkc3UENhYUZEZkcvWkw0TGVtRUFKVGRCQXd1NnJ5TldDQUE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.27/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNwd01VdkZ4dTB2Zi84d0E4ZGphVlY2TjhyTG9qTmNuNmV6RU5pM2lwaDFudGptTW40a1dKUXU3UDhMNkhQbkRWbHM4Yk5VWndFM3dnL3hnaVRnQ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkwNzg2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjYKY0xITXpiN05pQW5zUGlGYTVaU01QWC81d1hkclpWQXFpTW1rWWRKN2djd1hScThOeHd2YURzbWdyTVVTT21jK2htcGZEMmFOTEZsY2dYSnkva3lvQ2c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.26/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnd6UDlUNWo2Uy9OT3FBbDlVMnFYSzZYMENJQU45Yk03U0svNHJIMDdGdVZIa1p1Uktza2VmazNGOUNFa3g4Z1k2cy94NXNHWWMxbTRQVFBpajVhUGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkyMDEyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjcKWXdGZGxtVHpWOUVKSG1PRzBEQnZSZmVoSG5EY0xMdWR1VEdwcnBDR3pCSHRJbUxqTlZCWkc3UENhYUZEZkcvWkw0TGVtRUFKVGRCQXd1NnJ5TldDQUE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.27/Jib.app.tar.gz"
     }
   }
 }
