@@ -1,15 +1,15 @@
 {
-  "version": "0.1.24",
-  "notes": "\n- **메일 초안에 받는 사람까지 채웁니다.** `메일 kim@회사.com …` 처럼 주소를 쓰면 그대로, `김 부장님께` 처럼 이름을 쓰면 연락처와 최근 메일 상대에서 찾아 채웁니다. 여러 명이면 고를 수 있고, 연락처 접근을 허용하지 않았으면 예전처럼 받는 사람을 비워 둡니다.",
-  "pub_date": "2026-10-05T05:37:52Z",
+  "version": "0.1.25",
+  "notes": "\n- **화면 글자 인식을 더 쉽게.** `⌃⇧2` 를 누르면 바로 시작합니다(설정 → 단축키에서 바꿀 수 있습니다). 메뉴 막대 메뉴에도 있고, 클립보드 기록의 스크린샷에서 ⌘K → `글자 인식` 으로 바로 읽을 수도 있습니다. 번역은 일본어·영어는 한국어로, 한국어는 영어로 옮깁니다.\n\n- **화면 글자 인식.** `화면 글자 인식` 을 실행하고 영역을 드래그하면 그 안의 글자(한국어·일본어·영어)를 읽어 바로 복사합니다. 결과 화면에서 ⌘T 로 번역할 수 있습니다. 모두 이 맥 안에서 처리합니다.",
+  "pub_date": "2026-10-05T08:31:33Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjY2RDFkci93eUhGbUtlZW5aQ2FuR0tmWmNTaDVRV1QvZXRjMkV5STJHc05MWlM0SmlHdlNXZW40RHBBUTNPVjRZL1dmNm0vQlVGQytva1VTaTd6NGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTc4NjUxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjQKUEg4My93Tk1MZWtnS2lvUjhraDJIcVRIaTVrb3d1MDFRT1lHNHVSWHJDTTZBbEdxcnZBOEx6dWc5R3FON0RlVGhYUHFWNStCdXBSdEhaTy9Ya3FQRGc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.24/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQitmTlRld25jRVA0dGt4STNtaFQ1Q0FTM1ZZN1FSQjZjaVFVNnNuUEJsaXhJTlRISmp2aC9BQSt0R0NaNzhSOTY3M3Q4cmxkWlcwVHdHQ3ViLzNPSXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTg5MDczCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjUKL3RTVjM3TTFCWFJ1NmNFbm1idjZCMEV3ZmRoK0FROUc3Z0FVdFhjM2FVKzJ6aDUxYnF5K0xrTm5jVCs2WjZQMENEU0tzdWJvSzg1VnNCL3d2QTN3RFE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.25/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjY2RDFkci93eUhGbUtlZW5aQ2FuR0tmWmNTaDVRV1QvZXRjMkV5STJHc05MWlM0SmlHdlNXZW40RHBBUTNPVjRZL1dmNm0vQlVGQytva1VTaTd6NGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTc4NjUxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjQKUEg4My93Tk1MZWtnS2lvUjhraDJIcVRIaTVrb3d1MDFRT1lHNHVSWHJDTTZBbEdxcnZBOEx6dWc5R3FON0RlVGhYUHFWNStCdXBSdEhaTy9Ya3FQRGc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.24/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQitmTlRld25jRVA0dGt4STNtaFQ1Q0FTM1ZZN1FSQjZjaVFVNnNuUEJsaXhJTlRISmp2aC9BQSt0R0NaNzhSOTY3M3Q4cmxkWlcwVHdHQ3ViLzNPSXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTg5MDczCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjUKL3RTVjM3TTFCWFJ1NmNFbm1idjZCMEV3ZmRoK0FROUc3Z0FVdFhjM2FVKzJ6aDUxYnF5K0xrTm5jVCs2WjZQMENEU0tzdWJvSzg1VnNCL3d2QTN3RFE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.25/Jib.app.tar.gz"
     }
   }
 }
