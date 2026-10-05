@@ -1,19 +1,19 @@
 {
-  "version": "0.1.37",
-  "notes": "\n- **공휴일·기념일 D-day·음력.** `공휴일` · `다음 공휴일` · `2027 공휴일` 로 대체공휴일까지 담긴 목록을, `추석까지` · `설날 D-day` · `크리스마스` 로 남은 날을 봅니다. `음력 8월 15일` 은 양력으로, `오늘 음력` 은 음력으로 바꿉니다(음력은 한국 음력 기준).\n\n- **날씨에 미세먼지.** 런처 날씨 띠에 `미세 좋음 · 초미세 보통` 이 함께 보이고(나쁨이면 붉게), `날씨` 를 치면 수치까지 나옵니다. 등급은 환경부 기준입니다.\n- **소리 상태 띠.** 런처 맨 위에 지금 소리가 나가는 장치와 음량이 보입니다(누르면 출력 장치 바꾸기). 설정 › 일반에서 끌 수 있습니다.\n\n- **소리·Bluetooth 빠른 전환.** 런처에 `출력` · `마이크` 를 치면 소리 장치를 바꾸고, `음량 30` · `음량 올려` · `음소거` 로 음량을, `블루투스` · `에어팟` 으로 짝지어 둔 기기를 연결하거나 해제합니다(처음 한 번 Bluetooth 허용). 맥 전용.",
-  "pub_date": "2026-10-05T16:49:22Z",
+  "version": "0.1.38",
+  "notes": "\n- **소리 상태 띠가 바로 따라갑니다.** 런처가 떠 있는 동안에도 출력 장치·음량이 바뀌면(AirPods 자동 전환 등) 띠가 곧바로 맞춰집니다.",
+  "pub_date": "2026-10-05T16:56:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnk5SDBGWW1tWDBlMFR2RFcrL2xzQllEK1JRTURnbkpiNSs5WlF5dVJuSVR5Vjg5R21EUFJNZ3ljWXd4N3dzU0R0d1RmODZnRVNHSlAwckRhMnBUZ0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE4OTI5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzcKbUZSL0V2SUYxUmgwTGZQbG5sTDRaMEl5dGFXbEs3YmwraVU3emhoeklvbnV0WEdYQnRHYVBIdnBIaGZ5UmJOZW5OS1ZuQm1hQTU1SHdjdUd0aXJmQ3c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.37/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdXU1NqSDlQWWJncFdGemdCLzVhbndjQ0lsQ2JTVlV3STg1b3U1OGVvRzl2UWdQWm5oTlpmK0FhUGEzU3dmQkxpNWZHWG9rU0Uyc1MwSlh5aTh3UFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5MzQ1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzgKSkRxdUxnSXVlRnVFV1NYRVdIQzc0WmdOaVNCbHhDNHBEUXNpTzJ2Qm5jdStoV3B2MWlFMS84QUZUWVFBRTdmcXg4K2ZDTnd5bTBnWjV5NEtXTFlHQWc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.38/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnk5SDBGWW1tWDBlMFR2RFcrL2xzQllEK1JRTURnbkpiNSs5WlF5dVJuSVR5Vjg5R21EUFJNZ3ljWXd4N3dzU0R0d1RmODZnRVNHSlAwckRhMnBUZ0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE4OTI5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzcKbUZSL0V2SUYxUmgwTGZQbG5sTDRaMEl5dGFXbEs3YmwraVU3emhoeklvbnV0WEdYQnRHYVBIdnBIaGZ5UmJOZW5OS1ZuQm1hQTU1SHdjdUd0aXJmQ3c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.37/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdXU1NqSDlQWWJncFdGemdCLzVhbndjQ0lsQ2JTVlV3STg1b3U1OGVvRzl2UWdQWm5oTlpmK0FhUGEzU3dmQkxpNWZHWG9rU0Uyc1MwSlh5aTh3UFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5MzQ1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzgKSkRxdUxnSXVlRnVFV1NYRVdIQzc0WmdOaVNCbHhDNHBEUXNpTzJ2Qm5jdStoV3B2MWlFMS84QUZUWVFBRTdmcXg4K2ZDTnd5bTBnWjV5NEtXTFlHQWc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.38/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQitQU2tsL01JVFpDbmk0UFZheHRvVkVvZEh5TWpPMXBSeFhNbjVVcEYvSlUzV0Njb2VUSmVRTHVkYll2cWExNjYySmFTUG9SY3hxOHBEVkc1ZXd1bUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5MjA0CWZpbGU6SmliXzAuMS4zN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM3CnByVEtkMlNpMnkzdjlFVHZWNkowbVZ6ell1NUZacHJvT0JnSUU2MnkzbmUxTkx6NHZ5b1hlTFY4OE0wNlpaSzlKWTc3d2o3N1JUcjA4VXhENkhvREJnPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.37/Jib_0.1.37_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZRa3VGZ0lhOWRzRkllT2hRbm44ZXlWVkNOcFFzTGpCWGUxRnFkZlBUcVRPakdrZThsektBQUYyVTdOeVNUY1FqUlljMXk4czlzNHVnaHBQblhOUmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjIxCWZpbGU6SmliXzAuMS4zOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM4ClNxYUJyYW0zS1drd1drK0hDMVk3OTNKVDFFUGo5NUVWUXcrM3RSSFRsOTZaRnIzWG0rTVp2Mzk4aTQ0SEJIWTZ6TXVpc0NOQzRSbHMrOFNHdWlWOERnPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.38/Jib_0.1.38_x64-setup.exe"
     }
   }
 }
