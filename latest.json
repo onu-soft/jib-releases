@@ -1,15 +1,15 @@
 {
-  "version": "0.1.30",
-  "notes": "\n- **스니펫 자동 펼치기.** 설정 › 스니펫에서 켜면, 아무 앱에서나 `;주소` 처럼 기호로 시작하는 키워드를 치는 즉시 저장한 내용으로 바뀝니다. 한글 입력 상태에서도 됩니다. 처음 한 번 입력 모니터링 권한이 필요하고, 친 글자는 키워드를 맞춰 보는 데만 쓰고 저장하지 않습니다.",
-  "pub_date": "2026-10-05T11:01:26Z",
+  "version": "0.1.31",
+  "notes": "\n- **창 배치 저장.** 런처에 `배치 저장 작업` 처럼 치면 지금 열린 앱 창들의 자리를 기억합니다. 나중에 `작업` 을 치고 ⏎ 하면 앱을 열고 창을 그 자리에 다시 놓습니다. 모니터가 바뀌어도 화면 비율로 맞춥니다. ⌘K 로 지울 수 있습니다.",
+  "pub_date": "2026-10-05T11:58:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNaVXpmV0x5ajFyMXRiRmlVK3dBUnVQTm9adkxLcHpCTmhkOFllUVg4YmszU2lESDJMV0pIWXdZaEdrNkdKc2UrU29UVHI0SEdPZzUwL2lBQm9IYWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTk4MDU4CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzAKRXRPSUxpRjZEMmRaZ3dPNFpDWTdFN0s0Y0hGdThwQmUrSVlzV3ZQMEVHOHVjVUEvQjBWSmlySTVicGhuc00zWGV1WG1ZbW83dERhck5SeGZJTjlIRFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.30/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlKdFRodW85d3dWTHd3VVY4QVFGMmdSamFFVEx0YUlhWTZMdEVQN0JLdjBVWm1RUXRmZkk5L3NoaVRYcUR1UHlwcWJyK0VwOXdQSEhtelpYWElWMWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjAxNTEyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzEKU0RkN2thUHdqTE9FRTkzRTJha2k1U29SVmVObGxPczY3OHJScXE5ZUdmL2RoS0twenVFLy95eFVBUjZIdS9iSkFhT2hwaVVxSE9hRG1Kd0hDM2RSQ2c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.31/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNaVXpmV0x5ajFyMXRiRmlVK3dBUnVQTm9adkxLcHpCTmhkOFllUVg4YmszU2lESDJMV0pIWXdZaEdrNkdKc2UrU29UVHI0SEdPZzUwL2lBQm9IYWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTk4MDU4CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzAKRXRPSUxpRjZEMmRaZ3dPNFpDWTdFN0s0Y0hGdThwQmUrSVlzV3ZQMEVHOHVjVUEvQjBWSmlySTVicGhuc00zWGV1WG1ZbW83dERhck5SeGZJTjlIRFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.30/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlKdFRodW85d3dWTHd3VVY4QVFGMmdSamFFVEx0YUlhWTZMdEVQN0JLdjBVWm1RUXRmZkk5L3NoaVRYcUR1UHlwcWJyK0VwOXdQSEhtelpYWElWMWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjAxNTEyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzEKU0RkN2thUHdqTE9FRTkzRTJha2k1U29SVmVObGxPczY3OHJScXE5ZUdmL2RoS0twenVFLy95eFVBUjZIdS9iSkFhT2hwaVVxSE9hRG1Kd0hDM2RSQ2c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.31/Jib.app.tar.gz"
     }
   }
 }
