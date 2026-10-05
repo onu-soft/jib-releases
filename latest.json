@@ -1,15 +1,15 @@
 {
-  "version": "0.1.25",
-  "notes": "\n- **화면 글자 인식을 더 쉽게.** `⌃⇧2` 를 누르면 바로 시작합니다(설정 → 단축키에서 바꿀 수 있습니다). 메뉴 막대 메뉴에도 있고, 클립보드 기록의 스크린샷에서 ⌘K → `글자 인식` 으로 바로 읽을 수도 있습니다. 번역은 일본어·영어는 한국어로, 한국어는 영어로 옮깁니다.\n\n- **화면 글자 인식.** `화면 글자 인식` 을 실행하고 영역을 드래그하면 그 안의 글자(한국어·일본어·영어)를 읽어 바로 복사합니다. 결과 화면에서 ⌘T 로 번역할 수 있습니다. 모두 이 맥 안에서 처리합니다.",
-  "pub_date": "2026-10-05T08:31:33Z",
+  "version": "0.1.26",
+  "notes": "\n- **선택한 것에 바로 동작.** 아무 앱에서나 글을 고르고 `⌃⇧1` 을 누르면 그 글에 할 일이 뜹니다 — 다듬기·맞춤법 교정·공손하게·번역(결과를 보고 ⏎ 로 그 자리에 바꿔 붙이기), 요약, 메일로 보내기, 떠 있는 메모에 덧붙이기, 웹에서 검색, 복사. 다른 말을 치면 고른 글을 바탕으로 AI 에게 물을 수 있습니다. 붙임판은 원래대로 남습니다.\n- **번역할 언어를 고를 수 있습니다.** 설정 › AI 에서 `내 언어` 와 `두 번째 언어` 를 고르면, 고른 글이 내 언어면 두 번째 언어로, 다른 말이면 내 언어로 옮깁니다. 기본은 맥의 언어와 영어입니다. 런처에서 `일본어`·`스페인어` 처럼 치면 그때만 그 말로 옮길 수도 있습니다. 14개 언어를 지원하고, 일본어를 영어로 옮기던 문제도 고쳤습니다(`선택한 글 번역 (AI)`·글자 인식 번역 포함).",
+  "pub_date": "2026-10-05T09:00:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQitmTlRld25jRVA0dGt4STNtaFQ1Q0FTM1ZZN1FSQjZjaVFVNnNuUEJsaXhJTlRISmp2aC9BQSt0R0NaNzhSOTY3M3Q4cmxkWlcwVHdHQ3ViLzNPSXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTg5MDczCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjUKL3RTVjM3TTFCWFJ1NmNFbm1idjZCMEV3ZmRoK0FROUc3Z0FVdFhjM2FVKzJ6aDUxYnF5K0xrTm5jVCs2WjZQMENEU0tzdWJvSzg1VnNCL3d2QTN3RFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.25/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNwd01VdkZ4dTB2Zi84d0E4ZGphVlY2TjhyTG9qTmNuNmV6RU5pM2lwaDFudGptTW40a1dKUXU3UDhMNkhQbkRWbHM4Yk5VWndFM3dnL3hnaVRnQ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkwNzg2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjYKY0xITXpiN05pQW5zUGlGYTVaU01QWC81d1hkclpWQXFpTW1rWWRKN2djd1hScThOeHd2YURzbWdyTVVTT21jK2htcGZEMmFOTEZsY2dYSnkva3lvQ2c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.26/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQitmTlRld25jRVA0dGt4STNtaFQ1Q0FTM1ZZN1FSQjZjaVFVNnNuUEJsaXhJTlRISmp2aC9BQSt0R0NaNzhSOTY3M3Q4cmxkWlcwVHdHQ3ViLzNPSXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTg5MDczCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjUKL3RTVjM3TTFCWFJ1NmNFbm1idjZCMEV3ZmRoK0FROUc3Z0FVdFhjM2FVKzJ6aDUxYnF5K0xrTm5jVCs2WjZQMENEU0tzdWJvSzg1VnNCL3d2QTN3RFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.25/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNwd01VdkZ4dTB2Zi84d0E4ZGphVlY2TjhyTG9qTmNuNmV6RU5pM2lwaDFudGptTW40a1dKUXU3UDhMNkhQbkRWbHM4Yk5VWndFM3dnL3hnaVRnQ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkwNzg2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjYKY0xITXpiN05pQW5zUGlGYTVaU01QWC81d1hkclpWQXFpTW1rWWRKN2djd1hScThOeHd2YURzbWdyTVVTT21jK2htcGZEMmFOTEZsY2dYSnkva3lvQ2c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.26/Jib.app.tar.gz"
     }
   }
 }
