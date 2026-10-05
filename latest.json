@@ -1,15 +1,15 @@
 {
-  "version": "0.1.19",
-  "notes": "\n- **안 읽은 메일.** `안 읽은 메일` 을 고르면 Mail 의 안 읽은 메일이 최근 순으로 나오고, ⏎ 로 그 메일을 엽니다. 처음 한 번은 Mail 이 답하는 데 10초쯤 걸리고, 그 뒤로는 곧바로 보입니다.\n- **AI 로 메일 초안 쓰기.** `메일 내일 회의 30분 미루자고 김 부장님께` 처럼 치면 AI 가 제목과 본문을 써서 Mail 작성 창을 엽니다. 보내기는 직접 누릅니다.\n\n- **런처를 열면 다음 일정이 보입니다.** 검색 칸 아래에 다음 일정과 남은 시간이 나오고, 10분 안이면 강조됩니다. 화상 회의면 `참가` 를 눌러 바로 들어갑니다. 설정 → 일반에서 끌 수 있습니다.",
-  "pub_date": "2026-10-05T04:00:10Z",
+  "version": "0.1.20",
+  "notes": "\n- **런처를 열면 안 읽은 메일이 바로 보입니다.** 일정 아래에 안 읽은 개수와 가장 최근 메일이 나오고, 누르면 목록으로 갑니다. 메일을 한 번 열어 Mail 접근을 허용한 뒤부터 보이며, 설정 → 일반에서 끌 수 있습니다.\n- 검색 칸 안내 문구를 `창 제목이나 앱 이름 검색` 처럼 맥의 말투로 다듬었습니다.",
+  "pub_date": "2026-10-05T04:17:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpiZDY0TXhxVW1sV0NmLytVWEN6RXJjZW1McnE4WGxqczRMdWJhc2xJT3VnM3pCemVaZFkzQ3A5L3Q1MnVkMW56cVRtMTFkbmF6VVBVQ3lncDZNeWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTcyNzgzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTkKRXd6a3BrS2NzdVFmSitDTFlpNWpoV2M3Z3NVdUJ6MnVjWUJUWTRsQTcvS3VqWGk3NS81dXh2bENqR1hBOTFPV2I4T2dBUGxNWkhqaVZtYmVHdDc5QUE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.19/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdJdTdzc0xnUWJQNUx3eWVZOWlENEpnOXZOQlZaMEZSaC9SbEhBaFdieit5dlpPdENjSnhDTTJHaXp5NnkxZTJvbkpuNks3WjJyaGVxc0lDdVFtRHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTczODExCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjAKdHpyV3FqN2ppRFl1eTJ0ZnV5Wm9vY2J3ang3OTNuMWdQdVZIWWVTYzB4Q1hhdDNqenJkUE8rdFlGTUpMRGFtOHRqZWE4dWRJcXFVV2dGRVo4bWRvRHc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.20/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpiZDY0TXhxVW1sV0NmLytVWEN6RXJjZW1McnE4WGxqczRMdWJhc2xJT3VnM3pCemVaZFkzQ3A5L3Q1MnVkMW56cVRtMTFkbmF6VVBVQ3lncDZNeWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTcyNzgzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTkKRXd6a3BrS2NzdVFmSitDTFlpNWpoV2M3Z3NVdUJ6MnVjWUJUWTRsQTcvS3VqWGk3NS81dXh2bENqR1hBOTFPV2I4T2dBUGxNWkhqaVZtYmVHdDc5QUE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.19/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdJdTdzc0xnUWJQNUx3eWVZOWlENEpnOXZOQlZaMEZSaC9SbEhBaFdieit5dlpPdENjSnhDTTJHaXp5NnkxZTJvbkpuNks3WjJyaGVxc0lDdVFtRHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTczODExCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjAKdHpyV3FqN2ppRFl1eTJ0ZnV5Wm9vY2J3ang3OTNuMWdQdVZIWWVTYzB4Q1hhdDNqenJkUE8rdFlGTUpMRGFtOHRqZWE4dWRJcXFVV2dGRVo4bWRvRHc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.20/Jib.app.tar.gz"
     }
   }
 }
