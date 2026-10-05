@@ -1,19 +1,19 @@
 {
-  "version": "0.1.35",
-  "notes": "\n- **Windows 지원(첫 판).** 런처·앱 찾기·아이콘·클립보드 붙여넣기·창 관리·로그인 시 열기를 Windows 에서도 씁니다. 맥에만 있는 기능(일정·메일·글자 인식 등)은 Windows 목록에 나오지 않습니다.\n\n- **브라우저 탭·북마크 검색.** 런처에 `탭 메일` 처럼 치면 Safari·Chrome 에 열린 탭을 찾아 ⏎ 로 그 탭으로 갑니다(처음 한 번 자동화 허용). `북마크 은행` 처럼 치면 북마크를 찾아 엽니다. Safari 북마크는 전체 디스크 접근을 허용하면 함께 찾습니다.",
-  "pub_date": "2026-10-05T13:15:53Z",
+  "version": "0.1.36",
+  "notes": "\n- **번역 결과에 원문도 함께.** 번역문 아래에 원문이 보여 견주어 볼 수 있습니다. 복사(⏎)는 번역문만 합니다.\n- **설정 › AI 새 디자인.** AI 모델 · 번역 · 기록 세 구역으로 정리하고, 사용할 AI 를 타일로 고릅니다. API 키 칸은 저장되면 `변경 · 삭제` 만 보이고, DeepL 이번 달 사용량을 막대로 봅니다. 저장 안내도 차분하게 바꿨습니다.\n- **문구 정리.** 설정과 런처의 말을 macOS 가 쓰는 표현으로 맞췄습니다(예: 고른 글 → 선택한 텍스트, 받기 → 다운로드).\n- **Windows.** 창 전환 · 다음 화면으로 · 이전 크기로, 텍스트 인식 · 화면에서 색상 선택 · 파일 검색, 선택한 텍스트 다듬기·번역, 창 배치 저장·복원을 Windows 에서도 씁니다.\n- **DeepL 번역 · 번역 기록.** 설정 › AI 에 DeepL API 키를 넣으면 번역은 DeepL 이 먼저 하고, 키가 없거나 사용 한도를 다 쓰면 설정한 AI(Ollama·Apple 내장 등)가 저절로 이어 번역합니다. 결과에 **DeepL 번역 / 로컬 AI 번역** 중 누가 했는지 표시됩니다. 번역은 기록에 남아 런처의 `번역 기록` 에서 다시 보고, ⌘K 로 한 줄씩 또는 모두 지울 수 있습니다(AI 대화 기록도 같음). 설정에서 이번 달 DeepL 사용량도 봅니다.\n- **사전 찾기.** 런처에 `뜻 사과` · `사과 뜻` · `사전 apple` · `define serendipity` 처럼 치면 맥의 사전(국어·영한 등 사전 앱에 켜 둔 것)에서 뜻을 찾아 맨 위에 보입니다. ⏎ 로 뜻 전체를 보고 다시 ⏎ 로 복사, ⌘K 로 사전 앱에서 엽니다. 이 기기 안의 사전이라 서버로 나가지 않습니다(맥 전용).\n\n- **집중 타이머.** 런처에 `타이머 10분` · `라면 3분 타이머` · `집중`(25분) · `휴식`(5분)을 치고 ⏎. 남은 시간이 메뉴 막대 아이콘 옆과 런처 맨 위 띠에 보이고, 끝나면 알림과 소리로 알립니다. `타이머` 를 치면 돌고 있는 타이머가 나오고 ⏎ 로 멈춥니다. 앱을 다시 켜도 이어집니다.\n\n- **AI 대화 기록 · 이어 묻기.** AI 에게 답을 받은 뒤 다음 질문을 치면 앞 대화에 이어서 묻습니다(⌘N 은 새 대화). 런처에서 `AI 대화 기록` 으로 지난 대화를 찾아 다시 열고 이어 물을 수 있고, ⌘K 로 답 복사·대화 지우기를 합니다. 기록은 이 기기 안에만 남고, 설정 › AI 에서 끄거나 보관 개수를 정하고 모두 지울 수 있습니다.\n\n- **한국 단위 변환.** `3근` → 1.8kg(채소·과일 근 375g 도 함께), `5돈` · `1냥` · `2관`, `1되` · `1말` · `5홉` 을 단위만 쳐도 바꿉니다. `화씨 100` · `100℉` → 37.8°C, `섭씨 30` · `30℃` → 86°F. 자·치·리와 L·mL·gal 은 `1 m to 자` 처럼 바꿀 곳을 붙이면 됩니다.\n\n- **Finder 파일 동작.** Finder 에서 파일을 선택하고 ⌃⇧1 을 누르면 압축 · 사진 크기 줄이기 · JPG 로 바꾸기 · PDF 합치기 · 이름 한꺼번에 바꾸기(`여행_{n}`) · 경로 복사 · AI 요약을 바로 합니다. 원본은 그대로 두고 결과는 같은 폴더에 새 파일로 만듭니다(처음 한 번 Finder 제어 허용).",
+  "pub_date": "2026-10-05T16:08:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlKUzQ3NzRjbDczTXRVcDBhdnVibXpFdXdKNzJKd2hzTmh0UXhhRFB2Nk1kNklOZ21meCs1bk1aTG1WaWFJNC9OT0VKditHYUNodWVrY29Eemd4MEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjA2MTMxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzUKQTZuVzhBUEpWYnRYRmR5NUJ5NDB5N1p3bG9sWUQ2TG5pMC9STVlJTERrSU42QkVnbVI2S3lLa3dBMlIxTFRxQXMvaDNOcmFzdkFKQWUwNys5bEdKRFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.35/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjVHZXpFdkoydkMydHE5UFZBRU1WMGorbW5mdWwwY0ZiNVpsZ1BEUDJPaVo3MlFBVXhHU1N1RXJPRG15TGQ0ZGx1MSt0SVhwdjVBNVZENXE5NDdYbkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE2NDc3CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzYKTjlIMUZWczlsTXlvamFBWVYwZ3dvR1hWcUtqSGRPTWZtOFZGRnQyQjkvMXZici9FeWc1SVRmOTFnT0hFenZpKzdkRHRyZm5RcFJMUXd6SEZBZFluQ1E9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.36/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlKUzQ3NzRjbDczTXRVcDBhdnVibXpFdXdKNzJKd2hzTmh0UXhhRFB2Nk1kNklOZ21meCs1bk1aTG1WaWFJNC9OT0VKditHYUNodWVrY29Eemd4MEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjA2MTMxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzUKQTZuVzhBUEpWYnRYRmR5NUJ5NDB5N1p3bG9sWUQ2TG5pMC9STVlJTERrSU42QkVnbVI2S3lLa3dBMlIxTFRxQXMvaDNOcmFzdkFKQWUwNys5bEdKRFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.35/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjVHZXpFdkoydkMydHE5UFZBRU1WMGorbW5mdWwwY0ZiNVpsZ1BEUDJPaVo3MlFBVXhHU1N1RXJPRG15TGQ0ZGx1MSt0SVhwdjVBNVZENXE5NDdYbkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE2NDc3CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzYKTjlIMUZWczlsTXlvamFBWVYwZ3dvR1hWcUtqSGRPTWZtOFZGRnQyQjkvMXZici9FeWc1SVRmOTFnT0hFenZpKzdkRHRyZm5RcFJMUXd6SEZBZFluQ1E9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.36/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi9sREw2SGJuRnNrQTk0Yy9HRjU5MW1DOHdtY3BMeklyQmJ3dFZNelFKRko5M21zN0NmVGdoMmZWVFVoZzRKb0JFdnUzY3JZOFZGOXVYUkhPaFJQcHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjA2MzkyCWZpbGU6SmliXzAuMS4zNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM1CjZSTEVzY1FFRXJWb1VLK21IUHFtQ2xlY3dJL0xzUHVoc0tFTjZnbmlvalR1YUpyZkJ1alBISWtTMWtHVndJU3NWQmViRWZhdzllNDBnSjFJZngva0JRPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.35/Jib_0.1.35_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZtV1lKQ1dSaGJxR3FMb2NnN2RzeVRCUEpDMWkxc202QW1MdTFLL1RZZzZuTkdhTHpSb1lISFd4c1pLTFlVNUY5VmlJU1NvcXN5dlhrRzV6NkJvYndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE3MDE2CWZpbGU6SmliXzAuMS4zNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM2ClZJTUxHZXk1UWU4TGxqdzZ3N1ZZeENnbmY0eFpLdWozcEJPWjJpaGVlbDQwOC9tQWNQTG5aMmZnL2EwV3oxb0Nyc3dKQ1JDalhSa1ppaE9LNlZHaUJnPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.36/Jib_0.1.36_x64-setup.exe"
     }
   }
 }
