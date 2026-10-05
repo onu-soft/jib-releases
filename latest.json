@@ -1,15 +1,15 @@
 {
-  "version": "0.1.27",
-  "notes": "\n- **주식 시세.** 런처에 `주가 삼성전자`, `주가 애플`, `$TSLA` 처럼 치면 현재가와 등락을 바로 보여 줍니다(국내·해외·지수). ⏎ 로 종목 페이지를 열고, ⌥⏎ 로 시세를 복사합니다. ⌘K → `관심 종목에 추가` 를 하면 `주식 시세` 명령으로 한 번에 볼 수 있습니다. 한글 자판인 채로 친 티커도 알아듣습니다. 시세는 네이버 증권·야후 파이낸스에서 받고, `주가`·`$` 를 붙였을 때만 묻습니다.",
-  "pub_date": "2026-10-05T09:20:38Z",
+  "version": "0.1.28",
+  "notes": "\n- **택배 조회.** 런처에 `택배 1234567890` 처럼 치면 어느 택배사인지 몰라도 찾아서 지금 상태와 마지막 위치를 보여 줍니다. ⏎ 로 지나온 단계를 모두 보고, ⌥⏎ 로 번호를 복사합니다. `택배 우체국 …` 처럼 택배사를 붙이면 더 빠릅니다. CJ대한통운·우체국·한진·롯데·로젠·쿠팡·편의점 택배 등 14곳을 지원합니다.",
+  "pub_date": "2026-10-05T09:42:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnd6UDlUNWo2Uy9OT3FBbDlVMnFYSzZYMENJQU45Yk03U0svNHJIMDdGdVZIa1p1Uktza2VmazNGOUNFa3g4Z1k2cy94NXNHWWMxbTRQVFBpajVhUGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkyMDEyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjcKWXdGZGxtVHpWOUVKSG1PRzBEQnZSZmVoSG5EY0xMdWR1VEdwcnBDR3pCSHRJbUxqTlZCWkc3UENhYUZEZkcvWkw0TGVtRUFKVGRCQXd1NnJ5TldDQUE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.27/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNtWC9yR3pJQUYxVDVpV0VhSU9uOEYrRG5KWkFDMXBzUUVzZmxXWE85Y3BwSkJ0STB6ZzNFS2xxalNPR0Z5bVZhYjk2RG1uYlBQLzFGQTRWTEw3amc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkzMzExCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjgKbzcvaVFLVUJpRys2SG9VbWhta21LRXo3L3NZbk41YWFIUElVaGg5amdrMzBOMm02eVZhZmorbWJ4WVdIdGFaSTFXNkZYWDlBVFozai9DSmZKVGdtRHc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.28/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnd6UDlUNWo2Uy9OT3FBbDlVMnFYSzZYMENJQU45Yk03U0svNHJIMDdGdVZIa1p1Uktza2VmazNGOUNFa3g4Z1k2cy94NXNHWWMxbTRQVFBpajVhUGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkyMDEyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjcKWXdGZGxtVHpWOUVKSG1PRzBEQnZSZmVoSG5EY0xMdWR1VEdwcnBDR3pCSHRJbUxqTlZCWkc3UENhYUZEZkcvWkw0TGVtRUFKVGRCQXd1NnJ5TldDQUE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.27/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNtWC9yR3pJQUYxVDVpV0VhSU9uOEYrRG5KWkFDMXBzUUVzZmxXWE85Y3BwSkJ0STB6ZzNFS2xxalNPR0Z5bVZhYjk2RG1uYlBQLzFGQTRWTEw3amc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkzMzExCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjgKbzcvaVFLVUJpRys2SG9VbWhta21LRXo3L3NZbk41YWFIUElVaGg5amdrMzBOMm02eVZhZmorbWJ4WVdIdGFaSTFXNkZYWDlBVFozai9DSmZKVGdtRHc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.28/Jib.app.tar.gz"
     }
   }
 }
