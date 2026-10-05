@@ -1,15 +1,15 @@
 {
-  "version": "0.1.23",
-  "notes": "\n- **메일 초안을 쓰는 동안 진행이 보입니다.** 런처에 \"AI 가 메일 초안을 쓰는 중… 12초\" 와 쓰는 모델이 보이고, 끝나면 Mail 작성 창이 열립니다. 오래 걸리면 빨라지는 방법을 알려 줍니다. 쓰는 중에 다시 눌러도 초안이 두 개 생기지 않습니다.",
-  "pub_date": "2026-10-05T05:04:23Z",
+  "version": "0.1.24",
+  "notes": "\n- **메일 초안에 받는 사람까지 채웁니다.** `메일 kim@회사.com …` 처럼 주소를 쓰면 그대로, `김 부장님께` 처럼 이름을 쓰면 연락처와 최근 메일 상대에서 찾아 채웁니다. 여러 명이면 고를 수 있고, 연락처 접근을 허용하지 않았으면 예전처럼 받는 사람을 비워 둡니다.",
+  "pub_date": "2026-10-05T05:37:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJnUWs3ZTBiV2FZUnVTU0I1M3l4czY5aVVpQlFWaE1wd3dRSHJxeVZmdFhPeHFBN0luOEtzR0JFUDBQcnBoK1dDZFg1MGd4emZKMmFLWmNjVEU4VUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTc2NjMxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjMKa0V1eFhybjh2cmkyQjJUU1pKdU9FSXNXb3c1Rkt3QS9JaW5xdkhiSGxFdEVSeVZqNmVYQnpPOVJXdUFaU2M5blJycWNQaXVmR0lnU1ExYkc4ejlFQkE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.23/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjY2RDFkci93eUhGbUtlZW5aQ2FuR0tmWmNTaDVRV1QvZXRjMkV5STJHc05MWlM0SmlHdlNXZW40RHBBUTNPVjRZL1dmNm0vQlVGQytva1VTaTd6NGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTc4NjUxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjQKUEg4My93Tk1MZWtnS2lvUjhraDJIcVRIaTVrb3d1MDFRT1lHNHVSWHJDTTZBbEdxcnZBOEx6dWc5R3FON0RlVGhYUHFWNStCdXBSdEhaTy9Ya3FQRGc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.24/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJnUWs3ZTBiV2FZUnVTU0I1M3l4czY5aVVpQlFWaE1wd3dRSHJxeVZmdFhPeHFBN0luOEtzR0JFUDBQcnBoK1dDZFg1MGd4emZKMmFLWmNjVEU4VUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTc2NjMxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjMKa0V1eFhybjh2cmkyQjJUU1pKdU9FSXNXb3c1Rkt3QS9JaW5xdkhiSGxFdEVSeVZqNmVYQnpPOVJXdUFaU2M5blJycWNQaXVmR0lnU1ExYkc4ejlFQkE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.23/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjY2RDFkci93eUhGbUtlZW5aQ2FuR0tmWmNTaDVRV1QvZXRjMkV5STJHc05MWlM0SmlHdlNXZW40RHBBUTNPVjRZL1dmNm0vQlVGQytva1VTaTd6NGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTc4NjUxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjQKUEg4My93Tk1MZWtnS2lvUjhraDJIcVRIaTVrb3d1MDFRT1lHNHVSWHJDTTZBbEdxcnZBOEx6dWc5R3FON0RlVGhYUHFWNStCdXBSdEhaTy9Ya3FQRGc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.24/Jib.app.tar.gz"
     }
   }
 }
