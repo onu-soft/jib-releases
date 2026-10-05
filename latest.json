@@ -1,15 +1,15 @@
 {
-  "version": "0.1.28",
-  "notes": "\n- **택배 조회.** 런처에 `택배 1234567890` 처럼 치면 어느 택배사인지 몰라도 찾아서 지금 상태와 마지막 위치를 보여 줍니다. ⏎ 로 지나온 단계를 모두 보고, ⌥⏎ 로 번호를 복사합니다. `택배 우체국 …` 처럼 택배사를 붙이면 더 빠릅니다. CJ대한통운·우체국·한진·롯데·로젠·쿠팡·편의점 택배 등 14곳을 지원합니다.",
-  "pub_date": "2026-10-05T09:42:12Z",
+  "version": "0.1.29",
+  "notes": "\n- **일상어로도 앱을 찾습니다.** `달력`(캘린더), `메모장`(텍스트 편집기), `작업 관리자`(활성 상태 보기), `탐색기`(Finder), `제어판`(시스템 설정) 등. 앱 이름과 똑같이 친 말이면 이모티콘보다 앱이 먼저 나옵니다.\n\n- **일정·할 일 빠르게 추가.** 런처에 `일정` 만 치거나 `일정 추가` 명령을 고르면 입력 화면이 열립니다 — 제목만 치고 날짜·시각(시·분)·길이·**캘린더 계정**은 칩을 눌러(또는 Tab·←→ 로) 고릅니다. 마지막에 고른 캘린더를 기억합니다. 익숙해지면 `일정 내일 오후 3시 김 부장 회의`, `할 일 금요일까지 보고서` 처럼 한 줄로 쳐도 됩니다 — 이렇게 치면 어떻게 알아들었는지(날짜·시각·제목) 먼저 보여 주고 ⏎ 로 캘린더·미리 알림에 넣습니다. `다음 주 수요일`, `3일 후`, `10월 9일`, `3시~5시`, `2시간` 같은 말을 알아듣고, 오전·오후를 안 붙인 `3시` 는 오후로 읽습니다.",
+  "pub_date": "2026-10-05T10:44:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNtWC9yR3pJQUYxVDVpV0VhSU9uOEYrRG5KWkFDMXBzUUVzZmxXWE85Y3BwSkJ0STB6ZzNFS2xxalNPR0Z5bVZhYjk2RG1uYlBQLzFGQTRWTEw3amc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkzMzExCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjgKbzcvaVFLVUJpRys2SG9VbWhta21LRXo3L3NZbk41YWFIUElVaGg5amdrMzBOMm02eVZhZmorbWJ4WVdIdGFaSTFXNkZYWDlBVFozai9DSmZKVGdtRHc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.28/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnprNmdXZmhNTEV2M1VFd2RyaHJiUXRtR29LZTFFMmY4RWlmZHlEUlFVTlRKWWF1SDI4K2RvVjR3RVZNQkQ4b2lOY2hVT0xkaUlNWFZlT0o5dDM1VndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTk3MDU0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjkKbGU3NXBOVkF3VmFJL0Z1NThncjlha1JmMlZham8zS2cyY1FkWng2WHZHSmlKdXdPTHdkWWZid0tzRFl3eWsvZUY5anlGOGFNc1dob2pySjJ5dDk2QWc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.29/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNtWC9yR3pJQUYxVDVpV0VhSU9uOEYrRG5KWkFDMXBzUUVzZmxXWE85Y3BwSkJ0STB6ZzNFS2xxalNPR0Z5bVZhYjk2RG1uYlBQLzFGQTRWTEw3amc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkzMzExCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjgKbzcvaVFLVUJpRys2SG9VbWhta21LRXo3L3NZbk41YWFIUElVaGg5amdrMzBOMm02eVZhZmorbWJ4WVdIdGFaSTFXNkZYWDlBVFozai9DSmZKVGdtRHc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.28/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnprNmdXZmhNTEV2M1VFd2RyaHJiUXRtR29LZTFFMmY4RWlmZHlEUlFVTlRKWWF1SDI4K2RvVjR3RVZNQkQ4b2lOY2hVT0xkaUlNWFZlT0o5dDM1VndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTk3MDU0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjkKbGU3NXBOVkF3VmFJL0Z1NThncjlha1JmMlZham8zS2cyY1FkWng2WHZHSmlKdXdPTHdkWWZid0tzRFl3eWsvZUY5anlGOGFNc1dob2pySjJ5dDk2QWc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.29/Jib.app.tar.gz"
     }
   }
 }
