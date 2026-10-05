@@ -1,15 +1,15 @@
 {
-  "version": "0.1.18",
-  "notes": "\n- **앞 앱의 메뉴를 런처에서 찾습니다.** 쓰던 앱의 메뉴 막대 항목이 `메뉴 항목` 으로 나오고, ⏎ 를 누르면 그 메뉴를 실행합니다. 초성으로도 찾고, 단축키도 함께 보입니다.\n- **창 전환.** 런처에서 `창 전환` 을 고르면 열린 창이 앱별로 모두 나오고, 창 제목이나 앱 이름으로 거른 뒤 ⏎ 로 그 창을 앞으로 가져옵니다.\n- **환율을 계산합니다.** `100달러` · `5만엔 달러로` · `100 usd to jpy` · `엔 환율` 처럼 치면 유럽중앙은행 기준율로 바꿔 보여 주고, ⏎ 로 복사합니다. 설정 → 검색에서 끌 수 있습니다.\n- **AI.** 런처에서 질문을 치고 `AI 에게 묻기` 를 고르면 답을 보여 줍니다. 글을 고른 뒤 `선택한 글 다듬기 · 맞춤법 교정 · 공손하게 · 번역 (AI)` 을 실행하면 고친 글로 바꿔 붙입니다.\n  기본은 맥에 들어 있는 Apple 내장 모델이라 무료이고 글이 맥 밖으로 나가지 않습니다. 설정 → AI 에서 Ollama 나 Claude · OpenAI · Gemini API 키로 바꿀 수 있습니다.\n- **오늘 일정.** `오늘 일정` 을 고르면 오늘 남은 일정과 지난 일정이 나오고, 화상 회의 주소가 있으면 ⏎ 로 바로 참가합니다.\n- **떠 있는 메모.** 늘 위에 떠 있는 메모 한 장입니다. 적는 즉시 저장되고 ⌘W 로 닫습니다.\n- **화면에서 색 고르기.** 스포이드로 화면의 색을 집으면 `#RRGGBB` 를 복사합니다.\n- **잠자기 방지.** 켜 두면 맥이 잠들지 않습니다. 켜져 있는 동안 메뉴 막대 메뉴와 런처 아래 줄에 표시됩니다.\n- **클립보드 기록 · 창 전환 · AI · 오늘 일정 · 메모 · 색 고르기 · 잠자기 방지에 단축키를 답니다.** 설정 → 단축키에서 달 수 있습니다.",
-  "pub_date": "2026-10-05T03:27:12Z",
+  "version": "0.1.19",
+  "notes": "\n- **안 읽은 메일.** `안 읽은 메일` 을 고르면 Mail 의 안 읽은 메일이 최근 순으로 나오고, ⏎ 로 그 메일을 엽니다. 처음 한 번은 Mail 이 답하는 데 10초쯤 걸리고, 그 뒤로는 곧바로 보입니다.\n- **AI 로 메일 초안 쓰기.** `메일 내일 회의 30분 미루자고 김 부장님께` 처럼 치면 AI 가 제목과 본문을 써서 Mail 작성 창을 엽니다. 보내기는 직접 누릅니다.\n\n- **런처를 열면 다음 일정이 보입니다.** 검색 칸 아래에 다음 일정과 남은 시간이 나오고, 10분 안이면 강조됩니다. 화상 회의면 `참가` 를 눌러 바로 들어갑니다. 설정 → 일반에서 끌 수 있습니다.",
+  "pub_date": "2026-10-05T04:00:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjB5SzlRRmpVdG5lR0FpWk11Snl4L0I4dDVvZi9kdGhpUUpidTJXMUNTQUFIUEdNYUxHREh1aCszVnFIU1ZoN2xKUFBJcjBBRERlOU91VXNnYUoxa3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTcwODExCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTgKWitVbDQwOUJYYmVEdmFBejliT1lXTXFPdkxBTG0rK2Z3eklZRzB3RWN4bWNaNlJXTFI5UzUyRnVxQ0o3WER1M2JFWksvVkM0cExzL09WM1JEUTdaQXc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.18/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpiZDY0TXhxVW1sV0NmLytVWEN6RXJjZW1McnE4WGxqczRMdWJhc2xJT3VnM3pCemVaZFkzQ3A5L3Q1MnVkMW56cVRtMTFkbmF6VVBVQ3lncDZNeWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTcyNzgzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTkKRXd6a3BrS2NzdVFmSitDTFlpNWpoV2M3Z3NVdUJ6MnVjWUJUWTRsQTcvS3VqWGk3NS81dXh2bENqR1hBOTFPV2I4T2dBUGxNWkhqaVZtYmVHdDc5QUE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.19/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjB5SzlRRmpVdG5lR0FpWk11Snl4L0I4dDVvZi9kdGhpUUpidTJXMUNTQUFIUEdNYUxHREh1aCszVnFIU1ZoN2xKUFBJcjBBRERlOU91VXNnYUoxa3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTcwODExCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTgKWitVbDQwOUJYYmVEdmFBejliT1lXTXFPdkxBTG0rK2Z3eklZRzB3RWN4bWNaNlJXTFI5UzUyRnVxQ0o3WER1M2JFWksvVkM0cExzL09WM1JEUTdaQXc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.18/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpiZDY0TXhxVW1sV0NmLytVWEN6RXJjZW1McnE4WGxqczRMdWJhc2xJT3VnM3pCemVaZFkzQ3A5L3Q1MnVkMW56cVRtMTFkbmF6VVBVQ3lncDZNeWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTcyNzgzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTkKRXd6a3BrS2NzdVFmSitDTFlpNWpoV2M3Z3NVdUJ6MnVjWUJUWTRsQTcvS3VqWGk3NS81dXh2bENqR1hBOTFPV2I4T2dBUGxNWkhqaVZtYmVHdDc5QUE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.19/Jib.app.tar.gz"
     }
   }
 }
