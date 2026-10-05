@@ -1,15 +1,15 @@
 {
-  "version": "0.1.17",
-  "notes": "\n- **설정 → 단축키를 새로 그렸습니다.** 앱 아이콘과 이름이 크게 보이고, 단축키는 키 하나씩 키캡으로 보입니다.\n- **키캡을 누르면 그 자리에서 조합을 바꿉니다.** 지웠다 다시 달 필요가 없습니다. 새 조합이 거절되면 원래 단축키가 그대로 남습니다.\n- Jib 을 켜자마자 설정을 열면 단축키 목록의 앱이 모두 `설치되지 않은 앱` 으로 보이던 것을 고쳤습니다.",
-  "pub_date": "2026-10-05T01:59:55Z",
+  "version": "0.1.18",
+  "notes": "\n- **앞 앱의 메뉴를 런처에서 찾습니다.** 쓰던 앱의 메뉴 막대 항목이 `메뉴 항목` 으로 나오고, ⏎ 를 누르면 그 메뉴를 실행합니다. 초성으로도 찾고, 단축키도 함께 보입니다.\n- **창 전환.** 런처에서 `창 전환` 을 고르면 열린 창이 앱별로 모두 나오고, 창 제목이나 앱 이름으로 거른 뒤 ⏎ 로 그 창을 앞으로 가져옵니다.\n- **환율을 계산합니다.** `100달러` · `5만엔 달러로` · `100 usd to jpy` · `엔 환율` 처럼 치면 유럽중앙은행 기준율로 바꿔 보여 주고, ⏎ 로 복사합니다. 설정 → 검색에서 끌 수 있습니다.\n- **AI.** 런처에서 질문을 치고 `AI 에게 묻기` 를 고르면 답을 보여 줍니다. 글을 고른 뒤 `선택한 글 다듬기 · 맞춤법 교정 · 공손하게 · 번역 (AI)` 을 실행하면 고친 글로 바꿔 붙입니다.\n  기본은 맥에 들어 있는 Apple 내장 모델이라 무료이고 글이 맥 밖으로 나가지 않습니다. 설정 → AI 에서 Ollama 나 Claude · OpenAI · Gemini API 키로 바꿀 수 있습니다.\n- **오늘 일정.** `오늘 일정` 을 고르면 오늘 남은 일정과 지난 일정이 나오고, 화상 회의 주소가 있으면 ⏎ 로 바로 참가합니다.\n- **떠 있는 메모.** 늘 위에 떠 있는 메모 한 장입니다. 적는 즉시 저장되고 ⌘W 로 닫습니다.\n- **화면에서 색 고르기.** 스포이드로 화면의 색을 집으면 `#RRGGBB` 를 복사합니다.\n- **잠자기 방지.** 켜 두면 맥이 잠들지 않습니다. 켜져 있는 동안 메뉴 막대 메뉴와 런처 아래 줄에 표시됩니다.\n- **클립보드 기록 · 창 전환 · AI · 오늘 일정 · 메모 · 색 고르기 · 잠자기 방지에 단축키를 답니다.** 설정 → 단축키에서 달 수 있습니다.",
+  "pub_date": "2026-10-05T03:27:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRHUW9zYVFvOXNNOUtDWXllajI1WHFNZnJTV1d2UTBnbHlCdVZya0VwMDE4OVRjSndTcVJTNzJ1aHdrTitQR20yZEZvd2dBYkpsNkkycmVTendJOXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTY1NTY4CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTcKUlpCV2YxenF1Yk0ydnJuUTJ5ZWl5dzB1ajFaeXpxMmlLZWVNZzlXRlpSU0Q3eDl2RDQyWlRJWmEyd3YrcW1GR2V2Z1BMMlRvTVRhemRqSGNjbklFQkE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.17/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjB5SzlRRmpVdG5lR0FpWk11Snl4L0I4dDVvZi9kdGhpUUpidTJXMUNTQUFIUEdNYUxHREh1aCszVnFIU1ZoN2xKUFBJcjBBRERlOU91VXNnYUoxa3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTcwODExCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTgKWitVbDQwOUJYYmVEdmFBejliT1lXTXFPdkxBTG0rK2Z3eklZRzB3RWN4bWNaNlJXTFI5UzUyRnVxQ0o3WER1M2JFWksvVkM0cExzL09WM1JEUTdaQXc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.18/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRHUW9zYVFvOXNNOUtDWXllajI1WHFNZnJTV1d2UTBnbHlCdVZya0VwMDE4OVRjSndTcVJTNzJ1aHdrTitQR20yZEZvd2dBYkpsNkkycmVTendJOXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTY1NTY4CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTcKUlpCV2YxenF1Yk0ydnJuUTJ5ZWl5dzB1ajFaeXpxMmlLZWVNZzlXRlpSU0Q3eDl2RDQyWlRJWmEyd3YrcW1GR2V2Z1BMMlRvTVRhemRqSGNjbklFQkE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.17/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjB5SzlRRmpVdG5lR0FpWk11Snl4L0I4dDVvZi9kdGhpUUpidTJXMUNTQUFIUEdNYUxHREh1aCszVnFIU1ZoN2xKUFBJcjBBRERlOU91VXNnYUoxa3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTcwODExCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTgKWitVbDQwOUJYYmVEdmFBejliT1lXTXFPdkxBTG0rK2Z3eklZRzB3RWN4bWNaNlJXTFI5UzUyRnVxQ0o3WER1M2JFWksvVkM0cExzL09WM1JEUTdaQXc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.18/Jib.app.tar.gz"
     }
   }
 }
