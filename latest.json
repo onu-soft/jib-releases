@@ -1,15 +1,19 @@
 {
-  "version": "0.1.34",
-  "notes": "\n- **하이퍼 키.** 설정 › 단축키에서 켜면 Caps Lock 을 누른 채 치는 키가 ⌃⌥⇧⌘ 를 함께 누른 것(✦)이 됩니다. 다른 앱과 겹치지 않는 단축키(예: ✦T 로 터미널)를 달 수 있고, Caps Lock 만 톡 누르면 Esc 가 됩니다. Jib 을 끝내면 Caps Lock 은 원래대로 돌아옵니다.",
-  "pub_date": "2026-10-05T12:55:11Z",
+  "version": "0.1.35",
+  "notes": "\n- **Windows 지원(첫 판).** 런처·앱 찾기·아이콘·클립보드 붙여넣기·창 관리·로그인 시 열기를 Windows 에서도 씁니다. 맥에만 있는 기능(일정·메일·글자 인식 등)은 Windows 목록에 나오지 않습니다.\n\n- **브라우저 탭·북마크 검색.** 런처에 `탭 메일` 처럼 치면 Safari·Chrome 에 열린 탭을 찾아 ⏎ 로 그 탭으로 갑니다(처음 한 번 자동화 허용). `북마크 은행` 처럼 치면 북마크를 찾아 엽니다. Safari 북마크는 전체 디스크 접근을 허용하면 함께 찾습니다.",
+  "pub_date": "2026-10-05T13:15:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQncwUUFibGJjSE9KL2l5SmtkcDRRQ0F6dU9JRVVScmZueHZNRWE2TjcrckliM3huMEFRVjVDM254UmdyUzRXRHAzbVkxWlZwOGlKU0k3V3NvVWtMc3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjA0ODg1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzQKRDc0cHRqcHYxVmZweHh4OWVrLzJWdnZPY2h4UTVjSTRHUHdZL0FEcEMxbENWbHc4S2FJaFUzckV5UFNaQlJGdEF2NFNodEhVdVU4ek5SOXRkVURmQXc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.34/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlKUzQ3NzRjbDczTXRVcDBhdnVibXpFdXdKNzJKd2hzTmh0UXhhRFB2Nk1kNklOZ21meCs1bk1aTG1WaWFJNC9OT0VKditHYUNodWVrY29Eemd4MEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjA2MTMxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzUKQTZuVzhBUEpWYnRYRmR5NUJ5NDB5N1p3bG9sWUQ2TG5pMC9STVlJTERrSU42QkVnbVI2S3lLa3dBMlIxTFRxQXMvaDNOcmFzdkFKQWUwNys5bEdKRFE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.35/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQncwUUFibGJjSE9KL2l5SmtkcDRRQ0F6dU9JRVVScmZueHZNRWE2TjcrckliM3huMEFRVjVDM254UmdyUzRXRHAzbVkxWlZwOGlKU0k3V3NvVWtMc3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjA0ODg1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzQKRDc0cHRqcHYxVmZweHh4OWVrLzJWdnZPY2h4UTVjSTRHUHdZL0FEcEMxbENWbHc4S2FJaFUzckV5UFNaQlJGdEF2NFNodEhVdVU4ek5SOXRkVURmQXc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.34/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlKUzQ3NzRjbDczTXRVcDBhdnVibXpFdXdKNzJKd2hzTmh0UXhhRFB2Nk1kNklOZ21meCs1bk1aTG1WaWFJNC9OT0VKditHYUNodWVrY29Eemd4MEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjA2MTMxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzUKQTZuVzhBUEpWYnRYRmR5NUJ5NDB5N1p3bG9sWUQ2TG5pMC9STVlJTERrSU42QkVnbVI2S3lLa3dBMlIxTFRxQXMvaDNOcmFzdkFKQWUwNys5bEdKRFE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.35/Jib.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi9sREw2SGJuRnNrQTk0Yy9HRjU5MW1DOHdtY3BMeklyQmJ3dFZNelFKRko5M21zN0NmVGdoMmZWVFVoZzRKb0JFdnUzY3JZOFZGOXVYUkhPaFJQcHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjA2MzkyCWZpbGU6SmliXzAuMS4zNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM1CjZSTEVzY1FFRXJWb1VLK21IUHFtQ2xlY3dJL0xzUHVoc0tFTjZnbmlvalR1YUpyZkJ1alBISWtTMWtHVndJU3NWQmViRWZhdzllNDBnSjFJZngva0JRPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.35/Jib_0.1.35_x64-setup.exe"
     }
   }
 }
