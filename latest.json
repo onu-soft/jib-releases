@@ -1,15 +1,15 @@
 {
-  "version": "0.1.32",
-  "notes": "\n- **택배·종목 알림.** 택배를 조회한 뒤 ⌘N(또는 ⌘K → `상태가 바뀌면 알림`)을 누르면 상태가 바뀔 때마다 알림이 옵니다. 시세 줄에서 ⌘K → `알림 설정…` 에 `28만 이상`, `25만 이하`, `5%` 처럼 조건을 적으면 닿을 때 알려 줍니다. `알림 목록` 명령에서 보고 지울 수 있습니다.",
-  "pub_date": "2026-10-05T12:17:31Z",
+  "version": "0.1.33",
+  "notes": "\n- **날씨.** 런처에 `날씨`, `내일 날씨`, `부산 날씨`, `도쿄 날씨` 처럼 치면 지금 기온·하늘·체감 온도와 오늘~모레의 최고·최저·비 올 확률을 보여 줍니다. 런처 위에 오늘 날씨 띠가 보이고(설정 › 일반), 설정 › 검색에서 **현재 위치**를 켜거나 **여러 도시**(예: 서울, 부산, 도쿄)를 등록하면 모두 함께 보여 줍니다. 위치는 날씨를 받는 데만 쓰고 저장하지 않습니다.",
+  "pub_date": "2026-10-05T12:43:23Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZKL29CdTA5K0tlTVFnQlJKdkZwUCtaUzQ0S3NCeXNPRmZ6czQvMVgxNENPeVdsZE1VWWVOWHExR2dOMzA3YjZncy9mNE4xaEtIU2tUMW5aY3dKK1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjAyNjI0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzIKckw0WnBXTkF1c05TNkhLMzBNbWRzanIxZlRwKzhlVktHRFVCa3N0MzdESkFFaDRGaXFnNDVDeEZkYkl6bHRmTGUxZjYwVnhGbTY3Q0o5ZXoyZG5WQnc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.32/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi8vOHorYnJWZjgxNUMzOTVvUmVvWWdzNHR4NG4xaUwvSWRlUFlxNjRQQUJocC9LM3VIUGVSY1c1QlEzdldibE43SXlwRFFrSUFZdHlnRkNvRmtvOFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjA0MTgyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzMKSFFIb3ZXb243SExTQWtTZjRCVVBFUlZYVEk5QWgzUnpBUDFBL05CZlBMOXIvQmZZa2FyRXlpcjZvcC9NVGVLOFgyS21EOGJQdUJhTEFtTG4rQWliQ1E9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.33/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZKL29CdTA5K0tlTVFnQlJKdkZwUCtaUzQ0S3NCeXNPRmZ6czQvMVgxNENPeVdsZE1VWWVOWHExR2dOMzA3YjZncy9mNE4xaEtIU2tUMW5aY3dKK1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjAyNjI0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzIKckw0WnBXTkF1c05TNkhLMzBNbWRzanIxZlRwKzhlVktHRFVCa3N0MzdESkFFaDRGaXFnNDVDeEZkYkl6bHRmTGUxZjYwVnhGbTY3Q0o5ZXoyZG5WQnc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.32/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi8vOHorYnJWZjgxNUMzOTVvUmVvWWdzNHR4NG4xaUwvSWRlUFlxNjRQQUJocC9LM3VIUGVSY1c1QlEzdldibE43SXlwRFFrSUFZdHlnRkNvRmtvOFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjA0MTgyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzMKSFFIb3ZXb243SExTQWtTZjRCVVBFUlZYVEk5QWgzUnpBUDFBL05CZlBMOXIvQmZZa2FyRXlpcjZvcC9NVGVLOFgyS21EOGJQdUJhTEFtTG4rQWliQ1E9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.33/Jib.app.tar.gz"
     }
   }
 }
