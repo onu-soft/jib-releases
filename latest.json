@@ -1,19 +1,19 @@
 {
-  "version": "0.1.38",
-  "notes": "\n- **소리 상태 띠가 바로 따라갑니다.** 런처가 떠 있는 동안에도 출력 장치·음량이 바뀌면(AirPods 자동 전환 등) 띠가 곧바로 맞춰집니다.",
-  "pub_date": "2026-10-05T16:56:13Z",
+  "version": "0.1.40",
+  "notes": "",
+  "pub_date": "2026-10-06T12:05:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdXU1NqSDlQWWJncFdGemdCLzVhbndjQ0lsQ2JTVlV3STg1b3U1OGVvRzl2UWdQWm5oTlpmK0FhUGEzU3dmQkxpNWZHWG9rU0Uyc1MwSlh5aTh3UFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5MzQ1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzgKSkRxdUxnSXVlRnVFV1NYRVdIQzc0WmdOaVNCbHhDNHBEUXNpTzJ2Qm5jdStoV3B2MWlFMS84QUZUWVFBRTdmcXg4K2ZDTnd5bTBnWjV5NEtXTFlHQWc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.38/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjBXWUVtMUlVYnJwRTBzZ3JEUnJWSEwyN1pUcnZmOEYzYUh5ZEFPZjlmRUM0S3ZPNDd2SzNwbXhtalQxNGxCVG96c0wxbTlZbEdjUFZtbFJhNG53U1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4Mjg1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDAKSllrY1U4VEtNZ1FyVEhYamdZY2toODhsaWtGSmxyTDMwUWJjdGlCMysraWdzQjhMaVBmbktWTTBVSGczMEZlREh6d1BQeGQvV0Rqenh5Skx5U1h3QUE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.40/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdXU1NqSDlQWWJncFdGemdCLzVhbndjQ0lsQ2JTVlV3STg1b3U1OGVvRzl2UWdQWm5oTlpmK0FhUGEzU3dmQkxpNWZHWG9rU0Uyc1MwSlh5aTh3UFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5MzQ1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzgKSkRxdUxnSXVlRnVFV1NYRVdIQzc0WmdOaVNCbHhDNHBEUXNpTzJ2Qm5jdStoV3B2MWlFMS84QUZUWVFBRTdmcXg4K2ZDTnd5bTBnWjV5NEtXTFlHQWc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.38/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjBXWUVtMUlVYnJwRTBzZ3JEUnJWSEwyN1pUcnZmOEYzYUh5ZEFPZjlmRUM0S3ZPNDd2SzNwbXhtalQxNGxCVG96c0wxbTlZbEdjUFZtbFJhNG53U1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4Mjg1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDAKSllrY1U4VEtNZ1FyVEhYamdZY2toODhsaWtGSmxyTDMwUWJjdGlCMysraWdzQjhMaVBmbktWTTBVSGczMEZlREh6d1BQeGQvV0Rqenh5Skx5U1h3QUE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.40/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZRa3VGZ0lhOWRzRkllT2hRbm44ZXlWVkNOcFFzTGpCWGUxRnFkZlBUcVRPakdrZThsektBQUYyVTdOeVNUY1FqUlljMXk4czlzNHVnaHBQblhOUmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjIxCWZpbGU6SmliXzAuMS4zOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM4ClNxYUJyYW0zS1drd1drK0hDMVk3OTNKVDFFUGo5NUVWUXcrM3RSSFRsOTZaRnIzWG0rTVp2Mzk4aTQ0SEJIWTZ6TXVpc0NOQzRSbHMrOFNHdWlWOERnPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.38/Jib_0.1.38_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRZSC9QQmViTkpPYTNTNW9ReVFabzhMS3ZQU0NuTFVTVnA3RWtRUktBVFEra3lFalA2dVFUTy81WVBBTGdXQm90alg4MDZRbnpGK2Q2Qmh1SS9PS0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4NjQwCWZpbGU6SmliXzAuMS40MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQwCllFWTd6SGJQSjlvU1pKd1lMSitqODNGb0xEK0MwUmx2QWFrSUdDRk8yM1lDS3R4ZDJaK0xpNGgzaFp1RjVkZW5OdWZlUDRuN3dudjJ1d0ZhLzZ1ZkFnPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.40/Jib_0.1.40_x64-setup.exe"
     }
   }
 }
