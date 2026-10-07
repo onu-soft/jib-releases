@@ -1,19 +1,19 @@
 {
-  "version": "0.1.44",
-  "notes": "\n- **띠도 자판으로.** 목록 맨 위에서 ↑ 를 누르면 날씨·메일·일정·타이머·음악·소리 띠를 고를 수 있고, ⏎ 는 그 띠를 누른 것과 같습니다.",
-  "pub_date": "2026-10-07T11:57:09Z",
+  "version": "0.1.45",
+  "notes": "\n- **미세먼지 등급마다 제 색.** 날씨 띠의 미세·초미세가 각자 등급 색(좋음 파랑 · 보통 초록 · 나쁨 주황 · 매우 나쁨 빨강)으로 보입니다. 하나가 나빠도 다른 하나까지 붉게 보이지 않습니다.",
+  "pub_date": "2026-10-07T12:39:43Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjd1Q3llY20vQ2NSSUNzSXNDSnk5T3lIS0xXWlZ5dTgxMWlUOXB6Zk11NGM1MklpN1pkOGVpTU11UUkxMTN0SENmK0JNd2RmbG9qK3FhRWdDc0VBamdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc0MTk5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDQKUzhRTnJ2dExObUMvV0hCaTRhUkdIN3pYZklCZXIrMi9NK0tEMytKQVIyUGh5WVUwK0kySS9PYTlvb2RsYmg2L2lVVkdOaS9Qd3FjRzU5Zjk4ZWsrQ3c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.44/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpaV3RxakNFSzNZVDVDU3VYc1hQSkMzKzdaSmdUbVJBc2VnOU9Lb05pb1JRK0gyS2xha3BnZTJwVUNmay9RN1RDbkxsZmozYXNmQWMxeDVlckZJOVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc2NzU0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDUKRWFoZWViRnJHMGxjR3lLdVAvVmkzelczOFZaRytJdDlpOXVGNnRlcm9RTGZDaDcvOFhNZmV1NnZuRW1jWm0za1BmamZ0Q0x5Y05LamJKQjRKUjVVQ2c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.45/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjd1Q3llY20vQ2NSSUNzSXNDSnk5T3lIS0xXWlZ5dTgxMWlUOXB6Zk11NGM1MklpN1pkOGVpTU11UUkxMTN0SENmK0JNd2RmbG9qK3FhRWdDc0VBamdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc0MTk5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDQKUzhRTnJ2dExObUMvV0hCaTRhUkdIN3pYZklCZXIrMi9NK0tEMytKQVIyUGh5WVUwK0kySS9PYTlvb2RsYmg2L2lVVkdOaS9Qd3FjRzU5Zjk4ZWsrQ3c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.44/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpaV3RxakNFSzNZVDVDU3VYc1hQSkMzKzdaSmdUbVJBc2VnOU9Lb05pb1JRK0gyS2xha3BnZTJwVUNmay9RN1RDbkxsZmozYXNmQWMxeDVlckZJOVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc2NzU0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDUKRWFoZWViRnJHMGxjR3lLdVAvVmkzelczOFZaRytJdDlpOXVGNnRlcm9RTGZDaDcvOFhNZmV1NnZuRW1jWm0za1BmamZ0Q0x5Y05LamJKQjRKUjVVQ2c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.45/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjVoTDRScW5MNHFHODZsb09NZTQzeFBjdGJGZi93cVczbkdXK01XS0tndk9hUHV0NGVPMVVJNkVDdVlyWnFiNmxreDZ5bmphUThYVjNPODBiRmJxRWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc0NTE5CWZpbGU6SmliXzAuMS40NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQ0Cm0zcnVocGlCV2wva0FrUkd4T0p0T0dVblJOOW85NG5PcnFIRTlPaXFUdE9ad0Q4eHVOQk5QVkI5SjJkUmpveWNtS1hsQXQ3MjlpYlBWVVN6c216RERRPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.44/Jib_0.1.44_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi9KRXZhNEp5TlZtcThId2lNaXNkdGNiRGxPVkZLbzBvQjJRclBvZlRiV1BPZGRUSUp2VDZWSCtNcm1xUGpqK0RUM05tOFg3Q1krNVZ2Mnk3dU4yS2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc3MTA4CWZpbGU6SmliXzAuMS40NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQ1CkVzLzFyQ2hPRFBXeWU0NDBvWkR3ZVVETGdqeG9FQytGZTJkUGVzdGQ1VnhsTWpBRVFxN3drV1BxOGVzMlByVjIzeWhMaVFjSEg3blA3SkpXdDFtekJ3PT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.45/Jib_0.1.45_x64-setup.exe"
     }
   }
 }
