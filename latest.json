@@ -1,19 +1,19 @@
 {
-  "version": "0.1.45",
-  "notes": "\n- **미세먼지 등급마다 제 색.** 날씨 띠의 미세·초미세가 각자 등급 색(좋음 파랑 · 보통 초록 · 나쁨 주황 · 매우 나쁨 빨강)으로 보입니다. 하나가 나빠도 다른 하나까지 붉게 보이지 않습니다.",
-  "pub_date": "2026-10-07T12:39:43Z",
+  "version": "0.1.46",
+  "notes": "\n- **업데이트를 더 빨리 받습니다.** 새 판이 있는지 6시간마다 보던 것을 1시간마다 봅니다.\n- **생활 계산.** `연봉 5000 실수령` 을 치면 4대 보험과 세금을 뗀 월 실수령액이, `부가세 33000` 은 공급가액과 부가세가, `만 나이 1990-05-03` 은 만 나이와 다음 생일까지 남은 날이 나옵니다. ⏎ 로 복사합니다.\n- **색 변환·명암비.** `#ff7b72` 를 치면 RGB·HSL 로, `대비 #fff #1c1d21` 은 명암비와 웹 접근성 기준(AA·AAA) 통과 여부를 보여 줍니다.\n- **IP·와이파이.** `ip` 는 내부·외부 IP, `와이파이 이름` 은 지금 연결된 와이파이와 신호 세기를 보여 주고 ⏎ 로 복사합니다.\n- **로또 당첨 번호.** `로또` 는 최신 회차, `로또 1190` 은 그 회차, `로또 3 13 15 24 33 37` 처럼 번호 여섯을 치면 등수를 알려 줍니다.\n- **기능 안내에 빠졌던 것들.** `?` 에 이모지·스니펫·떠 있는 메모·블루투스·스포이드·시스템 명령·앱 삭제·알림 목록·맞춤법, 그리고 Finder 에서 고른 파일에 하는 동작(압축·JPG 로·PDF 합치기)이 함께 나옵니다.",
+  "pub_date": "2026-10-07T13:49:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpaV3RxakNFSzNZVDVDU3VYc1hQSkMzKzdaSmdUbVJBc2VnOU9Lb05pb1JRK0gyS2xha3BnZTJwVUNmay9RN1RDbkxsZmozYXNmQWMxeDVlckZJOVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc2NzU0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDUKRWFoZWViRnJHMGxjR3lLdVAvVmkzelczOFZaRytJdDlpOXVGNnRlcm9RTGZDaDcvOFhNZmV1NnZuRW1jWm0za1BmamZ0Q0x5Y05LamJKQjRKUjVVQ2c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.45/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQngyZUxsVTY1RHlNYVMyeUJYUkU1a0c0TElZWkhQc3BGZFVaaU9Rc2Z3cS9ya1hkTk94bzQ3NExhYy9SbmREazFQbllmT1VTWXk1WEt5OWF5UmcvMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzgwOTIyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDYKRUtiOHRmbE1jemJnM1g0NEl3WG5kT3JDMmRHTU44NHpWTWZRZXdpTlVISEdOUzAzQ1F6YjFkM25FU2JuSkx3K21wK3JocXpScWpEL2hsYjQ3QVluQWc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.46/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpaV3RxakNFSzNZVDVDU3VYc1hQSkMzKzdaSmdUbVJBc2VnOU9Lb05pb1JRK0gyS2xha3BnZTJwVUNmay9RN1RDbkxsZmozYXNmQWMxeDVlckZJOVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc2NzU0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDUKRWFoZWViRnJHMGxjR3lLdVAvVmkzelczOFZaRytJdDlpOXVGNnRlcm9RTGZDaDcvOFhNZmV1NnZuRW1jWm0za1BmamZ0Q0x5Y05LamJKQjRKUjVVQ2c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.45/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQngyZUxsVTY1RHlNYVMyeUJYUkU1a0c0TElZWkhQc3BGZFVaaU9Rc2Z3cS9ya1hkTk94bzQ3NExhYy9SbmREazFQbllmT1VTWXk1WEt5OWF5UmcvMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzgwOTIyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDYKRUtiOHRmbE1jemJnM1g0NEl3WG5kT3JDMmRHTU44NHpWTWZRZXdpTlVISEdOUzAzQ1F6YjFkM25FU2JuSkx3K21wK3JocXpScWpEL2hsYjQ3QVluQWc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.46/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi9KRXZhNEp5TlZtcThId2lNaXNkdGNiRGxPVkZLbzBvQjJRclBvZlRiV1BPZGRUSUp2VDZWSCtNcm1xUGpqK0RUM05tOFg3Q1krNVZ2Mnk3dU4yS2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc3MTA4CWZpbGU6SmliXzAuMS40NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQ1CkVzLzFyQ2hPRFBXeWU0NDBvWkR3ZVVETGdqeG9FQytGZTJkUGVzdGQ1VnhsTWpBRVFxN3drV1BxOGVzMlByVjIzeWhMaVFjSEg3blA3SkpXdDFtekJ3PT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.45/Jib_0.1.45_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjVQa1VMMDFDYVUreTZTbDNtMlp2MWl4a055ejdVYUxmeldNVkk5YVY3M09FWVRHZE1YZzZqc3ZPMWJPU0poS05iVDl5bFZZcXZoamJVOTJYQjdTaXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzgxNDA2CWZpbGU6SmliXzAuMS40Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQ2Cit5UFJZM0R0LzMwc1VhSU5pMGZ2amhWMlhYTkNhZnVCS1pGUi83N2Z3VFNsLys0MUVRVVRZTEpSQU8xcWVwV3F3dmQwVUxId3BlUHR2UXVFZjQ4dERnPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.46/Jib_0.1.46_x64-setup.exe"
     }
   }
 }
