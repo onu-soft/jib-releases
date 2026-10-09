@@ -1,19 +1,19 @@
 {
-  "version": "0.1.46",
-  "notes": "\n- **업데이트를 더 빨리 받습니다.** 새 판이 있는지 6시간마다 보던 것을 1시간마다 봅니다.\n- **생활 계산.** `연봉 5000 실수령` 을 치면 4대 보험과 세금을 뗀 월 실수령액이, `부가세 33000` 은 공급가액과 부가세가, `만 나이 1990-05-03` 은 만 나이와 다음 생일까지 남은 날이 나옵니다. ⏎ 로 복사합니다.\n- **색 변환·명암비.** `#ff7b72` 를 치면 RGB·HSL 로, `대비 #fff #1c1d21` 은 명암비와 웹 접근성 기준(AA·AAA) 통과 여부를 보여 줍니다.\n- **IP·와이파이.** `ip` 는 내부·외부 IP, `와이파이 이름` 은 지금 연결된 와이파이와 신호 세기를 보여 주고 ⏎ 로 복사합니다.\n- **로또 당첨 번호.** `로또` 는 최신 회차, `로또 1190` 은 그 회차, `로또 3 13 15 24 33 37` 처럼 번호 여섯을 치면 등수를 알려 줍니다.\n- **기능 안내에 빠졌던 것들.** `?` 에 이모지·스니펫·떠 있는 메모·블루투스·스포이드·시스템 명령·앱 삭제·알림 목록·맞춤법, 그리고 Finder 에서 고른 파일에 하는 동작(압축·JPG 로·PDF 합치기)이 함께 나옵니다.",
-  "pub_date": "2026-10-07T13:49:09Z",
+  "version": "0.1.47",
+  "notes": "\n- **미세먼지를 측정소 값으로 보여 줍니다.** 설정 → 검색 → 공공 API 에 공공데이터포털 인증키를 넣으면 가까운 에어코리아 측정소가 잰 값을 씁니다. 키가 없으면 지금처럼 예측값을 쓰되 `예측` 이라고 밝힙니다 — 예측값은 실제와 크게 다를 수 있습니다. 잠깐 연결이 끊겨 미세먼지를 못 받아도 받아 둔 측정소 값을 지우지 않고, 1분 뒤 다시 받습니다.\n\n- **환율은 물을 때만 받습니다.** 런처를 열 때마다 확인하던 것을 `100달러` 처럼 환율을 물었을 때만 받습니다. 환율 줄에서 ⌘R 을 누르면 지금 바로 새로 받습니다.",
+  "pub_date": "2026-10-09T01:21:33Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQngyZUxsVTY1RHlNYVMyeUJYUkU1a0c0TElZWkhQc3BGZFVaaU9Rc2Z3cS9ya1hkTk94bzQ3NExhYy9SbmREazFQbllmT1VTWXk1WEt5OWF5UmcvMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzgwOTIyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDYKRUtiOHRmbE1jemJnM1g0NEl3WG5kT3JDMmRHTU44NHpWTWZRZXdpTlVISEdOUzAzQ1F6YjFkM25FU2JuSkx3K21wK3JocXpScWpEL2hsYjQ3QVluQWc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.46/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi83RStteWQ1SlM2RnNjWUZnNW5rWGUyQkZodnhjeTdyWkg2bjZ0VWZPcmQyd3dFVjlIa1RWaFBZTGdyY2hRbkIreENhRnBUVktpUk9FVjRQUnpJMWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTA4ODY0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDcKNFJNM0RRdE0xQ05SZlByVXhzSGgvMWpsZDdlbjQ2SUUzc01UZHZJUFlhZkpRUHZrbFVQQjFFaUJYWmhCdFR6MFpJa3dkU3NMQ0JSQ1dCV3N5QnhhQkE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.47/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQngyZUxsVTY1RHlNYVMyeUJYUkU1a0c0TElZWkhQc3BGZFVaaU9Rc2Z3cS9ya1hkTk94bzQ3NExhYy9SbmREazFQbllmT1VTWXk1WEt5OWF5UmcvMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzgwOTIyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDYKRUtiOHRmbE1jemJnM1g0NEl3WG5kT3JDMmRHTU44NHpWTWZRZXdpTlVISEdOUzAzQ1F6YjFkM25FU2JuSkx3K21wK3JocXpScWpEL2hsYjQ3QVluQWc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.46/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi83RStteWQ1SlM2RnNjWUZnNW5rWGUyQkZodnhjeTdyWkg2bjZ0VWZPcmQyd3dFVjlIa1RWaFBZTGdyY2hRbkIreENhRnBUVktpUk9FVjRQUnpJMWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTA4ODY0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDcKNFJNM0RRdE0xQ05SZlByVXhzSGgvMWpsZDdlbjQ2SUUzc01UZHZJUFlhZkpRUHZrbFVQQjFFaUJYWmhCdFR6MFpJa3dkU3NMQ0JSQ1dCV3N5QnhhQkE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.47/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjVQa1VMMDFDYVUreTZTbDNtMlp2MWl4a055ejdVYUxmeldNVkk5YVY3M09FWVRHZE1YZzZqc3ZPMWJPU0poS05iVDl5bFZZcXZoamJVOTJYQjdTaXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzgxNDA2CWZpbGU6SmliXzAuMS40Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQ2Cit5UFJZM0R0LzMwc1VhSU5pMGZ2amhWMlhYTkNhZnVCS1pGUi83N2Z3VFNsLys0MUVRVVRZTEpSQU8xcWVwV3F3dmQwVUxId3BlUHR2UXVFZjQ4dERnPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.46/Jib_0.1.46_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlaNEMwd2lzZFYvSkJMOU5yOWE5SkJjK2hDcC9hT25TTmwzRW40QWlrakZjeXR4ZmtiVE8wUjZJcVNpZFMrd0RwNVZSY2hmSnN2ZTRkUHVqTlNYVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTA5MjU0CWZpbGU6SmliXzAuMS40N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQ3Ck1xWU14UEtaZlhhQ1ZzdzF0YmlENUFwTkNaMWF4L3hlSC9KL3dVTG5EbGp4clZDVTRDYmFBZkdtQklTRWw3eE9XUVZtVFl1Ty9ubUpDY0ZqQTg3a0J3PT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.47/Jib_0.1.47_x64-setup.exe"
     }
   }
 }
