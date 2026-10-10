@@ -1,19 +1,19 @@
 {
-  "version": "0.1.51",
-  "notes": "\n- **검색이 느릴 때 \"인터넷 연결\" 오류로 잘못 알리던 것을 고쳤습니다.** 검색 서버가 늦으면 늦다고 알리고, 다른 AI 의 답은 오래 기다리지 않고 바로 받습니다.",
-  "pub_date": "2026-10-09T10:42:09Z",
+  "version": "0.1.52",
+  "notes": "\n- **컴퓨터를 켠 직후 런처 목록이 비어 \"앱 이름이나 명령을 입력하십시오\" 만 나오던 것을 고쳤습니다.** 네트워크가 느릴 때 앱을 실행하고 다시 열면 제안 목록이 사라졌습니다.\n- **요약·번역·다듬기도 여러 AI 의 답을 한 번에 봅니다.** 설정 → AI 에서 켠 AI 가 여럿이면 메일 요약·번역·다듬기·파일 요약 결과가 AI 마다 카드로 나란히 나옵니다(설정 → AI → 요약·번역·다듬기에서 `기본 AI 하나` 로 바꿀 수 있습니다). 마음에 드는 답을 골라(↑↓ 또는 누르기) ⏎ 로 붙이거나 복사합니다.\n- **AI 에게 물을 때 답할 AI 를 바로 고릅니다.** 질문하기 전 AI 칩을 눌러 켜고 끄고(설정에도 그대로 저장), 답을 받은 뒤에는 `다른 AI 에게도 묻기` 로 같은 질문을 다른 AI·모델에게 물어 카드를 더합니다. 더 받은 답도 대화 기록에 함께 남습니다.\n- **AI 결과를 다른 AI·모델로 바로 다시 받습니다.** 메일 요약, 고른 글의 다듬기·맞춤법·공손하게·번역·요약, 파일 요약 결과 아래에서 Apple 내장·Ollama·Claude·OpenAI·Gemini(번역이면 DeepL 도)와 그 모델을 고르면 곧바로 다시 합니다. 자판으로는 Tab(AI)·←→(모델)·⏎. 설정은 그대로이고, 한도에 걸린 모델은 표시되며 대신 쓸 모델을 권합니다.\n- **메일을 AI 가 요약합니다.** Mail 에서 메일을 고르고 런처에 `메일 요약` 을 치면 핵심과 할 일을 몇 줄로 보여 줍니다. 여러 통을 고르면 오간 흐름을 한 번에 요약합니다. `안 읽은 메일` 목록에서는 ⌘K → `AI 로 요약` 으로 열지 않고 내용을 봅니다(읽음으로 바뀌지 않습니다). 단축키를 달아 두면 Mail 에서 바로 부를 수 있습니다. AI 사용 한도에 걸리면 `다른 모델로 다시 묻기` 로 바로 다른 모델에게 맡깁니다.\n- 고른 글의 번역·다듬기 결과에서 Esc 를 누르면 검색 화면으로 가던 것을 고쳤습니다. 이제 동작 목록으로 돌아가 같은 글에 다른 일을 이어 할 수 있습니다.",
+  "pub_date": "2026-10-10T08:50:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjFwK1puOWppcmV6OTRrNlhiRHNDaXZRQW8vZVpkVlFWUXVxYzdKNzlLY3JUMExoOHVYUFh4OVY5L2ZmTDJDUmZBbFNzc2RRY2dZWmxpWTZ1eDkyK3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTQyNTAwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTEKc3pjUUZ1aUZ4a1l5R1Y4QjZYcURJdzlIbkRMazI2S09mbWdqNHRoMEhMOFNvbm1iQnF3Z2lxSmxiTzVGTnEwOGk3UlBVM3VEUU1XcXNPY3pJVThwQUE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.51/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpLVnpwU04wZXd2UmNIME83R3Y1RDdZYkIzUHQ1TktSVmh5bkpvNWI5RTJzTHlicm56ZWd5d3VOd3E4TndtTnRnUlRLanl2cEVWUUxqOUdTZkFhdHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjIyMTgyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTIKdnpMTEthN05wRjZYczYwUCt5V0s2M0dReVM3VzFmbFdIL1dpL2VjWDJQWDdrWXBIdExFbDBFS3hDcDlaMmtEWU41VUZWVy82T3hmRG9DaXhZSDVZQ2c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.52/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjFwK1puOWppcmV6OTRrNlhiRHNDaXZRQW8vZVpkVlFWUXVxYzdKNzlLY3JUMExoOHVYUFh4OVY5L2ZmTDJDUmZBbFNzc2RRY2dZWmxpWTZ1eDkyK3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTQyNTAwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTEKc3pjUUZ1aUZ4a1l5R1Y4QjZYcURJdzlIbkRMazI2S09mbWdqNHRoMEhMOFNvbm1iQnF3Z2lxSmxiTzVGTnEwOGk3UlBVM3VEUU1XcXNPY3pJVThwQUE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.51/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpLVnpwU04wZXd2UmNIME83R3Y1RDdZYkIzUHQ1TktSVmh5bkpvNWI5RTJzTHlicm56ZWd5d3VOd3E4TndtTnRnUlRLanl2cEVWUUxqOUdTZkFhdHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjIyMTgyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTIKdnpMTEthN05wRjZYczYwUCt5V0s2M0dReVM3VzFmbFdIL1dpL2VjWDJQWDdrWXBIdExFbDBFS3hDcDlaMmtEWU41VUZWVy82T3hmRG9DaXhZSDVZQ2c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.52/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjFzRWcyVGNQU1J2bkFmc2FDU0gybTAvSkV4VVVaRmQ1ZVFwYmRKZ0dzMVRoOWZ3TnArbzNJYmt1dVExc1pab2hyc0JFcG04VWFheWwrdSt3U3VCUHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTQyOTI0CWZpbGU6SmliXzAuMS41MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUxClB3Z2t2ak9aMTJLVi90UmN1YzJkdk9oNXJkcTdJSWhZZ0IzSmtDSHNHZ09jQzdwSjZnT3Iwc0pWcW1yTUF3UHF5aEdTYk04SFNwUCtNeE14UXZhTUF3PT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.51/Jib_0.1.51_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpramhCVnlScGR6MDhrSWNTRmRrSThKYzlKZWNPVnhWYngzTkUxYkJyYk9kS0g0MWM1eW00R2s0VG83WkZQZzRkdUJ1aFdiVkIwRkRiSkFrNDB1MVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjIyNzUwCWZpbGU6SmliXzAuMS41Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUyCnJSWnNkVkpSQm9vRjlhNE1RTEpsOWsySUlqWW12Vzl0WmV3WDZNQjcwbVBRNG1BdGpoekFlaHlMNk40QUUvZWVGdUY2U1krajZ1WFhPQzFkQmZWN0RnPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.52/Jib_0.1.52_x64-setup.exe"
     }
   }
 }
