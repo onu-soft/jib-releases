@@ -1,19 +1,19 @@
 {
-  "version": "0.1.54",
-  "notes": "\n- **글자를 칠 때 런처 창 높이가 오르내리지 않습니다.** 결과 수와 상관없이 창이 그대로 있고, 위의 날씨·메일 띠가 빠진 자리는 목록이 채웁니다.\n- **늦게 나온 결과가 고른 줄을 맨 위로 되돌리지 않습니다.** ↓ 로 옮겨 둔 뒤 시세·날씨·파일이 나중에 붙어도 고른 줄이 그대로입니다. 빨리 치고 바로 ⏎ 를 눌러도 새 결과의 줄이 열립니다.\n- **앱·파일의 Finder 에서 보기는 ⌘⇧⏎ 입니다.** ⌘⏎ 는 어디서나 친 말을 AI 에게 묻습니다(두 글자부터 겹쳐서 Finder 가 안 열렸습니다).\n- 이름 바꾸기에서 Esc 가 친 이름을 지우지 않고 파일 동작 목록으로 돌아갑니다. 걸러서 없을 때는 \"일치하는 … 없습니다\" 로 알려 줍니다. 긴 제목이 덜 잘립니다.\n- **고른 줄이 더 잘 보입니다.** 왼쪽에 색 막대가 붙습니다(밝은 화면에서 거의 안 보였습니다). 글자 크기를 네 단계로 정리했고, 오류 알림은 빨간 글자로 6초 동안 보입니다.",
-  "pub_date": "2026-10-20T14:05:53Z",
+  "version": "0.1.55",
+  "notes": "\n- **컴퓨터를 켠 직후 처음 띄운 런처가 바로 사라지던 것을 고쳤습니다.** 안 읽은 메일을 미리 받으려다 꺼져 있던 Mail 을 켜서, Mail 이 앞으로 나오며 런처가 숨었습니다. 이제 Mail 이 꺼져 있으면 건드리지 않습니다.",
+  "pub_date": "2026-10-20T14:50:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNVc283dW02UUxQenpCT2RhQWZScmlkcHRWU0Z1R2xrcFVrbjJnNEpkS3hLNHV0YXdZL0pqMm9ZYldkL0h6RVFwZ2ZjT2N6Q2hWQ0tUS29xQlZONmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA1MTI0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTQKOHlOVTBkc3pLY3FPT2MxSm9Ga2JsUU0wRStiazdWY1hxRWFwYVV0cCtDcFFvOXNpcXdXdWYxTWpVa1c3K0lEQUMxanFvYUhpc3U0d3l0QXFsRGE5Q0E9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.54/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQitZOWorWnJDbFlIdEd2VGE5S1FadlN4OG5kVGdzVTF3QjVzR2JrRXFVSGR3UXR5Qkk4MlM1ekJDYmpoVVI2T2I4RTlyYjJYRzFGZVpIQUpJdHZLSkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA3ODAwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTUKVWpBMXdEVHhvWTcyZDhhdHZRREpMSnk4dmNLZEpXVUtxR2c3cGhuNkJ0eDNQNEFva0lGTmlJOEI1RmxLTm8wQlg1eW9UQ2l2SG1nbzJWOTUwTEFVQnc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.55/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNVc283dW02UUxQenpCT2RhQWZScmlkcHRWU0Z1R2xrcFVrbjJnNEpkS3hLNHV0YXdZL0pqMm9ZYldkL0h6RVFwZ2ZjT2N6Q2hWQ0tUS29xQlZONmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA1MTI0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTQKOHlOVTBkc3pLY3FPT2MxSm9Ga2JsUU0wRStiazdWY1hxRWFwYVV0cCtDcFFvOXNpcXdXdWYxTWpVa1c3K0lEQUMxanFvYUhpc3U0d3l0QXFsRGE5Q0E9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.54/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQitZOWorWnJDbFlIdEd2VGE5S1FadlN4OG5kVGdzVTF3QjVzR2JrRXFVSGR3UXR5Qkk4MlM1ekJDYmpoVVI2T2I4RTlyYjJYRzFGZVpIQUpJdHZLSkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA3ODAwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTUKVWpBMXdEVHhvWTcyZDhhdHZRREpMSnk4dmNLZEpXVUtxR2c3cGhuNkJ0eDNQNEFva0lGTmlJOEI1RmxLTm8wQlg1eW9UQ2l2SG1nbzJWOTUwTEFVQnc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.55/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjl2alFXMGc2eU0rK0Joc1J3VEErVTRoOTA5dktJdUc2VTNaWVdRQ0QwSjdnWXhUUnBJMVBvWFVhK3FpMmxnMTBXbGp0OEcxNW1Ia2NQdjFuY2tOY3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA1NjUyCWZpbGU6SmliXzAuMS41NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjU0CmVQLy8zandXRU5sWTgyMTlhUXU3UlBYNWdXeXp3Y1dZUVBFbmQ3TG5KNURWT1dvTis0TnRISGxzemdldG4za3VmTSt5dUtTTEFwWkZVcExrZ3pMZUNBPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.54/Jib_0.1.54_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlHTHZpTWZOV2dsckc2Z01TQnNwcWJRVmRDN2ZQTk9JVW1PRmwyTlMyNmc0cUFmL2ZTY25hbUgyZDBkUzgrWWVkM1J3bU9nTnVJY25tc2lpcnFkNGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA4MTk0CWZpbGU6SmliXzAuMS41NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjU1CkV3bEVtZDNTbVp1d3FINkhpSlBadEo1Sjl5d0E4d3Q1ODA0RzA5aFMrVnMrNE0zSW1rMk5lZXRIa3RhSTJIaytmb2NubERXcTJhT3hmWU02Wi9FQ0JBPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.55/Jib_0.1.55_x64-setup.exe"
     }
   }
 }
