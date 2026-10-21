@@ -1,19 +1,19 @@
 {
-  "version": "0.1.55",
-  "notes": "\n- **컴퓨터를 켠 직후 처음 띄운 런처가 바로 사라지던 것을 고쳤습니다.** 안 읽은 메일을 미리 받으려다 꺼져 있던 Mail 을 켜서, Mail 이 앞으로 나오며 런처가 숨었습니다. 이제 Mail 이 꺼져 있으면 건드리지 않습니다.",
-  "pub_date": "2026-10-20T14:50:34Z",
+  "version": "0.1.56",
+  "notes": "\n- **런처를 띄우면 안 읽은 메일 띠가 곧바로 보입니다.** 날씨를 받는 동안 메일 띠까지 기다리던 것을 고쳤고, Mail 에서 안 읽은 메일을 받아 오는 시간도 17초에서 10초 남짓으로 줄였습니다.\n- **Mail 이 꺼져 있으면 메일 띠가 알려 줍니다.** 띠를 누르면 Mail 이 켜지고 안 읽은 메일을 받아 옵니다.",
+  "pub_date": "2026-10-21T11:17:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQitZOWorWnJDbFlIdEd2VGE5S1FadlN4OG5kVGdzVTF3QjVzR2JrRXFVSGR3UXR5Qkk4MlM1ekJDYmpoVVI2T2I4RTlyYjJYRzFGZVpIQUpJdHZLSkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA3ODAwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTUKVWpBMXdEVHhvWTcyZDhhdHZRREpMSnk4dmNLZEpXVUtxR2c3cGhuNkJ0eDNQNEFva0lGTmlJOEI1RmxLTm8wQlg1eW9UQ2l2SG1nbzJWOTUwTEFVQnc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.55/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi80KzUwN1I4c3JGMFJqU0N0c0hZNDEvVGloemJYMnZKOXVNK25QVEs2UW1TUGprZEFkZ3pBNjBGdy96WUR3MmpsUnVPaVZMby9Tck5iTGxvVlBkK1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgxNDAyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTYKWVk2eVRRMVNCc2dsRHNLRkNNb1Z0VUVXbG5DTjY0anZRS21RZHdJUTRqSTM3WlZ4QW9iMFJYcFFNb0pRMUVNRXc1L2NrT0JXNVpYTjhPWkVRbU81QWc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.56/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQitZOWorWnJDbFlIdEd2VGE5S1FadlN4OG5kVGdzVTF3QjVzR2JrRXFVSGR3UXR5Qkk4MlM1ekJDYmpoVVI2T2I4RTlyYjJYRzFGZVpIQUpJdHZLSkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA3ODAwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTUKVWpBMXdEVHhvWTcyZDhhdHZRREpMSnk4dmNLZEpXVUtxR2c3cGhuNkJ0eDNQNEFva0lGTmlJOEI1RmxLTm8wQlg1eW9UQ2l2SG1nbzJWOTUwTEFVQnc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.55/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi80KzUwN1I4c3JGMFJqU0N0c0hZNDEvVGloemJYMnZKOXVNK25QVEs2UW1TUGprZEFkZ3pBNjBGdy96WUR3MmpsUnVPaVZMby9Tck5iTGxvVlBkK1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgxNDAyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTYKWVk2eVRRMVNCc2dsRHNLRkNNb1Z0VUVXbG5DTjY0anZRS21RZHdJUTRqSTM3WlZ4QW9iMFJYcFFNb0pRMUVNRXc1L2NrT0JXNVpYTjhPWkVRbU81QWc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.56/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlHTHZpTWZOV2dsckc2Z01TQnNwcWJRVmRDN2ZQTk9JVW1PRmwyTlMyNmc0cUFmL2ZTY25hbUgyZDBkUzgrWWVkM1J3bU9nTnVJY25tc2lpcnFkNGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA4MTk0CWZpbGU6SmliXzAuMS41NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjU1CkV3bEVtZDNTbVp1d3FINkhpSlBadEo1Sjl5d0E4d3Q1ODA0RzA5aFMrVnMrNE0zSW1rMk5lZXRIa3RhSTJIaytmb2NubERXcTJhT3hmWU02Wi9FQ0JBPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.55/Jib_0.1.55_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjhVcFJyQ3RSaWJKYUZiOCthSXMyeGpDdVNEUjVqdjZ5b0dUUzBWR2JReFY3dUdwR0hmSTNSVU43WURDMnVjK2lOY3c0TVhjcnlwTzVjNEVKLy9pQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgxODM5CWZpbGU6SmliXzAuMS41Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjU2CmRGYm9tZ05sb0RLZTlCYXdZY1VnbVkwQVpZb2VweEdFZUd5SUxWd3BzL2g5WVBGNUNHVTdVbW9JeVdpd3hoTVQ2eXhpVGVYMTllVHZKRjh6TitVM0FnPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.56/Jib_0.1.56_x64-setup.exe"
     }
   }
 }
