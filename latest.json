@@ -1,19 +1,19 @@
 {
-  "version": "0.1.56",
-  "notes": "\n- **런처를 띄우면 안 읽은 메일 띠가 곧바로 보입니다.** 날씨를 받는 동안 메일 띠까지 기다리던 것을 고쳤고, Mail 에서 안 읽은 메일을 받아 오는 시간도 17초에서 10초 남짓으로 줄였습니다.\n- **Mail 이 꺼져 있으면 메일 띠가 알려 줍니다.** 띠를 누르면 Mail 이 켜지고 안 읽은 메일을 받아 옵니다.",
-  "pub_date": "2026-10-21T11:17:12Z",
+  "version": "0.1.57",
+  "notes": "\n- **에어코리아 키를 넣었는데 미세먼지가 예측값이면 까닭을 함께 보입니다** — `예측 · 에어코리아 응답 없음` 처럼. 키가 안 먹은 것인지 서버가 멈춘 것인지 알 수 있습니다.\n- 날씨 띠의 미세먼지 등급 글자가 옆 글자보다 살짝 내려앉아 보이던 것을 고쳤습니다.\n- **화면을 다듬었습니다.** 라이트 모드에서 설정·메모 창의 제목 막대가 검게 나오던 것을 고쳤고, 계산 결과(`12*3`)를 크게 보입니다. 런처 위 띠들은 한 묶음으로 정리했고, 라이트 모드에서 뒤 배경이 글자 밑으로 덜 비칩니다.",
+  "pub_date": "2026-10-21T11:53:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi80KzUwN1I4c3JGMFJqU0N0c0hZNDEvVGloemJYMnZKOXVNK25QVEs2UW1TUGprZEFkZ3pBNjBGdy96WUR3MmpsUnVPaVZMby9Tck5iTGxvVlBkK1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgxNDAyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTYKWVk2eVRRMVNCc2dsRHNLRkNNb1Z0VUVXbG5DTjY0anZRS21RZHdJUTRqSTM3WlZ4QW9iMFJYcFFNb0pRMUVNRXc1L2NrT0JXNVpYTjhPWkVRbU81QWc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.56/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjc2Qkh3SHNlY2ljck1SQ0dZUDAxN1BKbnpMK2lCMmllMEFUY3VLQkZxTllRdHF2WVJUODFVTjE5SlpBN3EyWlNMM1ZsU2NjMHUrdVY3a0E2SzVLZUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgzNjAwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTcKQkZZTHFnRDVXaTNCNnpMN3RWbWtoWGlhZEEvZU1zSHJDUnRncU1QT0Y3Z1lQT2Vyb0pkL2I4aG4reHpjYkVOSDdqTGp1Z3RrOEc1Zm5kcjdZSUlqQXc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.57/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi80KzUwN1I4c3JGMFJqU0N0c0hZNDEvVGloemJYMnZKOXVNK25QVEs2UW1TUGprZEFkZ3pBNjBGdy96WUR3MmpsUnVPaVZMby9Tck5iTGxvVlBkK1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgxNDAyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTYKWVk2eVRRMVNCc2dsRHNLRkNNb1Z0VUVXbG5DTjY0anZRS21RZHdJUTRqSTM3WlZ4QW9iMFJYcFFNb0pRMUVNRXc1L2NrT0JXNVpYTjhPWkVRbU81QWc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.56/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjc2Qkh3SHNlY2ljck1SQ0dZUDAxN1BKbnpMK2lCMmllMEFUY3VLQkZxTllRdHF2WVJUODFVTjE5SlpBN3EyWlNMM1ZsU2NjMHUrdVY3a0E2SzVLZUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgzNjAwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTcKQkZZTHFnRDVXaTNCNnpMN3RWbWtoWGlhZEEvZU1zSHJDUnRncU1QT0Y3Z1lQT2Vyb0pkL2I4aG4reHpjYkVOSDdqTGp1Z3RrOEc1Zm5kcjdZSUlqQXc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.57/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjhVcFJyQ3RSaWJKYUZiOCthSXMyeGpDdVNEUjVqdjZ5b0dUUzBWR2JReFY3dUdwR0hmSTNSVU43WURDMnVjK2lOY3c0TVhjcnlwTzVjNEVKLy9pQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgxODM5CWZpbGU6SmliXzAuMS41Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjU2CmRGYm9tZ05sb0RLZTlCYXdZY1VnbVkwQVpZb2VweEdFZUd5SUxWd3BzL2g5WVBGNUNHVTdVbW9JeVdpd3hoTVQ2eXhpVGVYMTllVHZKRjh6TitVM0FnPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.56/Jib_0.1.56_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnhGdGUyM0J0Ty9qaUJBeFY5NGltdy8rVWlwcFhWZHRzMXpiMGhxUTRJUVdiUDZhTW9hSmRMTjFrQVJjWnBJalNGNTkrNEtwM1dxTldEWFErMlhYeHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTg2MTAxCWZpbGU6SmliXzAuMS41N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjU3Ckx6cUFNSlowdHlMQ3R1UHhXV0JtUWsyRUxQazEvcWt4N2cxRnNzcnBCaU1CbXpCcWlWa1BUa3daUmtUeXFOS0NtdFB3ZC84NnBXTHo0WUVtOUdMckNBPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.57/Jib_0.1.57_x64-setup.exe"
     }
   }
 }
