@@ -1,19 +1,19 @@
 {
-  "version": "0.1.61",
-  "notes": "\n- **시계와 캘린더를 런처 오른쪽 칸으로 옮겼습니다.** 목록을 밀어내지 않아 앱·명령이 예전처럼 보이고, 글자를 치면 오른쪽 칸이 빠지며 목록이 넓어집니다. 맨 아래 `오늘 남은 일정` 을 누르면 오늘 일정으로 갑니다.",
-  "pub_date": "2026-10-22T14:49:57Z",
+  "version": "0.1.62",
+  "notes": "\n- 런처를 열었을 때 마우스 포인터 밑의 줄까지 칠해져 고른 줄이 둘로 보이던 것을 고쳤습니다. 마우스를 움직일 때만 그 줄이 옅게 보이고, ↑↓ 를 누르면 사라집니다.",
+  "pub_date": "2026-10-22T14:57:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnhVTUpWZ1ByRGFpbS91b2lnLzdwdUdibWZSTnF3dGdhQnAzOEdxNDgrSGVqM1IvUTlzZGMweGlQTlhITmxQR3p1U2dCcHZDcm5QUktjUGkxQ01iekE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgwNTcwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjEKelN5WVpIQzROUTJRaFIxVDBDTjRHclloNDZ2MGE1T3dDcExscitrOU12Z0lVQ2lmMFVVRWErTEZJeDl4N3BYbjFjbUN2bFViMGRuUC9oOXphOUxVQXc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.61/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndrY0lDWkFuTzAxbHlaWnRMTDR1VlVtcTNlNlZRcWpONWlHK29RekxpdXpST0krRWdIUWpmR1drYWlmVk93akc1VFZ5b2NrSERRSUVYRmdvTFNIV3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgxMDQ5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjIKNGZ2eVFmK2QyOStTSVNtbHI3SkxzdVl3dms1THJPL1AyN2V5Y01iU3pzV1M2ekpOK0ZrMU5MbS9ZS2kwckFRckNIK1phODcrWHh2aUpzRURiWnBaQUE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.62/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnhVTUpWZ1ByRGFpbS91b2lnLzdwdUdibWZSTnF3dGdhQnAzOEdxNDgrSGVqM1IvUTlzZGMweGlQTlhITmxQR3p1U2dCcHZDcm5QUktjUGkxQ01iekE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgwNTcwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjEKelN5WVpIQzROUTJRaFIxVDBDTjRHclloNDZ2MGE1T3dDcExscitrOU12Z0lVQ2lmMFVVRWErTEZJeDl4N3BYbjFjbUN2bFViMGRuUC9oOXphOUxVQXc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.61/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndrY0lDWkFuTzAxbHlaWnRMTDR1VlVtcTNlNlZRcWpONWlHK29RekxpdXpST0krRWdIUWpmR1drYWlmVk93akc1VFZ5b2NrSERRSUVYRmdvTFNIV3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgxMDQ5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjIKNGZ2eVFmK2QyOStTSVNtbHI3SkxzdVl3dms1THJPL1AyN2V5Y01iU3pzV1M2ekpOK0ZrMU5MbS9ZS2kwckFRckNIK1phODcrWHh2aUpzRURiWnBaQUE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.62/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZlKzZoZGtqdjZPQmM0bWxKMmtGSE02dk1XRHBMWlhVL1pFcnlYa0o1OXNLV05BNS9sS3RFQUZLMHcrSDRmbDNmYUtOcnFsdFMya1JZMjVIeWtmandNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgwOTQ5CWZpbGU6SmliXzAuMS42MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjYxCmdhOXhoTEFoTWt2V25tMXZ0aTQ4ZXM5YW1SVjY0TTRUNHoyaElkQUZYZEk0bDRRZm8xZnEwVXh4REFTU2gzSVE1LzRuSVFYRzkydkdBVUcyUFlQQUJnPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.61/Jib_0.1.61_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZmcUpEWDllT2xHc0tjZXdVbmp6RjJRQXE1cyt3WC9NdmhkWHBqcG9Nc2szS1IzWHZtdzJxV2VHZFhWd3dDNHZGUkE1M3FyeWlFVUIyeVJiWkVYS3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgxMzcyCWZpbGU6SmliXzAuMS42Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjYyCldHdlNhbm1mVG1qaXh2VS9DT2VOaEpXR1g2b21rZVo2RVFlbGlqUkpWaE1lRitZYzV5NnlvSjh1cmJXd1MwNlZ3RGRWdytuMjlLcWJ2WGY4K3R3ZEF3PT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.62/Jib_0.1.62_x64-setup.exe"
     }
   }
 }
