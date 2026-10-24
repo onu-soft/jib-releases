@@ -1,19 +1,19 @@
 {
-  "version": "0.1.64",
-  "notes": "\n- **오른쪽 캘린더를 이전·다음 달로 넘겨 볼 수 있습니다.** 달 이름 옆 ‹ › 로 넘기고 `오늘` 로 돌아옵니다. 넘긴 달에서도 공휴일과 일정 있는 날이 보이고, 날짜를 누르면 그날 일정이 나옵니다.\n- **일정마다 누구 일정인지 작게 보입니다.** 다른 사람의 캘린더를 구독했다면 그 사람(`name@gmail.com`)이, 아니면 캘린더와 계정(`직장 · iCloud`)이 일정 아래에 나옵니다.\n- **앱 아이콘을 새로 그렸습니다.** 밤바다 남색 위에 흰 돛과 하늘색 물결 — macOS 의 다른 앱 아이콘과 같은 크기·모서리·그림자로 맞췄습니다.\n- 캘린더에서 점이 찍힌 날을 눌러도 \"일정이 없습니다\" 로 나오던 것을 고쳤습니다. 캘린더를 다 읽기 전에 물어 빈 답이 오던 것이었습니다.",
-  "pub_date": "2026-10-24T00:37:30Z",
+  "version": "0.1.65",
+  "notes": "\n- **새 앱 아이콘이 macOS 에서 회색 틀 없이 제 모양으로 보입니다.** Windows 에서는 작업 표시줄·시작 메뉴에서 더 크게 보이고, 설치 프로그램에도 Jib 아이콘이 붙습니다. 업데이트 뒤 처음 켤 때 옛 아이콘이 남지 않게 아이콘을 새로 고칩니다.",
+  "pub_date": "2026-10-24T01:36:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjVuS2Jid2NXa2dQR0h5N0F1Q0xqUVhGbFBlSVlTNkx3Ry9lN3hhajZhclZQNU1jMUtIL2FJU2pLblFRUXRMQmpuYVNPbWl2dlJSN2NibnN4eXZad0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODAzMTg2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjQKektNUEhPbllJTXU1QzJMNzFGVU4xcnJWNml4TjQ0MTNLSXRXZmpCRzNrZG9aaUVJK3BTNTRlOENGRktJZDNlRWJSZDlkZjQwOFRqaU9NL2tTRGtVRGc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.64/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlIcVhCL093c1pyd3EzdEFHS0xVWGRNeW84NnhNazRYRzZPOGNITzBBT0l5cGRKcHErNkYzc3ZOaDFtc1JJektxdFUvK09IVUI0SXdTMXdQR1Zra0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODA1NzI5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjUKa2VpWkRTTG84a2VxK2tGMVZXR0E5YUwvSjNYWENoTG1jaC8wZFBXbXFGZ2wvRzVPVFBoeXpsV3ViV08rRVcvWmFNOG8xYnljdE1MZG1MYWRwZldVQUE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.65/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjVuS2Jid2NXa2dQR0h5N0F1Q0xqUVhGbFBlSVlTNkx3Ry9lN3hhajZhclZQNU1jMUtIL2FJU2pLblFRUXRMQmpuYVNPbWl2dlJSN2NibnN4eXZad0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODAzMTg2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjQKektNUEhPbllJTXU1QzJMNzFGVU4xcnJWNml4TjQ0MTNLSXRXZmpCRzNrZG9aaUVJK3BTNTRlOENGRktJZDNlRWJSZDlkZjQwOFRqaU9NL2tTRGtVRGc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.64/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlIcVhCL093c1pyd3EzdEFHS0xVWGRNeW84NnhNazRYRzZPOGNITzBBT0l5cGRKcHErNkYzc3ZOaDFtc1JJektxdFUvK09IVUI0SXdTMXdQR1Zra0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODA1NzI5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjUKa2VpWkRTTG84a2VxK2tGMVZXR0E5YUwvSjNYWENoTG1jaC8wZFBXbXFGZ2wvRzVPVFBoeXpsV3ViV08rRVcvWmFNOG8xYnljdE1MZG1MYWRwZldVQUE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.65/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjBDSkdtbkI0NXdKb2RjN1FQbTd0WWZFbEs2YlVENDdWN3lDMFkwUVNpYTlJOXd6b1dpSE1QUDlZaFB2RERiaS9maU53NGxydjhjck04WUtiTlpkOXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODA0MTMyCWZpbGU6SmliXzAuMS42NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjY0CkVBMS8zblJjQnBCcE9GeFgydXF0eXRPWVM4NWtaS05BSlNGaXZvVG00eTkxTVRoOGg3TWdnM0kxdDhHVVJCak83cE5HZEpvd0pjV0dhZVFrbER0d0JnPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.64/Jib_0.1.64_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRoT1ZTWVlHZ0VzcVUzZ2VQR0gvUjlOT0hZRzVVeXRmK0JYdjVZeU52b3A0ZGdnSytFMzY2NnFXZXlZS3dZS3VTcGhwUjA2M0RLbTRSWHdURWF3elFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODA2MjE4CWZpbGU6SmliXzAuMS42NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjY1CmsydGtaQVl0U1VaTzVzRU5rNlFNbW04MHRVZTBsSXhqZFVzZlJFK1gzN3ozdnNBa1drNDRtL0lWRmVpalpFazhCNVZBMGVpOGlKL2lQdlVDV1FScUFRPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.65/Jib_0.1.65_x64-setup.exe"
     }
   }
 }
