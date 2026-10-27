@@ -1,19 +1,19 @@
 {
-  "version": "0.1.69",
-  "notes": "\n- **macOS 27 에서는 Apple 내장 AI 에 두 배 긴 글을 넣습니다.** 새 내장 모델(AFM 3)의 문맥이 커져, 메일·문서 요약이 앞부분 2,500자가 아니라 5,000자까지 읽습니다. 설정 › AI 의 Apple 줄에 모델 이름이 보입니다.\n- **AI 에게 `오늘 날씨 알려줘` 라고 물으면 지금 있는 곳의 날씨로 답합니다.** 예전에는 위치를 몰라 \"어느 지역인가요?\" 라고 되물었습니다. Jib 이 받은 날씨를 모든 AI 에게 건네고, 클라우드 AI 에는 동네 이름을 빼고 보냅니다. `내일 부산 날씨` 처럼 도시를 넣어도 됩니다.",
-  "pub_date": "2026-10-27T11:09:09Z",
+  "version": "0.1.70",
+  "notes": "\n- **첫 화면 시계를 다시 그렸습니다.** 날짜를 위에 작게, 시각은 크게 두고, 음력과 다음 공휴일은 가는 선 아래 한 줄로 정리했습니다.",
+  "pub_date": "2026-10-27T11:39:26Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnluZVRRc3MveENDR2ZuQzNvc01YdGJiY3hkaXpRNWw2dys3a2FVdXppZGJlT2pZS1BSQVlUNVkzU1BFTTc5cmVqVlZ1V0paVERTNVJzYXpCSTBGS1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk5MzE4CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjkKR0ZuS1FUcTI5V2J6NGFKWWw2Vm91WUNQMFZXeGN0T2NpU1lWRGx0a0FHMUhGT1ZodlBsL2Nldm9VZ2JEUVZZdWNaNXR5T3JaTVV4cHdQZWt3ZHVQRFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.69/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjAzQmlDZmI4Q3g0QTZ2UTc1bmxUZjlrK25NRjdzTmNpSnR0TzU4S2hORWVrVnMva01LNG4xMXJic0lnSDhjdkZiV2JTck1ueG9PZ2pNUUt2VUl4VFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAxMTM2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzAKZDNzV29paG4wOEVsWTk0MW8rUEYySE1BRS84emFDMHB1RGU0TFRRSVBpdVAvK3dCWnZUNGU3UE8yc25kYzBHMkpnT0wzMWM3R3M4enZrMTNGT1FzQXc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.70/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnluZVRRc3MveENDR2ZuQzNvc01YdGJiY3hkaXpRNWw2dys3a2FVdXppZGJlT2pZS1BSQVlUNVkzU1BFTTc5cmVqVlZ1V0paVERTNVJzYXpCSTBGS1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk5MzE4CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjkKR0ZuS1FUcTI5V2J6NGFKWWw2Vm91WUNQMFZXeGN0T2NpU1lWRGx0a0FHMUhGT1ZodlBsL2Nldm9VZ2JEUVZZdWNaNXR5T3JaTVV4cHdQZWt3ZHVQRFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.69/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjAzQmlDZmI4Q3g0QTZ2UTc1bmxUZjlrK25NRjdzTmNpSnR0TzU4S2hORWVrVnMva01LNG4xMXJic0lnSDhjdkZiV2JTck1ueG9PZ2pNUUt2VUl4VFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAxMTM2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzAKZDNzV29paG4wOEVsWTk0MW8rUEYySE1BRS84emFDMHB1RGU0TFRRSVBpdVAvK3dCWnZUNGU3UE8yc25kYzBHMkpnT0wzMWM3R3M4enZrMTNGT1FzQXc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.70/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjFGMDNMREUzR2xNcTBRZi9icWg2dk5rWnh5RGNMbXNqdGF6N2xzejFiSFkrZmpPUWhVZThsRi9uNXd5R1M1N2FwZW9CbXV2NDMrbTFHREQ3Q0FhblFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk5NzM2CWZpbGU6SmliXzAuMS42OV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjY5CkdQME5QT0d4WEovVnlOMHk5ZmtWZHhzZzhNTFBYTWxzWExDVFBxbEpHQm95RDZSeHRxclk4bkE5cUh5SzRHdE1SV1RmMHBLQlZ6dE1ISVZUU3BFbkJRPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.69/Jib_0.1.69_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNPRUFiRUtJaE5ZQm1aS0NHQWtneFd5YVVoRytJUUI5RzdZenZnZGhBZE5yV0xqaXE1VlljQVorWStRTTR6aGhWY2xNNEpvaERmaHN3Y24xT2E4T0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAxNTYzCWZpbGU6SmliXzAuMS43MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjcwCnNIK1pCbXZ3MHArQWVlNUxqRVVhTVNrbnhldVlNVzNnMVdScG5pVW5CckRzR2pvRzZ3RC9hbzZYVlF6a3VNOW9veHRESG50Qy81TThxSnlaT0xFRUFnPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.70/Jib_0.1.70_x64-setup.exe"
     }
   }
 }
