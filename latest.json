@@ -1,19 +1,19 @@
 {
-  "version": "0.1.70",
-  "notes": "\n- **첫 화면 시계를 다시 그렸습니다.** 날짜를 위에 작게, 시각은 크게 두고, 음력과 다음 공휴일은 가는 선 아래 한 줄로 정리했습니다.",
-  "pub_date": "2026-10-27T11:39:26Z",
+  "version": "0.1.71",
+  "notes": "\n- **화면에서 모르는 낱말의 뜻을 바로 봅니다.** ⌃⇧3 을 누르고 영어·일본어·한자 낱말을 영역으로 고르면 뜻과 읽기(たべる · 발음 기호)가 나옵니다. 앱에서 고른 글은 ⌃⇧1 → `뜻 찾기` 로도 됩니다.\n- **단어장이 생겼습니다.** 뜻 화면에서 ⏎ 하나로 넣고, `단어장 복습` 으로 카드를 넘기며 외웁니다. 아는 낱말은 1·3·7일… 간격으로 다시 묻고, ⌘K 에서 CSV(Anki·엑셀)로 내보낼 수 있습니다.\n- **`글자 수` 를 치면 복사한 글의 글자 수를 셉니다.** 공백 포함·제외, 바이트(한글 2바이트 · UTF-8), 단어 수까지 — 자기소개서·문자 분량을 맞출 때 씁니다.",
+  "pub_date": "2026-10-27T12:28:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjAzQmlDZmI4Q3g0QTZ2UTc1bmxUZjlrK25NRjdzTmNpSnR0TzU4S2hORWVrVnMva01LNG4xMXJic0lnSDhjdkZiV2JTck1ueG9PZ2pNUUt2VUl4VFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAxMTM2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzAKZDNzV29paG4wOEVsWTk0MW8rUEYySE1BRS84emFDMHB1RGU0TFRRSVBpdVAvK3dCWnZUNGU3UE8yc25kYzBHMkpnT0wzMWM3R3M4enZrMTNGT1FzQXc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.70/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNRWFE5M0dMK096elpSUitsMWNTVUZsNnc5OU84Y0NYTU41ekdTR3REQUlqejFHZngvRzEvaVpkZkN6Rm5ZSnJDQnlYNTl0SDllZFhZWk1lZUQxOFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA0MDkxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzEKZmZRVExvbWxmWTBXS0ZrNWIrZUNsSUpEb0JsYkc2K1hrdnRZMHF2N2FURUhtL0oxSjdOcFlpcnFDNzZsaldKb1RiUjBFZUpKbjgxNzFTT2ZoM051RFE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.71/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjAzQmlDZmI4Q3g0QTZ2UTc1bmxUZjlrK25NRjdzTmNpSnR0TzU4S2hORWVrVnMva01LNG4xMXJic0lnSDhjdkZiV2JTck1ueG9PZ2pNUUt2VUl4VFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAxMTM2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzAKZDNzV29paG4wOEVsWTk0MW8rUEYySE1BRS84emFDMHB1RGU0TFRRSVBpdVAvK3dCWnZUNGU3UE8yc25kYzBHMkpnT0wzMWM3R3M4enZrMTNGT1FzQXc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.70/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNRWFE5M0dMK096elpSUitsMWNTVUZsNnc5OU84Y0NYTU41ekdTR3REQUlqejFHZngvRzEvaVpkZkN6Rm5ZSnJDQnlYNTl0SDllZFhZWk1lZUQxOFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA0MDkxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzEKZmZRVExvbWxmWTBXS0ZrNWIrZUNsSUpEb0JsYkc2K1hrdnRZMHF2N2FURUhtL0oxSjdOcFlpcnFDNzZsaldKb1RiUjBFZUpKbjgxNzFTT2ZoM051RFE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.71/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNPRUFiRUtJaE5ZQm1aS0NHQWtneFd5YVVoRytJUUI5RzdZenZnZGhBZE5yV0xqaXE1VlljQVorWStRTTR6aGhWY2xNNEpvaERmaHN3Y24xT2E4T0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAxNTYzCWZpbGU6SmliXzAuMS43MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjcwCnNIK1pCbXZ3MHArQWVlNUxqRVVhTVNrbnhldVlNVzNnMVdScG5pVW5CckRzR2pvRzZ3RC9hbzZYVlF6a3VNOW9veHRESG50Qy81TThxSnlaT0xFRUFnPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.70/Jib_0.1.70_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRQTEZOeU0rMDY1TmZ5c1poZ04xNDEydm1mcnlzMG8venM4b3YwWDNIbG5RK2tpSEtmbFZkVlI1UG45TklYbk51MjR6Y2JiakZnZWg1UmVVRm1EQmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA0Mzg1CWZpbGU6SmliXzAuMS43MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjcxCkYxWFd4MVQ1UVFPUnRVRzJ6T2Y3ald3Z3JGTDJLNFhrSDFpM3ZLQ25CSTNLT3dZYUNJendMQmN5UnorT3ZEWGJvS1QwdDVPb2R5Sks0Qmd4M0hPUUNRPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.71/Jib_0.1.71_x64-setup.exe"
     }
   }
 }
