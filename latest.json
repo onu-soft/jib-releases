@@ -1,19 +1,19 @@
 {
-  "version": "0.1.76",
-  "notes": "\n- **할 일을 미루고 고칠 수 있습니다.** `할 일 ` 목록에서 줄을 고르고 `⌘K` 를 누르면 `1시간 뒤` · `오늘 오후 6시` · `내일` 로 미루거나 수정할 수 있습니다. 반복 일은 이번 차례만 건너뜁니다.\n- 내일 이후 할 일만 있을 때 아침 요약이 내용 없이 오던 문제를 고쳤습니다.\n- 인터넷이 끊겨 있을 때 텔레그램 알림이 사라지지 않고, 연결되면 보냅니다.",
-  "pub_date": "2026-10-31T12:45:22Z",
+  "version": "0.1.77",
+  "notes": "\n- **할 일을 골라서 넣을 수 있습니다.** `할 일` 을 치고 맨 윗줄에서 ⏎ 를 누르면 제목만 쓰고 반복(`평일` · `주말` · 요일 선택) · 날짜 · 시간을 고르는 화면이 열립니다. 첫 알림 날짜까지 미리 보이고, 수정도 같은 화면에서 합니다.",
+  "pub_date": "2026-10-31T13:54:44Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjFRWUxYT2FndlVYSzVzVzBRLys1UXdLTFFTRUd4SlhVcXI1ZnZWOFloOGk0aVNtTU16UHlCRXhVRGwxc1M3aS8zZTBDQ2FRelF2SWlOUWRSai82WWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDUwNjk5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzYKZEE1eUFQZTlLK05ONmRWb0wvUm5TU0N0UEZWZ1RaeVcxelJaNEoycVJuRTlsY1c0T0pKSDdhQzBubTBFWlY4NU5EeVNuZHFpbTd6VTloQnVoRmF2Qnc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.76/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlHb2dWNTVJZVpXV1kvWTRkd0d1ZFlISEdVdGsyQ3l0czZJMkMwYno3RXQ0Q3p1bU9iK1VjNFRVbWVoRWw4NjBJbTRUM3BkNkdJaFA1VXptbVFwV1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU0ODU2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzcKdlhQbUliSFIzbU5DWlVRRnE1bXgyNGZqcndsSlhVVUVIY0llN05sUFd0S3ovSlZqMmVqTEdGaXVDZGlUano4VmQrdFNiUjZmNHArbTBVS3RoK2VSQ3c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.77/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjFRWUxYT2FndlVYSzVzVzBRLys1UXdLTFFTRUd4SlhVcXI1ZnZWOFloOGk0aVNtTU16UHlCRXhVRGwxc1M3aS8zZTBDQ2FRelF2SWlOUWRSai82WWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDUwNjk5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzYKZEE1eUFQZTlLK05ONmRWb0wvUm5TU0N0UEZWZ1RaeVcxelJaNEoycVJuRTlsY1c0T0pKSDdhQzBubTBFWlY4NU5EeVNuZHFpbTd6VTloQnVoRmF2Qnc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.76/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlHb2dWNTVJZVpXV1kvWTRkd0d1ZFlISEdVdGsyQ3l0czZJMkMwYno3RXQ0Q3p1bU9iK1VjNFRVbWVoRWw4NjBJbTRUM3BkNkdJaFA1VXptbVFwV1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU0ODU2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzcKdlhQbUliSFIzbU5DWlVRRnE1bXgyNGZqcndsSlhVVUVIY0llN05sUFd0S3ovSlZqMmVqTEdGaXVDZGlUano4VmQrdFNiUjZmNHArbTBVS3RoK2VSQ3c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.77/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnhBak9hdzJSNGxTOHlndHBrQXh6dmUwWDgrdVhtdVlWbmVweHVOL1RpcVhRU3NTTWhHVnNiWEdMY0pxSWpMb1NmQXpSRkhmb21tUDR0N1JiS1JmL2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDUxMzAyCWZpbGU6SmliXzAuMS43Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjc2CkFMazFpUTdIN2Z1MlllbjdpZGxhN2JEOGIvMHE0VTROaHdlVEVCYnMxNHp5cTVLOS9vdEpGbTB2WkNaTUNZVnlzM1VtbFpUQ3A0cm1lVlBQODZhMkJnPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.76/Jib_0.1.76_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJyS2xLUlA0NHBxb1hQOUhZQ2o1ZGViM2dPcDMvTzI2djkxa0lENHI3NWdSa2hNTnVIS1V1RnlwMUJjZytFT0ZhTXc2NEt1SUVhOW9kV2dCcDRVUlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU1MTcwCWZpbGU6SmliXzAuMS43N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjc3ClhQdWlJTkRDNHZMZHcybUQrWm90NmhmREk1N2czNVE0RjlYVGp4YXJ4Yk1vTUdFSWphOWwvRlBjd1F0VDdZR3c1d1lTcnVkWXYwODR4OEp5R3BSMkRRPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.77/Jib_0.1.77_x64-setup.exe"
     }
   }
 }
