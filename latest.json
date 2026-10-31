@@ -1,19 +1,19 @@
 {
-  "version": "0.1.74",
-  "notes": "\n- **런처에서 할 일이 바로 보입니다.** 런처를 열면 검색 칸 바로 아래에 가장 급한 할 일이 보이고, 동그라미를 누르면 끝납니다. `할 일 내일 3시 치과` 처럼 치고 ⏎ 하면 들어가고, 어디서나 `⌃⇧T` 로 바로 적거나 런처에 친 말을 `⌘T` 로 넣을 수 있습니다. 시간이 되면 알림이 오고, 아침에 한 번 남은 일을 알려 주며, 메뉴 막대에 남은 일의 수가 보입니다. 설정 › 일반에서 끌 수 있습니다.\n- `할 일 …` 은 이제 Jib 할 일로 들어갑니다. 미리 알림 앱에 넣으려면 `미리 알림 금요일까지 보고서` 처럼 칩니다.\n- **매일 하는 일을 등록할 수 있습니다.** `할 일 매일 9시 스트레칭` · `할 일 평일 운동` · `할 일 매주 월수금 회의` · `할 일 매주말 청소` 처럼 칩니다. 끝내면 다음 차례로 넘어가고, 못 한 날의 것은 쌓이지 않습니다.\n- **할 일 알림을 텔레그램으로도 받습니다.** 설정 › 텔레그램에 나온 순서대로 내 봇을 연결하면 시간이 된 일과 아침 목록이 옵니다. 기본은 꺼져 있고, 이 컴퓨터가 켜져 있을 때만 갑니다.\n- 단축키 안내 칸이 한두 줄 넘친다고 두 단으로 넓어지지 않습니다.",
-  "pub_date": "2026-10-31T09:48:30Z",
+  "version": "0.1.75",
+  "notes": "\n- **캘린더 일정도 텔레그램으로 받습니다.** 설정 › 텔레그램에서 `캘린더 일정도 알리기` 를 켜면 일정 시작 10분 전과 오전 9시 이후 하루 한 번 오늘 일정 목록이 옵니다. 맥 전용이며 기본은 꺼져 있습니다.",
+  "pub_date": "2026-10-31T10:16:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpSODZxbG40dWNKSVZzWTJheWlEMEErM3BlRFdGWG5MVmRucU5rWFYybHQ0QVVFY0ZFN0wxbmNjV0NvZWg3Z0JJWHk1aUdXQXRvMlZCU3VEVEQycHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQwMDc1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzQKbUMzdWdzaGhCTjdRS0xSaVJySTkralY2VjlYMmNKbnN6b0VSV1lvTG5qREU4cUpHZTFDdjYzMmRQNjIvcWpNNnQ0TlZZVVpjVVhwVzhkaXhvaUpEQUE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.74/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlHblRCWWFUd0xyRUhvOVM2ZXowcXc5WmlMSHNpbGdiKzF2MzY4RXppd0FRTU56enQ2dWRjN2lnVHZQaGlIZG9TUG1HbjZKUFFjYU55QU1KTUFZRmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQxNzkwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzUKTWQvd3oybUpkRkt1dmtrZ2xLRlRIeEtuRWJ1YWlOaTZCRDM5cUNtQ0w2NnZFRC9HRXJoemdJN0xJa2NKeklWdEhkRXZPWFhXMkZpVjduUTNFalNDQ2c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.75/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpSODZxbG40dWNKSVZzWTJheWlEMEErM3BlRFdGWG5MVmRucU5rWFYybHQ0QVVFY0ZFN0wxbmNjV0NvZWg3Z0JJWHk1aUdXQXRvMlZCU3VEVEQycHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQwMDc1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzQKbUMzdWdzaGhCTjdRS0xSaVJySTkralY2VjlYMmNKbnN6b0VSV1lvTG5qREU4cUpHZTFDdjYzMmRQNjIvcWpNNnQ0TlZZVVpjVVhwVzhkaXhvaUpEQUE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.74/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlHblRCWWFUd0xyRUhvOVM2ZXowcXc5WmlMSHNpbGdiKzF2MzY4RXppd0FRTU56enQ2dWRjN2lnVHZQaGlIZG9TUG1HbjZKUFFjYU55QU1KTUFZRmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQxNzkwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzUKTWQvd3oybUpkRkt1dmtrZ2xLRlRIeEtuRWJ1YWlOaTZCRDM5cUNtQ0w2NnZFRC9HRXJoemdJN0xJa2NKeklWdEhkRXZPWFhXMkZpVjduUTNFalNDQ2c9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.75/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpMK3RjN1NPaDZ2UG9ieGI1bjRnMWh1ajZaNTJJRjN3VnhmaXR2ZnVUQzFjdHdmVVpHdWF3ekNBNnBQMWUrUTRLdUIza1Q2ZXhlc3ZqYUZlT2tJQUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQwNjc2CWZpbGU6SmliXzAuMS43NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjc0CndZcTJMcU5uekROT0F6V1RXcEoyWDR5VGprU3ZhejZFRU5iSjZZeG5pZTVrM3pROWI2QVZTRzJieFI4b1VYbTNOUGRzT0dGeGo3c0NLRnhCZ1Jnb0J3PT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.74/Jib_0.1.74_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNEa1NFaXc5aDBKQndhdnhVUXM1MGhiZWJEeFRzUlhEUzdIOGREWkpjcG4vNnp2eVlmekNMazZXcVJUVzRhUFFiOXpPWWlLT1BpV3Y5Sm1LekFLVXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQyMzEwCWZpbGU6SmliXzAuMS43NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjc1CjR1a3prMTNKeGhlSElGQjdoamJuNnpvNEdhN01OM25ndHNBZzZzM3ZmR3YwRFNUTVBlTkxnR084VVZWSWhuSm45QnJIcHFEL1dLS0xLcTJRUm15YUJRPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.75/Jib_0.1.75_x64-setup.exe"
     }
   }
 }
