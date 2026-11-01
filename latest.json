@@ -1,19 +1,19 @@
 {
-  "version": "0.1.77",
-  "notes": "\n- **할 일을 골라서 넣을 수 있습니다.** `할 일` 을 치고 맨 윗줄에서 ⏎ 를 누르면 제목만 쓰고 반복(`평일` · `주말` · 요일 선택) · 날짜 · 시간을 고르는 화면이 열립니다. 첫 알림 날짜까지 미리 보이고, 수정도 같은 화면에서 합니다.",
-  "pub_date": "2026-10-31T13:54:44Z",
+  "version": "0.1.78",
+  "notes": "\n- **첫 화면 캘린더에서 바로 일정을 넣을 수 있습니다.** 날짜를 더블클릭하거나, 날짜를 고르고 `+` 를 누르면 그 날로 입력 화면이 열립니다. 넣고 나면 그 날로 돌아와 새 일정이 바로 보입니다.",
+  "pub_date": "2026-11-01T13:01:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlHb2dWNTVJZVpXV1kvWTRkd0d1ZFlISEdVdGsyQ3l0czZJMkMwYno3RXQ0Q3p1bU9iK1VjNFRVbWVoRWw4NjBJbTRUM3BkNkdJaFA1VXptbVFwV1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU0ODU2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzcKdlhQbUliSFIzbU5DWlVRRnE1bXgyNGZqcndsSlhVVUVIY0llN05sUFd0S3ovSlZqMmVqTEdGaXVDZGlUano4VmQrdFNiUjZmNHArbTBVS3RoK2VSQ3c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.77/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZ6eThaZGY4emNnc095YnpwYk9Nd0JlNnBxVVFLSDBqNEtCaHk3MUxCZ3FMZFpoZXhHdmx1Z2RacHdhSFhyYXRjNFE1WWg1cnFEaUl2OHVYZmRaQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM4MDQ5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzgKVUVUTnVIbzBZWUc5Sm5sYzhLZzdxS09TZXZXclhmYktFSmN6RXQ4NktIazQ1Skp2dGNFQ3VTbERiNGJFVys1Uzg5MVhla21kOEhuZWxjNU14UEdXRFE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.78/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjlHb2dWNTVJZVpXV1kvWTRkd0d1ZFlISEdVdGsyQ3l0czZJMkMwYno3RXQ0Q3p1bU9iK1VjNFRVbWVoRWw4NjBJbTRUM3BkNkdJaFA1VXptbVFwV1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU0ODU2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzcKdlhQbUliSFIzbU5DWlVRRnE1bXgyNGZqcndsSlhVVUVIY0llN05sUFd0S3ovSlZqMmVqTEdGaXVDZGlUano4VmQrdFNiUjZmNHArbTBVS3RoK2VSQ3c9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.77/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZ6eThaZGY4emNnc095YnpwYk9Nd0JlNnBxVVFLSDBqNEtCaHk3MUxCZ3FMZFpoZXhHdmx1Z2RacHdhSFhyYXRjNFE1WWg1cnFEaUl2OHVYZmRaQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM4MDQ5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzgKVUVUTnVIbzBZWUc5Sm5sYzhLZzdxS09TZXZXclhmYktFSmN6RXQ4NktIazQ1Skp2dGNFQ3VTbERiNGJFVys1Uzg5MVhla21kOEhuZWxjNU14UEdXRFE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.78/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJyS2xLUlA0NHBxb1hQOUhZQ2o1ZGViM2dPcDMvTzI2djkxa0lENHI3NWdSa2hNTnVIS1V1RnlwMUJjZytFT0ZhTXc2NEt1SUVhOW9kV2dCcDRVUlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU1MTcwCWZpbGU6SmliXzAuMS43N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjc3ClhQdWlJTkRDNHZMZHcybUQrWm90NmhmREk1N2czNVE0RjlYVGp4YXJ4Yk1vTUdFSWphOWwvRlBjd1F0VDdZR3c1d1lTcnVkWXYwODR4OEp5R3BSMkRRPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.77/Jib_0.1.77_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNEbDNoZFZEWFUySzg5VVViMnJ5bGxJVHlaSGNxSGZzZFZhZlduV2h6SjBaak9ZQnZBM2xNbmh0bTl4cFVEWU91eDZZQkR6aVdKb2RHay9KdVowU3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM4NDc4CWZpbGU6SmliXzAuMS43OF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjc4ClN1VFY0dzZvcllsZ0hBM1J4OHU1anFpTXB5UXdkQmlrdTZDUGRta2tLYmVHY1ZCRlhHZ0FodG5KdXEvN2dML3BtUy9BcHZLVTlNWi9iN3dwaEpsZkJ3PT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.78/Jib_0.1.78_x64-setup.exe"
     }
   }
 }
