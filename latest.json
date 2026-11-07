@@ -1,19 +1,19 @@
 {
-  "version": "0.1.78",
-  "notes": "\n- **첫 화면 캘린더에서 바로 일정을 넣을 수 있습니다.** 날짜를 더블클릭하거나, 날짜를 고르고 `+` 를 누르면 그 날로 입력 화면이 열립니다. 넣고 나면 그 날로 돌아와 새 일정이 바로 보입니다.",
-  "pub_date": "2026-11-01T13:01:13Z",
+  "version": "0.1.81",
+  "notes": "\n- **창 전환에서 창 미리 보기와 다른 데스크톱의 창이 보입니다(맥).** 창 전환 단축키를 `⌥⇥` 처럼 수식키와 함께 달면, 누른 채 `⇥` 로 돌다가 떼는 순간 그 창으로 갑니다. 짧게 눌렀다 떼면 바로 전 창으로 갑니다. 미리 보기는 설정 › 손쉬운 사용의 `화면 기록` 을 켜면 나옵니다. `알트탭` 으로도 찾습니다.\n- **창 전환에서 `⌥⇧⇥` 로 거꾸로 돕니다(맥).** 누른 채 돌다가 ⇧ 를 더하면 한 칸 뒤로, 처음부터 `⌥⇧⇥` 로 시작하면 맨 끝 창에서 시작합니다. 창 전환 단축키에 ⇧ 를 더한 조합이 저절로 함께 잡힙니다.\n- **창 전환 미리 보기에서 마우스를 올린 칸이 골라집니다(맥).** 올린 채 ⌥ 를 떼면 그 창으로 갑니다.\n- **창이 많아도 창 전환이 가볍습니다(맥).** 창이 많으면 미리 보기 칸이 작아져 더 많이 보이고, 미리 보기를 한꺼번에 몰아 찍지 않아 다른 앱의 화면 캡처를 방해하지 않습니다.",
+  "pub_date": "2026-11-07T18:12:23Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZ6eThaZGY4emNnc095YnpwYk9Nd0JlNnBxVVFLSDBqNEtCaHk3MUxCZ3FMZFpoZXhHdmx1Z2RacHdhSFhyYXRjNFE1WWg1cnFEaUl2OHVYZmRaQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM4MDQ5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzgKVUVUTnVIbzBZWUc5Sm5sYzhLZzdxS09TZXZXclhmYktFSmN6RXQ4NktIazQ1Skp2dGNFQ3VTbERiNGJFVys1Uzg5MVhla21kOEhuZWxjNU14UEdXRFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.78/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjd5T1Z1Z1ZpWXJERTNMZzFQK0FTNkhpRHFYNXRDVUxGQ3AvczlIMnRGeDRvdHhWS3FyRVRZaHZoVEI0VGxIOFBiMVpwWlM2WVFabVBXMElKM2FjQkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDc1MTEyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODEKNGNoNy9pZFo2ekdQZ2dxQStLeUI0Tkp3ZGRHSTJvWFVKa3BlRWVDdWxYWVU1bnF0T0FkRFFLbEJIVTRvcjF4YStuSm9ISkV4NE9IeUJvQWJGQVJRREE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.81/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZ6eThaZGY4emNnc095YnpwYk9Nd0JlNnBxVVFLSDBqNEtCaHk3MUxCZ3FMZFpoZXhHdmx1Z2RacHdhSFhyYXRjNFE1WWg1cnFEaUl2OHVYZmRaQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM4MDQ5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzgKVUVUTnVIbzBZWUc5Sm5sYzhLZzdxS09TZXZXclhmYktFSmN6RXQ4NktIazQ1Skp2dGNFQ3VTbERiNGJFVys1Uzg5MVhla21kOEhuZWxjNU14UEdXRFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.78/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjd5T1Z1Z1ZpWXJERTNMZzFQK0FTNkhpRHFYNXRDVUxGQ3AvczlIMnRGeDRvdHhWS3FyRVRZaHZoVEI0VGxIOFBiMVpwWlM2WVFabVBXMElKM2FjQkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDc1MTEyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODEKNGNoNy9pZFo2ekdQZ2dxQStLeUI0Tkp3ZGRHSTJvWFVKa3BlRWVDdWxYWVU1bnF0T0FkRFFLbEJIVTRvcjF4YStuSm9ISkV4NE9IeUJvQWJGQVJRREE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.81/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNEbDNoZFZEWFUySzg5VVViMnJ5bGxJVHlaSGNxSGZzZFZhZlduV2h6SjBaak9ZQnZBM2xNbmh0bTl4cFVEWU91eDZZQkR6aVdKb2RHay9KdVowU3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM4NDc4CWZpbGU6SmliXzAuMS43OF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjc4ClN1VFY0dzZvcllsZ0hBM1J4OHU1anFpTXB5UXdkQmlrdTZDUGRta2tLYmVHY1ZCRlhHZ0FodG5KdXEvN2dML3BtUy9BcHZLVTlNWi9iN3dwaEpsZkJ3PT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.78/Jib_0.1.78_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjcveXdTbmNMMVl2N2h5MWR3YTRHR1ZMUTVkV0JTdXZCczNqcFlHTzY0aTBCRlFsTHYrNDFKeUlBUFV5Q2tNVjhoWm5QeDZVRmNPeWpTUDhFUnJLbVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDc1ODIxCWZpbGU6SmliXzAuMS44MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjgxCi91UTZXdlFIQ0tDR2F2N2wwbUZHZWNaQS9YMnlONzZ4eGhoYWhhRUYvUWJpZktlVlp4anlMdndUWjBnVVNPakRFL2pBNloxUlNhcnlEb2kzMU1lT0F3PT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.81/Jib_0.1.81_x64-setup.exe"
     }
   }
 }
