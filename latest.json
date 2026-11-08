@@ -1,19 +1,19 @@
 {
-  "version": "0.1.85",
-  "notes": "\n<<<<<<< HEAD\n- **기본 단축키 (Windows)** 맥처럼 자주 쓰는 기능에 `Ctrl+Alt+Shift` 단축키가 달립니다.\n- **붙여넣기 스택 (Windows)** 여러 번 복사한 것을 복사한 순서대로 하나씩 붙여넣습니다.\n- **업데이트 내역 정리** 업데이트 화면의 내역을 짧은 제목과 한 줄 설명으로 깔끔하게 보여 줍니다.\n- **자연스러운 문구** 앱 곳곳의 어색한 표현을 맥·Windows 에서 흔히 쓰는 말로 바꿨습니다.\n- **런처 끌어 옮기기 (Windows)** 끌려고 누르는 순간 런처가 닫히던 것을 고쳤습니다.\n- **단축키 안내 바탕 (Windows)** 뒤의 창이 비치지 않게 런처와 같은 흐린 바탕을 씁니다.",
-  "pub_date": "2026-11-08T11:44:10Z",
+  "version": "0.1.86",
+  "notes": "\n- **창 전환이 안 되던 문제 수정 (맥)** 설정 창을 연 뒤 다른 앱의 창으로 전환되지 않던 문제를 고쳤습니다.\n- **설정 로고를 앱 아이콘과 같게** 설정 창 왼쪽 위에 실행 아이콘이 그대로 보입니다.\n- **바뀐 앱 아이콘 반영** 앱을 업데이트해 아이콘이 바뀌면 런처에도 새 아이콘이 보입니다.",
+  "pub_date": "2026-11-08T12:19:43Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjg2Ky9vY05JTmlLaUpNSjhMSXR1TUlkSkcrSzZRVjZ1N3FTYmNqUnNsUE5oSVRCTTVGdkFtTXVWOFprUDM0REtRUS8zZGpESkl2QkFqU1Z4aTZhRndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTM4MjI2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODUKVjlWVXM5WTNnRmJxZzYzMWo4REdlc3hWUFRNcW4vcTdDMW1mU2ViN3dnMVJpWlUzSUhFbWpGR0NiT3dwRDNwMERYSzVkYTE0VHk3cEo1K0ZhWi9vQ0E9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.85/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndoZjFDSkpYK2FOMURjeEpWWndFd2ZCa3gwVGRnSUpkbnZuYXkvelROVjRhRGN1ZmY5OGkrQy9HSEFmblcwbGdpS3dMb0VIWmZjdGlIUHRZMEhjQndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQwMzUyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODYKVi8yNmQwSU9ZZ3ZjS2JMeUFOTnY0ZS9qTmNIeUFOclZFTDU1cnVXWXRtMGVkdG1lZXd6V3ZFTjMxdHBGU01oSkNNNVBFUXhZOE1tOHd1dG5BdlFVRGc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.86/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjg2Ky9vY05JTmlLaUpNSjhMSXR1TUlkSkcrSzZRVjZ1N3FTYmNqUnNsUE5oSVRCTTVGdkFtTXVWOFprUDM0REtRUS8zZGpESkl2QkFqU1Z4aTZhRndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTM4MjI2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODUKVjlWVXM5WTNnRmJxZzYzMWo4REdlc3hWUFRNcW4vcTdDMW1mU2ViN3dnMVJpWlUzSUhFbWpGR0NiT3dwRDNwMERYSzVkYTE0VHk3cEo1K0ZhWi9vQ0E9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.85/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndoZjFDSkpYK2FOMURjeEpWWndFd2ZCa3gwVGRnSUpkbnZuYXkvelROVjRhRGN1ZmY5OGkrQy9HSEFmblcwbGdpS3dMb0VIWmZjdGlIUHRZMEhjQndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQwMzUyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODYKVi8yNmQwSU9ZZ3ZjS2JMeUFOTnY0ZS9qTmNIeUFOclZFTDU1cnVXWXRtMGVkdG1lZXd6V3ZFTjMxdHBGU01oSkNNNVBFUXhZOE1tOHd1dG5BdlFVRGc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.86/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNKYUozQ0dJODV2am54WjREc08weDF5Q3RtMTZZKy9RN3MvYW9LbTkwTEVzSzdqSnk2NmE2VEVzMy9YN1d1VHJOZWgxQ1I2dE1VUy9XVFJhWXVBVXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTM4NTU5CWZpbGU6SmliXzAuMS44NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjg1Cm5nUDdWTGxYUXQzYWNKVWdneEUwOGZLd0Q5anlvQm1MTVg4SDY0NHFUQTFCbFJKQ1RMaGRkcWpsK2JGTURieGpYVDVQWE5YTnRqSDhQZFlkZkxNcEF3PT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.85/Jib_0.1.85_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpMa21VRU1ib0Z5UDdqclF0eEJmeGJQbk1RcWI4VG9veDlwbUowVEFjZGUwZVRzWTZJSFFWTVVoQ0oxMGY3cDkyS3J1MHlPUUJoZTY1bWNKZmFYR0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQwODU2CWZpbGU6SmliXzAuMS44Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjg2Cks3bUJscjNlOG9lQ1pkR291MzR1U0hwUGFjVHZVVk1acHM0RXYxYjQzTnhZM3gzU0tINFo5VzBPNWJXTDlJTGFhcXhhemkrcGxHanF3S2VaZmlOWUF3PT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.86/Jib_0.1.86_x64-setup.exe"
     }
   }
 }
