@@ -4,11 +4,11 @@
   "pub_date": "2026-11-08T15:23:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJ0UmhRZy9KSEJ3M013TGQ1bVdKeFkwVEFwakFLYnliMVlPdGtHOVVva3JHY0VweWdHVkozSVFnNE5IaGNORXE4OTJGU0V6ZFlwUXR0QWF5UjNjb3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUxMzU0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTEKN3NPZjNZdkV4SDlRNzNuaDgvUGkyRGFXSTdPUDJUcXN4QlpGWkwwTkJucVdpRUJLcE4xYzB2LzhkRWN4dEUzZk81dVdld2lqVkVZWVdmRXJBQy9vRGc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndkNFIrL2hSbXJaOTUxUXRxb2pZcEFGckxmcXVnVDBPcGMwOENsVENiL1BTS0tPVGdJUmVOZjdyaFJ4Sy9DRUtNRzlUeGJ5STlJQmdFM0FqMmJBR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUyNDkxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTEKWmxmQmJ2NlFXMVVjZm5BdXJoQmxsWFV1U1VrblJlWnhYR3pQckdsSzVJK0IyQkU5bWNtcG1ocVpJSGEwdmFvRyt5T0R5elZURktVdlhhZ0RXcll1Qmc9PQo=",
       "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.91/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJ0UmhRZy9KSEJ3M013TGQ1bVdKeFkwVEFwakFLYnliMVlPdGtHOVVva3JHY0VweWdHVkozSVFnNE5IaGNORXE4OTJGU0V6ZFlwUXR0QWF5UjNjb3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUxMzU0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTEKN3NPZjNZdkV4SDlRNzNuaDgvUGkyRGFXSTdPUDJUcXN4QlpGWkwwTkJucVdpRUJLcE4xYzB2LzhkRWN4dEUzZk81dVdld2lqVkVZWVdmRXJBQy9vRGc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndkNFIrL2hSbXJaOTUxUXRxb2pZcEFGckxmcXVnVDBPcGMwOENsVENiL1BTS0tPVGdJUmVOZjdyaFJ4Sy9DRUtNRzlUeGJ5STlJQmdFM0FqMmJBR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUyNDkxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTEKWmxmQmJ2NlFXMVVjZm5BdXJoQmxsWFV1U1VrblJlWnhYR3pQckdsSzVJK0IyQkU5bWNtcG1ocVpJSGEwdmFvRyt5T0R5elZURktVdlhhZ0RXcll1Qmc9PQo=",
       "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.91/Jib.app.tar.gz"
     },
     "windows-x86_64": {
