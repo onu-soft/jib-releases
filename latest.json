@@ -1,19 +1,19 @@
 {
-  "version": "0.1.86",
-  "notes": "\n- **창 전환이 안 되던 문제 수정 (맥)** 설정 창을 연 뒤 다른 앱의 창으로 전환되지 않던 문제를 고쳤습니다.\n- **설정 로고를 앱 아이콘과 같게** 설정 창 왼쪽 위에 실행 아이콘이 그대로 보입니다.\n- **바뀐 앱 아이콘 반영** 앱을 업데이트해 아이콘이 바뀌면 런처에도 새 아이콘이 보입니다.",
-  "pub_date": "2026-11-08T12:19:43Z",
+  "version": "0.1.87",
+  "notes": "\n- **앱·명령 묶음 접기** 빈 화면의 `앱`·`명령` 머리글을 누르면 접히고, 두 묶음이 굴리지 않아도 한 화면에 보입니다.",
+  "pub_date": "2026-11-08T12:52:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndoZjFDSkpYK2FOMURjeEpWWndFd2ZCa3gwVGRnSUpkbnZuYXkvelROVjRhRGN1ZmY5OGkrQy9HSEFmblcwbGdpS3dMb0VIWmZjdGlIUHRZMEhjQndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQwMzUyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODYKVi8yNmQwSU9ZZ3ZjS2JMeUFOTnY0ZS9qTmNIeUFOclZFTDU1cnVXWXRtMGVkdG1lZXd6V3ZFTjMxdHBGU01oSkNNNVBFUXhZOE1tOHd1dG5BdlFVRGc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.86/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZ2YmJIN0o2VFlWWFFZRXZFVkU4U2xDQlJGdjZmTUlNbUdxeW5oZ2RHYWQvODA2bXBxTG91ZGp3UnVpUGN4WWlwQ2p2RnBLZXBIdHVuaXFsWUtjRGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQyMzEyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODcKWGZzUGRUekxFNUhXcElCYnByWkFhUHprTHljbUtWQlJQYVFMZjUvVmQ5SmZOOUk0VHphZE5RMUNJbStZcnloRjk0RDJPekZFczhqVTU4VCtrVEprQXc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.87/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndoZjFDSkpYK2FOMURjeEpWWndFd2ZCa3gwVGRnSUpkbnZuYXkvelROVjRhRGN1ZmY5OGkrQy9HSEFmblcwbGdpS3dMb0VIWmZjdGlIUHRZMEhjQndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQwMzUyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODYKVi8yNmQwSU9ZZ3ZjS2JMeUFOTnY0ZS9qTmNIeUFOclZFTDU1cnVXWXRtMGVkdG1lZXd6V3ZFTjMxdHBGU01oSkNNNVBFUXhZOE1tOHd1dG5BdlFVRGc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.86/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZ2YmJIN0o2VFlWWFFZRXZFVkU4U2xDQlJGdjZmTUlNbUdxeW5oZ2RHYWQvODA2bXBxTG91ZGp3UnVpUGN4WWlwQ2p2RnBLZXBIdHVuaXFsWUtjRGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQyMzEyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODcKWGZzUGRUekxFNUhXcElCYnByWkFhUHprTHljbUtWQlJQYVFMZjUvVmQ5SmZOOUk0VHphZE5RMUNJbStZcnloRjk0RDJPekZFczhqVTU4VCtrVEprQXc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.87/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpMa21VRU1ib0Z5UDdqclF0eEJmeGJQbk1RcWI4VG9veDlwbUowVEFjZGUwZVRzWTZJSFFWTVVoQ0oxMGY3cDkyS3J1MHlPUUJoZTY1bWNKZmFYR0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQwODU2CWZpbGU6SmliXzAuMS44Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjg2Cks3bUJscjNlOG9lQ1pkR291MzR1U0hwUGFjVHZVVk1acHM0RXYxYjQzTnhZM3gzU0tINFo5VzBPNWJXTDlJTGFhcXhhemkrcGxHanF3S2VaZmlOWUF3PT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.86/Jib_0.1.86_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJwdEZZNnBHMzBpKzAwRGY4c1N4TUt1eE5UbURGYldzVUcwQUxmcDJsT3M0RU5zVmwrRmM1VmNDN3pLTFRQd3dLTm9OdEh2ejN2b1AyMlJxclhJZFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQyNzE2CWZpbGU6SmliXzAuMS44N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjg3CmRnOXhGUEF0MjU3U0phd1F1YUM2Yk9Pc2dRTlJlbVFBdTZ4aGZBV0NLM3U5RjkrMnRMU09jazhMWkdkMXJWMWx1Y291UnhEWW5hUTQycG9sK0NsU0N3PT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.87/Jib_0.1.87_x64-setup.exe"
     }
   }
 }
