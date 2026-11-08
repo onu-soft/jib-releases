@@ -1,19 +1,19 @@
 {
-  "version": "0.1.83",
-  "notes": "\n- **창 전환을 설정에서 내 방식대로 맞출 수 있습니다(맥).** 설정 › 창 전환에서 보기(미리보기 · 앱 아이콘 · 제목)와 크기, 키를 놓은 뒤 바로 갈지 화면을 남길지 고릅니다.\n- **창 전환에 보일 윈도우를 거를 수 있습니다(맥).** 지금 앱 · 지금 데스크탑 · 마우스가 있는 화면의 윈도우만 보거나, 최소화된 · 가려진 앱의 · 전체 화면 윈도우를 맨 뒤로 보내거나 뺍니다. 윈도우가 없는 앱도 보이게 할 수 있습니다.\n- **앱별 예외를 둘 수 있습니다(맥).** 특정 앱의 윈도우를 빼거나, 원격 데스크탑·가상 머신이 앞에 있을 때는 창 전환 단축키를 그 앱에 넘깁니다. 화면 공유 · Windows App · Parallels 등은 처음부터 들어 있습니다.\n- **창 전환에서 ⌘H 로 가린 앱의 창을 고르면 그 창이 맨 앞에 옵니다(맥).** 예전에는 앱만 다시 보이고 앞에 오지 않았습니다.",
-  "pub_date": "2026-11-08T09:18:23Z",
+  "version": "0.1.84",
+  "notes": "\n- **화면 글자 인식이 세로쓰기도 읽습니다(맥).** 일본 잡지 PDF 처럼 세로로 쓴 글을 고르면 예전에는 아무것도 못 읽었습니다. 가로로 쓴 글은 예전과 같이 읽습니다.",
+  "pub_date": "2026-11-08T09:59:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdLWVRPcFFEcDJSWWVxaDlNVFBibWRlT3NPUXNsUlY1WDRLQ1V1amFNOHpSWW5yQnY5SWU2Z2pGWnB4ZnJaanFVVnRGNHIvckVTczR1clF0U1huc0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTI5NDc1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODMKMzNRM0p1eFJsZ2VscC90RkRORzc4Sm5vMnA1QlNIR3ZPb3VDc3pBRU1JT3N3RXo3cEZMNzU1SzVUZEVTaUQ4dC9kT0ZHSk9Ncy9vVVBadGFSQmZSRGc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.83/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjBTbVlBRERLQktlY1BPeFNmdkJWYkpXTDBiSnorL1hBWEU1MkZ0VGxhdlVLYzJvZHRKN0sySEVKQ002UksrdWRlaWVYUGpCZjk2L2UrakZ3aFZudEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMxOTcwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODQKb0hwMWlCZjhlT2pPcm5DSWxFQmNJRTB1Ykt1RXZtVkY1dUVTdWF4bm15RXJCRk5PSEM5bTk4SDBla01JWG9Pc2dFOVVmWndMZWtxbUF0ZWRNWmw3QlE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.84/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdLWVRPcFFEcDJSWWVxaDlNVFBibWRlT3NPUXNsUlY1WDRLQ1V1amFNOHpSWW5yQnY5SWU2Z2pGWnB4ZnJaanFVVnRGNHIvckVTczR1clF0U1huc0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTI5NDc1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODMKMzNRM0p1eFJsZ2VscC90RkRORzc4Sm5vMnA1QlNIR3ZPb3VDc3pBRU1JT3N3RXo3cEZMNzU1SzVUZEVTaUQ4dC9kT0ZHSk9Ncy9vVVBadGFSQmZSRGc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.83/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjBTbVlBRERLQktlY1BPeFNmdkJWYkpXTDBiSnorL1hBWEU1MkZ0VGxhdlVLYzJvZHRKN0sySEVKQ002UksrdWRlaWVYUGpCZjk2L2UrakZ3aFZudEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMxOTcwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODQKb0hwMWlCZjhlT2pPcm5DSWxFQmNJRTB1Ykt1RXZtVkY1dUVTdWF4bm15RXJCRk5PSEM5bTk4SDBla01JWG9Pc2dFOVVmWndMZWtxbUF0ZWRNWmw3QlE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.84/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnl3NXIzY2ZWQWlSZ2J6Wnl2dFlzZjAveERFQVJsb0V6aWFscytMUTlRc2lENFpFckVQTmdqRnhVMmhRaUorTWkzSEJHTmJPRGFpSFNGbmtEb2IwdFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTI5OTEwCWZpbGU6SmliXzAuMS44M194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjgzCmZQcVBtcFpud0d2Y0hVUHR5VENhOVdnZ0FpT2FIdlUwc001Yk1rYXNrOHNhRGFLVHFqckM5Vm5GOGdSaUdSUlpvMENFbi9MRVhNT0FaVkc2enhCREJRPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.83/Jib_0.1.83_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpoY3d1aUlnakR0OUpmUVEwUEtBVEtRMUdMQk5CTFZvMFpxQVRSZ1JYV2diR1MxcEgzSlgvbHQ1NTF6UGpXKzc3N1VJS3IrWlAvY2haZUpDNnJUc1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMyMzk5CWZpbGU6SmliXzAuMS44NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjg0CnJVb1NZS3Q5bU82WWNVdmp3SkRQMHJTcWJxU1F3dlBDTVNLbkg4VGZzS0kzeDlqQk45dUhmbDMrQkdvRkRDWndVSFpaTjkzT3hJWTdzdzRTRFFtRkRBPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.84/Jib_0.1.84_x64-setup.exe"
     }
   }
 }
