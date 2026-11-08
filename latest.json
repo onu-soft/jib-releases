@@ -1,19 +1,19 @@
 {
-  "version": "0.1.90",
-  "notes": "\n- **백스페이스로 이전 화면** 검색 칸이 비어 있을 때 백스페이스를 누르면 이전 화면으로 돌아갑니다.\n- **새 라이트 테마** 밝은 흰 바탕과 선명한 파랑으로 바꾸고, 고른 줄이 하늘빛으로 또렷하게 보입니다.\n- **단축키 안내 칸 깜빡임 수정** 단축키가 많아 두 단이 될 때 안내 칸 옆에 빈 칸이 깜빡이던 문제를 고쳤습니다.\n- **또렷한 글자 (Windows)** 글자를 한 단계 키우고 조금 굵게 해 Windows 화면에서도 읽기 쉽습니다.",
-  "pub_date": "2026-11-08T14:47:54Z",
+  "version": "0.1.91",
+  "notes": "\n- **터미널에서 고른 글로 AI 묻기 (Windows)** Windows 터미널에서 골라 둔 글도 `Ctrl+Alt+Shift+Q` 로 AI 에게 물을 수 있습니다.\n- **빈 런처 자동 복구** 런처가 아무것도 안 그려진 채 뜨면 스스로 화면을 다시 불러옵니다.",
+  "pub_date": "2026-11-08T15:23:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlLSzBXczNMOUozVnZRb3ZNUU90b1lRVFlRN0VBRy9PVGFwMWdVYS9yN09hM3hrZ3NzYUZkeVVxck5KZ25nSDBNWnBjV211U0tiaWxlZ01abHZ3QVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQ5MjQ0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTAKcVVhb0tWTEkrdVNGZVdUWDZHa29xb1RSTStweVZicDFUYUtYYVgvZFNaeFVhSGxVcGNnS0d1THRxS1JFc3lmL0duRnlISzdBeTFEeTAweUpwT1VNQ0E9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.90/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJ0UmhRZy9KSEJ3M013TGQ1bVdKeFkwVEFwakFLYnliMVlPdGtHOVVva3JHY0VweWdHVkozSVFnNE5IaGNORXE4OTJGU0V6ZFlwUXR0QWF5UjNjb3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUxMzU0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTEKN3NPZjNZdkV4SDlRNzNuaDgvUGkyRGFXSTdPUDJUcXN4QlpGWkwwTkJucVdpRUJLcE4xYzB2LzhkRWN4dEUzZk81dVdld2lqVkVZWVdmRXJBQy9vRGc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.91/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlLSzBXczNMOUozVnZRb3ZNUU90b1lRVFlRN0VBRy9PVGFwMWdVYS9yN09hM3hrZ3NzYUZkeVVxck5KZ25nSDBNWnBjV211U0tiaWxlZ01abHZ3QVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQ5MjQ0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTAKcVVhb0tWTEkrdVNGZVdUWDZHa29xb1RSTStweVZicDFUYUtYYVgvZFNaeFVhSGxVcGNnS0d1THRxS1JFc3lmL0duRnlISzdBeTFEeTAweUpwT1VNQ0E9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.90/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJ0UmhRZy9KSEJ3M013TGQ1bVdKeFkwVEFwakFLYnliMVlPdGtHOVVva3JHY0VweWdHVkozSVFnNE5IaGNORXE4OTJGU0V6ZFlwUXR0QWF5UjNjb3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUxMzU0CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTEKN3NPZjNZdkV4SDlRNzNuaDgvUGkyRGFXSTdPUDJUcXN4QlpGWkwwTkJucVdpRUJLcE4xYzB2LzhkRWN4dEUzZk81dVdld2lqVkVZWVdmRXJBQy9vRGc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.91/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjFBUlBMNVUrakpOMFhTRm1SUFU4WGV4YU9qdWljN1E1WTFQZHFVdjg3eFR0a2pEbXF2UEZpazhnaDZ1bmZseUw1ajk2L1RHM2JGS1ZxY0U5QTd2QkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQ5NjM2CWZpbGU6SmliXzAuMS45MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjkwClBYMm1TanEvZnlNcnVBbXpEdnIxZVIycGo4eEV4K3B1YzhBMVVFZVRtOEtiN2pwM1UzRUtUQ2ZzMEtLMFRQaW1lTjFYUzNQcmQ2RlFtLzBsb29SakR3PT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.90/Jib_0.1.90_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjhzMjJFazlxN1hDdERwUkIxcmsrWUVhbm5mTjRzR2gzb2ZrUWc4QWR1a0l6K280RU1BZWcyRVR5dWFXR3NtN0ZYY3BoL3FUNUFQSjY0NTh6cmdDS3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUyOTMwCWZpbGU6SmliXzAuMS45MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjkxClhXaUtXazQ3Nk0rVGxoeVNzV1hNUjgzeFhZRUpRR2ZYMjZOUnoyWEtDVGZoeUN4RzVvbElmbktkSm4rSkE0QkxvSktNTUxDS0RKRGUyTnpnTHpnTEF3PT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.91/Jib_0.1.91_x64-setup.exe"
     }
   }
 }
