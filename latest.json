@@ -1,19 +1,19 @@
 {
-  "version": "0.1.84",
-  "notes": "\n- **화면 글자 인식이 세로쓰기도 읽습니다(맥).** 일본 잡지 PDF 처럼 세로로 쓴 글을 고르면 예전에는 아무것도 못 읽었습니다. 가로로 쓴 글은 예전과 같이 읽습니다.",
-  "pub_date": "2026-11-08T09:59:59Z",
+  "version": "0.1.85",
+  "notes": "\n<<<<<<< HEAD\n- **기본 단축키 (Windows)** 맥처럼 자주 쓰는 기능에 `Ctrl+Alt+Shift` 단축키가 달립니다.\n- **붙여넣기 스택 (Windows)** 여러 번 복사한 것을 복사한 순서대로 하나씩 붙여넣습니다.\n- **업데이트 내역 정리** 업데이트 화면의 내역을 짧은 제목과 한 줄 설명으로 깔끔하게 보여 줍니다.\n- **자연스러운 문구** 앱 곳곳의 어색한 표현을 맥·Windows 에서 흔히 쓰는 말로 바꿨습니다.\n- **런처 끌어 옮기기 (Windows)** 끌려고 누르는 순간 런처가 닫히던 것을 고쳤습니다.\n- **단축키 안내 바탕 (Windows)** 뒤의 창이 비치지 않게 런처와 같은 흐린 바탕을 씁니다.",
+  "pub_date": "2026-11-08T11:44:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjBTbVlBRERLQktlY1BPeFNmdkJWYkpXTDBiSnorL1hBWEU1MkZ0VGxhdlVLYzJvZHRKN0sySEVKQ002UksrdWRlaWVYUGpCZjk2L2UrakZ3aFZudEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMxOTcwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODQKb0hwMWlCZjhlT2pPcm5DSWxFQmNJRTB1Ykt1RXZtVkY1dUVTdWF4bm15RXJCRk5PSEM5bTk4SDBla01JWG9Pc2dFOVVmWndMZWtxbUF0ZWRNWmw3QlE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.84/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjg2Ky9vY05JTmlLaUpNSjhMSXR1TUlkSkcrSzZRVjZ1N3FTYmNqUnNsUE5oSVRCTTVGdkFtTXVWOFprUDM0REtRUS8zZGpESkl2QkFqU1Z4aTZhRndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTM4MjI2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODUKVjlWVXM5WTNnRmJxZzYzMWo4REdlc3hWUFRNcW4vcTdDMW1mU2ViN3dnMVJpWlUzSUhFbWpGR0NiT3dwRDNwMERYSzVkYTE0VHk3cEo1K0ZhWi9vQ0E9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.85/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjBTbVlBRERLQktlY1BPeFNmdkJWYkpXTDBiSnorL1hBWEU1MkZ0VGxhdlVLYzJvZHRKN0sySEVKQ002UksrdWRlaWVYUGpCZjk2L2UrakZ3aFZudEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMxOTcwCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODQKb0hwMWlCZjhlT2pPcm5DSWxFQmNJRTB1Ykt1RXZtVkY1dUVTdWF4bm15RXJCRk5PSEM5bTk4SDBla01JWG9Pc2dFOVVmWndMZWtxbUF0ZWRNWmw3QlE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.84/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjg2Ky9vY05JTmlLaUpNSjhMSXR1TUlkSkcrSzZRVjZ1N3FTYmNqUnNsUE5oSVRCTTVGdkFtTXVWOFprUDM0REtRUS8zZGpESkl2QkFqU1Z4aTZhRndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTM4MjI2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuODUKVjlWVXM5WTNnRmJxZzYzMWo4REdlc3hWUFRNcW4vcTdDMW1mU2ViN3dnMVJpWlUzSUhFbWpGR0NiT3dwRDNwMERYSzVkYTE0VHk3cEo1K0ZhWi9vQ0E9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.85/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnpoY3d1aUlnakR0OUpmUVEwUEtBVEtRMUdMQk5CTFZvMFpxQVRSZ1JYV2diR1MxcEgzSlgvbHQ1NTF6UGpXKzc3N1VJS3IrWlAvY2haZUpDNnJUc1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTMyMzk5CWZpbGU6SmliXzAuMS44NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjg0CnJVb1NZS3Q5bU82WWNVdmp3SkRQMHJTcWJxU1F3dlBDTVNLbkg4VGZzS0kzeDlqQk45dUhmbDMrQkdvRkRDWndVSFpaTjkzT3hJWTdzdzRTRFFtRkRBPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.84/Jib_0.1.84_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjNKYUozQ0dJODV2am54WjREc08weDF5Q3RtMTZZKy9RN3MvYW9LbTkwTEVzSzdqSnk2NmE2VEVzMy9YN1d1VHJOZWgxQ1I2dE1VUy9XVFJhWXVBVXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTM4NTU5CWZpbGU6SmliXzAuMS44NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjg1Cm5nUDdWTGxYUXQzYWNKVWdneEUwOGZLd0Q5anlvQm1MTVg4SDY0NHFUQTFCbFJKQ1RMaGRkcWpsK2JGTURieGpYVDVQWE5YTnRqSDhQZFlkZkxNcEF3PT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.85/Jib_0.1.85_x64-setup.exe"
     }
   }
 }
