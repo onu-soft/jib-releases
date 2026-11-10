@@ -1,19 +1,19 @@
 {
-  "version": "0.1.94",
-  "notes": "\n- **창 전환 깜빡임 없음** `⌥⇥` 로 열면 지난 창 목록과 미리 보기가 곧바로 보이고, 옆 안내 칸 폭도 그대로입니다.\n- **켠 직후 높이 흔들림 없음** 부팅 직후 늦게 온 날씨·메일 띠가 떠 있는 런처를 밀어내지 않습니다.",
-  "pub_date": "2026-11-10T15:03:59Z",
+  "version": "0.1.95",
+  "notes": "\n- **같은 앱 창 전환 (맥)** `같은 앱 창 전환` 에 단축키를 달면 지금 앱의 창만 미리 보기로 돌립니다.",
+  "pub_date": "2026-11-10T16:52:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjV0WEF6RldsNTR3TEloM3RuMEdBT2w1RGxtU2VMK21FcGU5M3ZLakp2TElUZCt2MXprVnJVSXl0VllOVS9Uc3BhSGwwTlJmSFVKSzVYUlVPUWpEc2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzIzMDAzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTQKNkt3OXpUQ3g2REtjWEkwOVd3ODI5VjZ5MWpqT0x4d29BdmZqZ1d4RkxXOHNxeDlQaDd5bGsxblN2ZVg0SmZhSVRlbldjUHQzN1ZhdDJKVmVJVVF0QXc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.94/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjVtcTJjUGF4ZWJuWkRiT1RXZXc3cFVwU21NSHdUNVRUbVNJRGFzVkUvWERNZm9nN2JGa29FK2x4N2pNV2JSbm1qdkhzNnNsNHJNMWRjcHNheEE2SFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI5NTI3CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTUKSjFOaXBySXJuWmhHeS9nS1dmaHJQYWd2eHZJdHBOZ044K3dobTJLNkNPY2JYQzNiNVdkTTNUZnhGejc5MFZsQ3lYQURqdVJHV0F5eUJjbU85SE1YQkE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.95/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjV0WEF6RldsNTR3TEloM3RuMEdBT2w1RGxtU2VMK21FcGU5M3ZLakp2TElUZCt2MXprVnJVSXl0VllOVS9Uc3BhSGwwTlJmSFVKSzVYUlVPUWpEc2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzIzMDAzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTQKNkt3OXpUQ3g2REtjWEkwOVd3ODI5VjZ5MWpqT0x4d29BdmZqZ1d4RkxXOHNxeDlQaDd5bGsxblN2ZVg0SmZhSVRlbldjUHQzN1ZhdDJKVmVJVVF0QXc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.94/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjVtcTJjUGF4ZWJuWkRiT1RXZXc3cFVwU21NSHdUNVRUbVNJRGFzVkUvWERNZm9nN2JGa29FK2x4N2pNV2JSbm1qdkhzNnNsNHJNMWRjcHNheEE2SFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI5NTI3CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTUKSjFOaXBySXJuWmhHeS9nS1dmaHJQYWd2eHZJdHBOZ044K3dobTJLNkNPY2JYQzNiNVdkTTNUZnhGejc5MFZsQ3lYQURqdVJHV0F5eUJjbU85SE1YQkE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.95/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjc5NXVRYXBNMEZxVWpDcGRvYi8vbkwvUG10eFhibG9qTGdLalpZd0xTN05sSktaRUo4RkdLNFIwNncvTTlIT055VVVESzNQQ1JnMHZ6S3RHVkhlTGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzIzNDk5CWZpbGU6SmliXzAuMS45NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjk0Cnh5VEJIZWQrNEpKWWFpeUFTOFFTclViN2crQ29hZHV2aEw3Mk5FZEx1QU5MTTVwUVJON0ptL0hFREduNWg5bFdOaXJWTzhuNnYyRUFlUmUxUDNjN0NBPT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.94/Jib_0.1.94_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnplMkY0TUZPRXFrT21ZTDZIQjlsQUlibGVOTWhtT0t5cXovYkhSRHZ4RXBuK3pkNTRYRkt1YXliOEwvSGxBSW96eGJ5bUE3YzRxcWFxcitzbzFTeHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzMwMDI0CWZpbGU6SmliXzAuMS45NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjk1CmpUME9DOHRGdlFISUlzblI2R25wMC9jZVdNOEFoTnczVTIzbkUzNVJOQkozT3ZGY0txUFA0a1VFUTBOT3BxbkR1ZVFnOXVNZGJnZVVINWhrQTFBZ0JRPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.95/Jib_0.1.95_x64-setup.exe"
     }
   }
 }
