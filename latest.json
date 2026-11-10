@@ -1,19 +1,19 @@
 {
-  "version": "0.1.91",
-  "notes": "\n- **터미널에서 고른 글로 AI 묻기 (Windows)** Windows 터미널에서 골라 둔 글도 `Ctrl+Alt+Shift+Q` 로 AI 에게 물을 수 있습니다.\n- **빈 런처 자동 복구** 런처가 아무것도 안 그려진 채 뜨면 스스로 화면을 다시 불러옵니다.",
-  "pub_date": "2026-11-08T15:23:03Z",
+  "version": "0.1.92",
+  "notes": "\n- **실행 중인 앱 삭제** `앱 삭제` 가 실행 중인 앱을 먼저 종료한 뒤 휴지통으로 보냅니다 — 지웠는데 계속 실행되던 문제를 고쳤습니다.\n- **오류 안내** 런처의 오류 안내가 화면에 나오지 않던 문제를 고쳤습니다.\n- **단축키 안내 칸 높이** 런처 옆 단축키 안내 칸이 런처와 같은 높이로 붙고, 켠 직후에도 `앱 열기` 단축키가 빠지지 않습니다.",
+  "pub_date": "2026-11-10T13:04:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndkNFIrL2hSbXJaOTUxUXRxb2pZcEFGckxmcXVnVDBPcGMwOENsVENiL1BTS0tPVGdJUmVOZjdyaFJ4Sy9DRUtNRzlUeGJ5STlJQmdFM0FqMmJBR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUyNDkxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTEKWmxmQmJ2NlFXMVVjZm5BdXJoQmxsWFV1U1VrblJlWnhYR3pQckdsSzVJK0IyQkU5bWNtcG1ocVpJSGEwdmFvRyt5T0R5elZURktVdlhhZ0RXcll1Qmc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.91/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjIxQ2tSYkhkbk9rb1pkeDhVMFJrejl0RG9HSVBQbHloV1JpUnZCU0owbnljV0NNVlRFNnhXTTZvdFExTmovM0lHZjRtNDBNWkg5eUlDd0FrdC93Nmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE1ODM5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTIKWXFHaG53TTBMazY2ODIrWHBnSnFnUVV5VEltbUJDbHM2c0lHKzdvTG1FbFp6ckd4VDk4ZEZKdU9EOTBOeWlUVUlmT0tuZGN0RTRoS3RGdnp2R3ZjQXc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.92/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndkNFIrL2hSbXJaOTUxUXRxb2pZcEFGckxmcXVnVDBPcGMwOENsVENiL1BTS0tPVGdJUmVOZjdyaFJ4Sy9DRUtNRzlUeGJ5STlJQmdFM0FqMmJBR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUyNDkxCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTEKWmxmQmJ2NlFXMVVjZm5BdXJoQmxsWFV1U1VrblJlWnhYR3pQckdsSzVJK0IyQkU5bWNtcG1ocVpJSGEwdmFvRyt5T0R5elZURktVdlhhZ0RXcll1Qmc9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.91/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjIxQ2tSYkhkbk9rb1pkeDhVMFJrejl0RG9HSVBQbHloV1JpUnZCU0owbnljV0NNVlRFNnhXTTZvdFExTmovM0lHZjRtNDBNWkg5eUlDd0FrdC93Nmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE1ODM5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTIKWXFHaG53TTBMazY2ODIrWHBnSnFnUVV5VEltbUJDbHM2c0lHKzdvTG1FbFp6ckd4VDk4ZEZKdU9EOTBOeWlUVUlmT0tuZGN0RTRoS3RGdnp2R3ZjQXc9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.92/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjhzMjJFazlxN1hDdERwUkIxcmsrWUVhbm5mTjRzR2gzb2ZrUWc4QWR1a0l6K280RU1BZWcyRVR5dWFXR3NtN0ZYY3BoL3FUNUFQSjY0NTh6cmdDS3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUyOTMwCWZpbGU6SmliXzAuMS45MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjkxClhXaUtXazQ3Nk0rVGxoeVNzV1hNUjgzeFhZRUpRR2ZYMjZOUnoyWEtDVGZoeUN4RzVvbElmbktkSm4rSkE0QkxvSktNTUxDS0RKRGUyTnpnTHpnTEF3PT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.91/Jib_0.1.91_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjY3dzFHZnZ1RVdOWG85QllTaXRMdk8zTGFndGVlbHNjRmRBZEpGTzRrdlAyZTJ0WFdYeFpWWk9xQjRBL0RGRWZGeWxNVGRqc3dTcFd5aE5mbnJjVFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE2NDg1CWZpbGU6SmliXzAuMS45Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjkyCjRxczVjYnEvU3dES29jS3I4NEQ4dm5TRWpNTmozckQyS0Z3VTNIWE9Dbmd2T0ljamlFNGdSMy9ybXVucmFuNU1wa2U4Q21MS1BZY1pnNUVoV2RneUF3PT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.92/Jib_0.1.92_x64-setup.exe"
     }
   }
 }
