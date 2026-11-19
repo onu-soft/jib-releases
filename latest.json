@@ -1,19 +1,19 @@
 {
-  "version": "0.1.96",
-  "notes": "\n- **화면 언어 선택** 설정 › 일반 › 언어에서 한국어·English·日本語·中文·Español 중에 고를 수 있습니다.\n- **할 일 수정·지우기 단축키** 목록에서 할 일을 고르면 아래 막대에 `⌘E` 수정 · `⌘⌫` 지우기가 보입니다.\n- **할 일 다시 알림** 시간이 지난 할 일을 끝낼 때까지 15분마다 다시 알립니다(최대 5번, 설정 › 일반에서 간격 선택).\n- **할 일마다 알림 방식** 할 일을 추가·수정하는 화면의 `알림` 줄에서 `알림 없음`·`한 번`·`5분마다` 등을 고릅니다.\n- **할 일 추가 명령** 목록의 `할 일 추가` 를 누르면 반복·날짜·시간을 고르는 화면이 바로 열립니다.\n- **단축키 안내가 런처를 가리지 않음** AI 답처럼 낮은 화면에서도 안내 칸이 런처 위에 겹치지 않고 옆에 알맞은 폭으로 붙습니다.\n- **할 일 목록 순서 고정** 목록에서 할 일을 눌러 완료해도 그 자리에 남아 다른 일이 잘못 눌리지 않습니다.",
-  "pub_date": "2026-11-15T12:13:52Z",
+  "version": "0.1.97",
+  "notes": "\n- **런처가 빈 화면으로 뜨던 문제** 검색 결과에서 아래쪽 줄을 고른 채 닫으면 다음에 목록이 통째로 비던 것을 고쳤습니다.",
+  "pub_date": "2026-11-19T17:03:44Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnhtMnA2eWUvVy84RkMwdHJUMTd1L3VaY1lpMUZOd2ZZVFgveTVHNk9vTlJxZUZtZ0oyb1ZzVSt3MnNuQkZPVXdQWjl5N2hTdG5iRVBlMVhFZ2RCYkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ0ODA5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTYKa1drNzZOWFJReHZIeW1zRTM1TlVyQXZuR3NUcVFPbThoZlJ4VGdIUURPdDdhQXNwZ25sdnpFOXN6cU54Z0RuQWVSeG5EUVVkVi9qazgraDdHUWV5QlE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.96/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjN6Mkdqb2x1Z0xSNTdIQTBMWUxsQjZIbVovSnk5bGUzd0NiNytDOXA4NzBUTVFtQXk2Qk5mK2FaUzEzZlNyNmo5K1hqRGlNcTI3WlZTeE5NK01tYUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA3NzgyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTcKb3lqc3V5d2g1bWc4RytkSXdJWENCUisvSXlyRWExRmZpLzQ1a2JyYUw2VXNmSVJ5MFNjVVBQdkVtMElaWDBITmw0ZHU1cDR0RDY2SWs3VGdvM0NIREE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.97/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnhtMnA2eWUvVy84RkMwdHJUMTd1L3VaY1lpMUZOd2ZZVFgveTVHNk9vTlJxZUZtZ0oyb1ZzVSt3MnNuQkZPVXdQWjl5N2hTdG5iRVBlMVhFZ2RCYkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ0ODA5CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTYKa1drNzZOWFJReHZIeW1zRTM1TlVyQXZuR3NUcVFPbThoZlJ4VGdIUURPdDdhQXNwZ25sdnpFOXN6cU54Z0RuQWVSeG5EUVVkVi9qazgraDdHUWV5QlE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.96/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjN6Mkdqb2x1Z0xSNTdIQTBMWUxsQjZIbVovSnk5bGUzd0NiNytDOXA4NzBUTVFtQXk2Qk5mK2FaUzEzZlNyNmo5K1hqRGlNcTI3WlZTeE5NK01tYUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA3NzgyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTcKb3lqc3V5d2g1bWc4RytkSXdJWENCUisvSXlyRWExRmZpLzQ1a2JyYUw2VXNmSVJ5MFNjVVBQdkVtMElaWDBITmw0ZHU1cDR0RDY2SWs3VGdvM0NIREE9PQo=",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.97/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnk5TEJnbG9iNmpuS1NvR2tralh4aWE1ZzM1YlVNVi9BQ05Vb1dkWFMzOHBsOHdSVytpdDNGdk8rQkpXNlpiTDVtRFhyUGh0aDEvMWJBYWR0TTY3WUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ1ODEyCWZpbGU6SmliXzAuMS45Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjk2Ci9TL1hNeHVEL1ZiRFNzUVpFOEN3YWpzTmpORjNpeVlOODJ6a3Z5dWRjZGsvN3UyVEw5RU5XVGVUd0Z1eDFnRWYvY09Wc0xSUVBVNzVORXFlSmtORkF3PT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.96/Jib_0.1.96_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjV4ZWNVNnhNNG8rUzF2T1Vyamo1cXpjZDV1MG84Z2hiNUNSZlZsbTJaV0hBOEhSUFZwWFNCZmc3dXFRVlkva3V5UU5US1h5RGFraHJIRURQeVY3M1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA4MTc1CWZpbGU6SmliXzAuMS45N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjk3ClowN0haZlZJVHlLbm54Nm9jaDhMVUNCN01qaFVHUm1hT2hHOTZNcGFZT3ZUeDNGaDc0QlA3Y0FjZWRzSUdDeG8vVGlpRXZCSHNTYlduM3hKd2FJc0JnPT0K",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.97/Jib_0.1.97_x64-setup.exe"
     }
   }
 }
