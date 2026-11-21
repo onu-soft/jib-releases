@@ -1,19 +1,19 @@
 {
-  "version": "0.2.0",
-  "notes": "\n- **저장 공간** 런처에서 `디스크` 를 치면 남은 공간과, 다시 만들 수 있는 큰 개발 캐시(Rust 빌드 폴더 · Xcode 캐시 등)를 크기순으로 보여 줍니다. ⌘K 로 휴지통에 보낼 수 있고, 남은 공간이 5GB 밑으로 내려가면 알려 드립니다(맥).\n\n- **선택한 텍스트 변환** 텍스트를 선택하고 ⌃⇧S › 텍스트 변환에서 대문자·소문자·단어 첫 글자 대문자·camelCase·PascalCase·snake_case·kebab-case·줄 합치기·공백 정리·줄 정렬·중복 줄 지우기를 고르면 그 자리에서 바뀝니다. 런처에서 `snake`·`줄 합치기` 처럼 쳐서도 쓰고, 단축키도 달 수 있습니다.",
-  "pub_date": "2026-11-21T10:17:01Z",
+  "version": "0.2.1",
+  "notes": "\n- **파일 빠른 보기** 파일·다운로드·스크린샷 줄에서 ⌘Y 를 누르면 열지 않고 미리 봅니다(맥).\n- **집중 모드** `집중 모드 50분` 처럼 치면 그동안 고른 앱은 가리고 SNS·동영상 사이트 탭은 닫습니다. 남은 시간은 메뉴 막대에, 끝내려면 `집중 모드 끝`. 막을 목록은 설정 › 일반에서 고칩니다(맥).\n- **Homebrew** `brew` 를 치면 업데이트할 패키지가 보이고 모두 또는 하나씩 업데이트합니다. `brew ripgrep` 처럼 찾아서 설치도 합니다. 끝나면 알려 드립니다(맥).\n- **배터리** `배터리` 를 치면 맥 배터리(남은 양·남은 시간·최대 용량·충전 횟수)와 에어팟 같은 블루투스 기기의 배터리를 한눈에 봅니다(맥).\n- **카메라 거울** `카메라 거울` 로 화면 구석에 둥근 카메라 창을 띄워 회의 전에 매무새를 봅니다. 두 번 누르거나 Esc 로 닫습니다(맥).\n- **말로 묻기** `말로 묻기` 에서 ⏎ 를 누르고 말하면, 말이 멈출 때 그 말로 AI 에게 묻습니다(맥).",
+  "pub_date": "2026-11-21T11:05:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdsTGFqL1hZSnlpRVpzeWZPbEpRVFhnVnJMTHY5RXkrMEZ0V3ZEYlFNdzI0QUlGS3Z6SWtKWU5NRnhOajlwWm8yN2JCUlduM1AxZlFTckZvY0ZHeGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU2MTk2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMApRTmpneHBteUo2UTdUWTRaL0hVRUQwbzN4aWZCamMrYmRXZEpMZHExZ3pBOXVZWTloNE9LeEpBdUltTFg5QUZqZjFTNFZWbW1sQzl0d0tPTlZ4dC9EQT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.0/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRNQ2sxVjVJRjBRTDloWGxxQ25wdmpUS1BBQi9OM3M5OW5UMTFvQnA4dThOMGVpNjFXRzVJakp0d2JqRzlHT2V1QUtSSmZUb3Q0T0lPelBVajRUMGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU5MDc1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMQpwem50MkJRY3BReVhJOENJNlNQR0NRL1NmZ0FRVjZkamxKczQrN0s5NjBYVVNCL1B1NktmcW9wdjk4eWxJL3RNbTlmR1YwNWc3QXF5TElRSlZXQVBCUT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.1/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdsTGFqL1hZSnlpRVpzeWZPbEpRVFhnVnJMTHY5RXkrMEZ0V3ZEYlFNdzI0QUlGS3Z6SWtKWU5NRnhOajlwWm8yN2JCUlduM1AxZlFTckZvY0ZHeGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU2MTk2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMApRTmpneHBteUo2UTdUWTRaL0hVRUQwbzN4aWZCamMrYmRXZEpMZHExZ3pBOXVZWTloNE9LeEpBdUltTFg5QUZqZjFTNFZWbW1sQzl0d0tPTlZ4dC9EQT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.0/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRNQ2sxVjVJRjBRTDloWGxxQ25wdmpUS1BBQi9OM3M5OW5UMTFvQnA4dThOMGVpNjFXRzVJakp0d2JqRzlHT2V1QUtSSmZUb3Q0T0lPelBVajRUMGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU5MDc1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMQpwem50MkJRY3BReVhJOENJNlNQR0NRL1NmZ0FRVjZkamxKczQrN0s5NjBYVVNCL1B1NktmcW9wdjk4eWxJL3RNbTlmR1YwNWc3QXF5TElRSlZXQVBCUT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.1/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQit1SFlnZnp1bWgxcGYzaGl0RG9RNXpkbm5xcFdTYVNORk1Sc0dPb1RrTUFoTFhCZzBoSVVZL2ZaWDg0ZGlxZlV3L1phQ3hhNGcyeXJmZWpZcmZQWkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU2NTk1CWZpbGU6SmliXzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMApheXpMdFJmUWlJT2hQMndEODlLUTIzY2JJalJDMnk5czU1cVF0ZTV1R1Y0ZHZQSlZHRW1EM0txQW9ITmd1bGhVeGRBOXhxZCs5V1FEdE03cDd1Yy9Edz09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.0/Jib_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdPVUlHNWNwUjZNWld4WkNHQkZhVmxvWkxNdGkxOHVuUFUrdWNoWGFETENYWVA0SE1MYWIxdGwwbnQrR01GVXZUYzBDQVUvWnE4Y0N2cG1IeVZGT2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjYwNzE1CWZpbGU6SmliXzAuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMQppczl3amlCdUcxclNoL3IyalFDNTNEdXpQbWJoQmZTRktESUxtbENkb3R2SGhMbDZyRFNIaGhoUVNVbzNKeHJseklFR3RSeTQzK0QvcnpObmxuYU5EQT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.1/Jib_0.2.1_x64-setup.exe"
     }
   }
 }
