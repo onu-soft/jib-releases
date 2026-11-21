@@ -1,19 +1,19 @@
 {
-  "version": "0.2.1",
-  "notes": "\n- **파일 빠른 보기** 파일·다운로드·스크린샷 줄에서 ⌘Y 를 누르면 열지 않고 미리 봅니다(맥).\n- **집중 모드** `집중 모드 50분` 처럼 치면 그동안 고른 앱은 가리고 SNS·동영상 사이트 탭은 닫습니다. 남은 시간은 메뉴 막대에, 끝내려면 `집중 모드 끝`. 막을 목록은 설정 › 일반에서 고칩니다(맥).\n- **Homebrew** `brew` 를 치면 업데이트할 패키지가 보이고 모두 또는 하나씩 업데이트합니다. `brew ripgrep` 처럼 찾아서 설치도 합니다. 끝나면 알려 드립니다(맥).\n- **배터리** `배터리` 를 치면 맥 배터리(남은 양·남은 시간·최대 용량·충전 횟수)와 에어팟 같은 블루투스 기기의 배터리를 한눈에 봅니다(맥).\n- **카메라 거울** `카메라 거울` 로 화면 구석에 둥근 카메라 창을 띄워 회의 전에 매무새를 봅니다. 두 번 누르거나 Esc 로 닫습니다(맥).\n- **말로 묻기** `말로 묻기` 에서 ⏎ 를 누르고 말하면, 말이 멈출 때 그 말로 AI 에게 묻습니다(맥).",
-  "pub_date": "2026-11-21T11:05:04Z",
+  "version": "0.2.2",
+  "notes": "\n- **말로 묻기 고침** 말한 문장의 한 낱말만 받아 적던 것을 고쳐, 이제 문장 전체를 받아 적어 묻습니다(맥).",
+  "pub_date": "2026-11-21T12:45:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRNQ2sxVjVJRjBRTDloWGxxQ25wdmpUS1BBQi9OM3M5OW5UMTFvQnA4dThOMGVpNjFXRzVJakp0d2JqRzlHT2V1QUtSSmZUb3Q0T0lPelBVajRUMGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU5MDc1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMQpwem50MkJRY3BReVhJOENJNlNQR0NRL1NmZ0FRVjZkamxKczQrN0s5NjBYVVNCL1B1NktmcW9wdjk4eWxJL3RNbTlmR1YwNWc3QXF5TElRSlZXQVBCUT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.1/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndia0gzdHdXTGx2d0d2cXFTK2hwNlNkeXRGNGFVeEl1NkR6RWc5dEd6SHpMZzdBSUxxTE9ia21ETjZEOXJoUWtJMCs1aWZYTVlzaDlETWthQldQR2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY1MTIzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMgpEUzd6Y0R0TXpUUjRCTVRXR215elZ3TzYzSjF1dVlFOGU4elVDTEpZaGZDaUsvUkFpaUtiYXhmdjRzZHUrUWI1NHUvSWdLYWtNTXV3T3JuQkRHcnpEZz09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.2/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRNQ2sxVjVJRjBRTDloWGxxQ25wdmpUS1BBQi9OM3M5OW5UMTFvQnA4dThOMGVpNjFXRzVJakp0d2JqRzlHT2V1QUtSSmZUb3Q0T0lPelBVajRUMGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU5MDc1CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMQpwem50MkJRY3BReVhJOENJNlNQR0NRL1NmZ0FRVjZkamxKczQrN0s5NjBYVVNCL1B1NktmcW9wdjk4eWxJL3RNbTlmR1YwNWc3QXF5TElRSlZXQVBCUT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.1/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQndia0gzdHdXTGx2d0d2cXFTK2hwNlNkeXRGNGFVeEl1NkR6RWc5dEd6SHpMZzdBSUxxTE9ia21ETjZEOXJoUWtJMCs1aWZYTVlzaDlETWthQldQR2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY1MTIzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMgpEUzd6Y0R0TXpUUjRCTVRXR215elZ3TzYzSjF1dVlFOGU4elVDTEpZaGZDaUsvUkFpaUtiYXhmdjRzZHUrUWI1NHUvSWdLYWtNTXV3T3JuQkRHcnpEZz09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.2/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdPVUlHNWNwUjZNWld4WkNHQkZhVmxvWkxNdGkxOHVuUFUrdWNoWGFETENYWVA0SE1MYWIxdGwwbnQrR01GVXZUYzBDQVUvWnE4Y0N2cG1IeVZGT2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjYwNzE1CWZpbGU6SmliXzAuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMQppczl3amlCdUcxclNoL3IyalFDNTNEdXpQbWJoQmZTRktESUxtbENkb3R2SGhMbDZyRFNIaGhoUVNVbzNKeHJseklFR3RSeTQzK0QvcnpObmxuYU5EQT09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.1/Jib_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQitvRTJoTlRuZzc5TTdtcVEzNGphR00rbXZidFRDcUkrNU1UQ21mdXp6aHhWUk9YcndhM1dDZmI2bit2Wm5rbmpxMVVUaWlDZk1VVE1JUHo2bHN5NHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY1NTI1CWZpbGU6SmliXzAuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMgpoLzRyM0JSWDVDeCtNVVViSzlzTVUyVHoxeW5TTU5WQkoyemdXOWZYMXFyN1VoOHFnc0UzdGNIY0kyL2lGT0pISWJQMlQvektOZ2NNMHlHWDExM2hBUT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.2/Jib_0.2.2_x64-setup.exe"
     }
   }
 }
