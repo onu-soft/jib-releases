@@ -1,19 +1,19 @@
 {
-  "version": "0.1.99",
-  "notes": "\n- **화면 텍스트 인식이 느리거나 실패하던 문제(macOS 27)** 한 번에 20~30초 걸리고 자주 실패하던 것을 고쳤습니다 — 이제 0.4초 안팎입니다. 오래 걸릴 때는 \"텍스트를 읽는 중…\" 이 먼저 뜨고, 실패하면 까닭을 보여 드립니다.\n- **실패했는데 \"지웠습니다\" 가 뜨던 문제** 단어·타이머·할 일을 지우거나 끝내다 실패하면 이제 까닭을 보여 드립니다. 설정 창의 저장 실패(다른 앱이 쓰는 단축키 등)도 오류로 보입니다.\n- **설정 창에서 빠른 링크·스니펫·앱 키워드 지우기** 실수로 지우지 않게 한 번 더 눌러야 지워집니다.\n- **안정성** 특수 기호(켈빈 기호 등)가 든 단위 변환을 칠 때 앱이 꺼지던 문제와, 휴지통 비우기 같은 시스템 명령 중 Jib 이 굳던 문제를 고쳤습니다.\n- **실수로 지우지 않게** 클립보드 기록·단어장·AI 대화 기록·할 일을 ⌘⌫ 로 지울 때 한 번 더 눌러야 지워집니다.\n- **다른 앱을 누르면 그 앱이 앞에** 런처가 떠 있을 때 다른 앱을 누르면, 런처를 열기 전의 앱이 다시 앞으로 오던 문제를 고쳤습니다.\n- **여러 AI 의 답 고르기** AI 화면에서 ↑↓ 로 답을 고르고 ↩ 로 그 답을 복사합니다.\n- **키보드로 설정하기** 설정 › AI 의 공급자·모델을 키보드(↩·스페이스)로도 열고 고를 수 있습니다.\n- **Windows 설정 창 글자** 설정·메모 창 글자가 런처처럼 한 단계 커져 읽기 쉬워졌습니다.\n- 그 밖에 안정성 — 브라우저·Mail·스크립트·파일 찾기가 굳어도 Jib 이 기다리다 멈추지 않게 시간 제한을 두었습니다.\n\n- **인터넷 속도 측정** `인터넷 속도 측정` 으로 다운로드·업로드 속도와 응답성을 잽니다. 15초쯤 걸리고 끝나면 알림으로 알려 드립니다. 데이터를 1GB 가까이 쓰니 휴대폰 테더링 중에는 주의하세요(맥).\n\n- **금액 한글 표기** `한글 1250000` 처럼 치면 `백이십오만 원` · 계약서 꼴 `금 일백이십오만원정` · 갖은자 `金 壹佰貳拾伍萬圓整` 을 보여 주고 ⏎ 로 복사합니다.\n- **로마자 표기** `영문 이름 홍길동` → `Hong Gildong`(여권·이력서), `로마자 종로` → `Jongno` 처럼 국어의 로마자 표기법으로 옮깁니다.",
-  "pub_date": "2026-11-21T09:07:43Z",
+  "version": "0.2.0",
+  "notes": "\n- **저장 공간** 런처에서 `디스크` 를 치면 남은 공간과, 다시 만들 수 있는 큰 개발 캐시(Rust 빌드 폴더 · Xcode 캐시 등)를 크기순으로 보여 줍니다. ⌘K 로 휴지통에 보낼 수 있고, 남은 공간이 5GB 밑으로 내려가면 알려 드립니다(맥).\n\n- **선택한 텍스트 변환** 텍스트를 선택하고 ⌃⇧S › 텍스트 변환에서 대문자·소문자·단어 첫 글자 대문자·camelCase·PascalCase·snake_case·kebab-case·줄 합치기·공백 정리·줄 정렬·중복 줄 지우기를 고르면 그 자리에서 바뀝니다. 런처에서 `snake`·`줄 합치기` 처럼 쳐서도 쓰고, 단축키도 달 수 있습니다.",
+  "pub_date": "2026-11-21T10:17:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjIySk0vWnJXQjlzd0UraHlXRWxjWlN3ZFFrMXFXaEVYT1NHNytubUdIRjdCZGVaOWV4c2tldzd6RTNYSTc2ZTNYWXRCR05STUNhcUh4MnM4V0c3TFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjUyMDMzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTkKVUhscTBZekIzdnlqVWp3MUN4aUxWbDVpOWl6SnlHQVdxMG1FbUY3MkExeU9LRDhQSzlKcnhEK0ZqTitnUThyWTlhdExuWjFZaWVWd2xQRU9CRy9qRFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.99/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdsTGFqL1hZSnlpRVpzeWZPbEpRVFhnVnJMTHY5RXkrMEZ0V3ZEYlFNdzI0QUlGS3Z6SWtKWU5NRnhOajlwWm8yN2JCUlduM1AxZlFTckZvY0ZHeGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU2MTk2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMApRTmpneHBteUo2UTdUWTRaL0hVRUQwbzN4aWZCamMrYmRXZEpMZHExZ3pBOXVZWTloNE9LeEpBdUltTFg5QUZqZjFTNFZWbW1sQzl0d0tPTlZ4dC9EQT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.0/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjIySk0vWnJXQjlzd0UraHlXRWxjWlN3ZFFrMXFXaEVYT1NHNytubUdIRjdCZGVaOWV4c2tldzd6RTNYSTc2ZTNYWXRCR05STUNhcUh4MnM4V0c3TFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjUyMDMzCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuOTkKVUhscTBZekIzdnlqVWp3MUN4aUxWbDVpOWl6SnlHQVdxMG1FbUY3MkExeU9LRDhQSzlKcnhEK0ZqTitnUThyWTlhdExuWjFZaWVWd2xQRU9CRy9qRFE9PQo=",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.99/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjdsTGFqL1hZSnlpRVpzeWZPbEpRVFhnVnJMTHY5RXkrMEZ0V3ZEYlFNdzI0QUlGS3Z6SWtKWU5NRnhOajlwWm8yN2JCUlduM1AxZlFTckZvY0ZHeGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU2MTk2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMApRTmpneHBteUo2UTdUWTRaL0hVRUQwbzN4aWZCamMrYmRXZEpMZHExZ3pBOXVZWTloNE9LeEpBdUltTFg5QUZqZjFTNFZWbW1sQzl0d0tPTlZ4dC9EQT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.0/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnlNRWI5blhpYjBYU0xQazZMRXpnOVlEei84ekZVYkpwWlhGRjJwZDZ3bXd3OEFSZ3NQSE1DczYwMVpVQ2kyQVllMTF0Q0Uvd0kvYjBIcExKaWFnUVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjUyNDEwCWZpbGU6SmliXzAuMS45OV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjk5CnhhUmpseU5zTlo2TGd0a0toeUZ3V0l5U3BVeXZJSmZpZ2NKNEZQNVBJOFRBQVY5TnFrdTZWc2NNanhCdDdHckZpdkE3YXdXTnJOMWdJbUdoYmcyZEN3PT0K",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.1.99/Jib_0.1.99_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQit1SFlnZnp1bWgxcGYzaGl0RG9RNXpkbm5xcFdTYVNORk1Sc0dPb1RrTUFoTFhCZzBoSVVZL2ZaWDg0ZGlxZlV3L1phQ3hhNGcyeXJmZWpZcmZQWkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU2NTk1CWZpbGU6SmliXzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMApheXpMdFJmUWlJT2hQMndEODlLUTIzY2JJalJDMnk5czU1cVF0ZTV1R1Y0ZHZQSlZHRW1EM0txQW9ITmd1bGhVeGRBOXhxZCs5V1FEdE03cDd1Yy9Edz09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.0/Jib_0.2.0_x64-setup.exe"
     }
   }
 }
