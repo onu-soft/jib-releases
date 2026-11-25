@@ -1,19 +1,19 @@
 {
-  "version": "0.2.3",
-  "notes": "\n- **문장 풀이** 문장을 낱말로 쪼개 읽기·발음을 달고, 모르는 낱말만 골라 단어장에 넣습니다(맥).\n- **글자 인식 고침** 일본어 줄이 가끔 엉뚱한 영문·기호로 바뀌어 나오던 것을 고쳤습니다(맥).",
-  "pub_date": "2026-11-22T02:29:24Z",
+  "version": "0.2.4",
+  "notes": "\n- **화면 기록 (맥)** 끌어서 고른 부분·화면 전체·창 하나를 MP4 로 녹화합니다 — `창 기록` 은 다른 창에 가려져도 그 창만 담습니다.\n- **창 따라가며 부분 기록 (맥)** 고른 부분을 그 밑의 창에 붙여, 창을 옮기거나 가려도 그 부분만 녹화합니다.\n- **창 정렬 (맥)** 최근 창들을 좌우·위아래·사분면·바둑판·계단식으로 한 번에 놓습니다 — `창 정렬`.\n- **창 크기 돌기·간격 (맥)** 왼쪽 절반을 또 누르면 ⅔·⅓ 로 바뀌고, 중앙 정렬·크게/작게·끝으로 이동도 됩니다 — `창 크게`.\n- **Rectangle 단축키 (맥)** Rectangle 과 같은 ⌃⌥ 단축키가 처음부터 달립니다 — `⌃⌥←` 왼쪽 절반 · 창 사이 간격은 설정 › 일반.\n- **새 창 자리** 거의 최대화·가운데 절반·가운데 2/3·1/4 세로줄을 더했습니다 — `창 거의 최대화`.",
+  "pub_date": "2026-11-25T15:01:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjAvakpzd1JrYU4xbUZnSk91NjF6OFROajk2Y3dQNVZWZHlsaUN2dmpmVGhPRHdmU2k2RFJvMnF6OTk1R252NjYvTUVVem1HNE5XZHlhcXI3eThHbEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzE0NTM2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMwpuYnpySHh5Z2NmUDVxR0pDL2dvNitMWWl1bEo1Wm1BNVFIQTVwazYrMEtNZHpIQlhPZlNHY2NzVEVVR0ZKcG9SVmtCM2dWcDZIQ1hqNVJmempWWFZDZz09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.3/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRxdFBJSG1WNlM3eXRjRVhNL29QUzhoYXoxdGQ5NWxXQ0RNMU5LQnZXeGwvRkp4UUUvSGV3VXRsaHdRd0dSRHJiSXkxZjQvaWpVZnQwSDFBdTM2aUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4ODgyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuNApJcXdvbUpZQlZKdlNlVndsOFE5NTEyekdtKzQxUHlBMlN3RENjMVB1enJMWUREOE1qaW9ZZ05OQ3NhTDlzSGxmMk9DNEd0S2IvdGhpYmsxSGduRWFDZz09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.4/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjAvakpzd1JrYU4xbUZnSk91NjF6OFROajk2Y3dQNVZWZHlsaUN2dmpmVGhPRHdmU2k2RFJvMnF6OTk1R252NjYvTUVVem1HNE5XZHlhcXI3eThHbEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzE0NTM2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMwpuYnpySHh5Z2NmUDVxR0pDL2dvNitMWWl1bEo1Wm1BNVFIQTVwazYrMEtNZHpIQlhPZlNHY2NzVEVVR0ZKcG9SVmtCM2dWcDZIQ1hqNVJmempWWFZDZz09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.3/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRxdFBJSG1WNlM3eXRjRVhNL29QUzhoYXoxdGQ5NWxXQ0RNMU5LQnZXeGwvRkp4UUUvSGV3VXRsaHdRd0dSRHJiSXkxZjQvaWpVZnQwSDFBdTM2aUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4ODgyCWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuNApJcXdvbUpZQlZKdlNlVndsOFE5NTEyekdtKzQxUHlBMlN3RENjMVB1enJMWUREOE1qaW9ZZ05OQ3NhTDlzSGxmMk9DNEd0S2IvdGhpYmsxSGduRWFDZz09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.4/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQnl3SkZvS3NvQmJOaWRKdGZzbkFOY1NZbTBHNXJ5Z05sczNIbHdqaGhJam1ORE9rS2U5WDM2OVIxSlFsME92dExzUU44d3pNUjJyT3BNT1YxOWw3Y2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzE0OTQ4CWZpbGU6SmliXzAuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMwpmNFBNUXdhWENLTVdXdWtIL2ZVU3czVGd4TVRXbnRGaU1tR05vditGM21uV3NlOGhtb0F5T3dUZVVPTDRDajBncWJxWVRsSXd5ekdXMjFFY2VxK2NDZz09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.3/Jib_0.2.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjRtUlZKTXlHV2JwSkxRd2ZwKzRiT2NkSzJoU3loZTVkSlliaHBScVNGbFhzVHpxZktmOXQ5NjB2dU5OdDF1ZWlDbWk3M05wSklHaHY0bitUR3BaRXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE5NDcyCWZpbGU6SmliXzAuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNAp3d2xEd2R3eWRwRHZFVFd6RDNMVHpiS0VEVVQrVWlpN0ZFdDFzRzAxdURGV3cxT3lBZmVoY1pTaUdheEFmdVd0Si9UL05VYnZLcFYxTmxNcGdyV0xBUT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.4/Jib_0.2.4_x64-setup.exe"
     }
   }
 }
