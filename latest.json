@@ -1,19 +1,19 @@
 {
-  "version": "0.2.5",
-  "notes": "\n- **화면 기록 (Windows)** 맥과 같이 고른 부분·화면 전체·창 하나를 MP4 로 녹화합니다 — `창 기록` 은 다른 창에 가려져도 그 창만 담습니다.\n- **창 따라가며 부분 기록 (Windows)** 고른 부분을 그 밑의 창에 붙여, 창을 옮기거나 가려도 그 부분만 녹화합니다.\n- **영어 이름으로 앱 찾기 (Windows)** `notepad` 처럼 영어 이름을 치면 이모지보다 메모장이 먼저 나옵니다.\n- **기능 안내의 키 (Windows)** 안내에 남아 있던 `⌘K` 같은 맥 키를 `Ctrl+K` 로 바르게 보여 줍니다.",
-  "pub_date": "2026-11-25T15:46:55Z",
+  "version": "0.2.6",
+  "notes": "\n- **단축키 안내가 덜 넓게** 창 정렬처럼 단축키가 많은 갈래는 공통 키(`⌃⌥`)를 한 번만 적고 창 자리 그림으로 보여 줘, 안내 칸이 두 단을 넘지 않습니다. 더 많아지면 갈래를 한 줄로 접고 전부는 설정 › 단축키에서 봅니다.",
+  "pub_date": "2026-11-26T15:08:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi8zQm9nWFdsNjdNWlRCSGp0bm1GU0J3NDYwQVhOelJvbEZXUlkyYUMxeHVBNkQ0K3lVS2V0R3VzdTNLa3pxV3h2N2greGpDRGFFRFdSYklwRXN1T3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjIxNTg3CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuNQpvVHZzdWV6ZHA5ZE5ack5jM2NSc2xra1dhOUpwdkhVOUpaVFZVTjd3Z2E0M2Q5NitzeUV6SittSmQvRmpUS3BLUFhKUTk5Slg5b1ZJSTNVbkJxT3FCdz09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.5/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJOT0w0cnk1Ym1TVjdFOG53WmNXK3l3clBxaTluRjdYbGNkMmxGQS9UMW5jZ3ExcE81TndFRjBrWDdEbGpuV0gyZlZ4MFo1bWVVWHpIc1dkREs0L3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA1Njk2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuNgo0WmhJK1BGdGUvVlhkQ2w1bUk3NFBiazVCd0NDbHY3bCtOZnV0dU82S00yVWhBWkw1OCs0UU9MT1JJMUJwdldNS0hWajhqM1FtUUVwNDdKOWNwMHdEQT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.6/Jib.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQi8zQm9nWFdsNjdNWlRCSGp0bm1GU0J3NDYwQVhOelJvbEZXUlkyYUMxeHVBNkQ0K3lVS2V0R3VzdTNLa3pxV3h2N2greGpDRGFFRFdSYklwRXN1T3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjIxNTg3CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuNQpvVHZzdWV6ZHA5ZE5ack5jM2NSc2xra1dhOUpwdkhVOUpaVFZVTjd3Z2E0M2Q5NitzeUV6SittSmQvRmpUS3BLUFhKUTk5Slg5b1ZJSTNVbkJxT3FCdz09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.5/Jib.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjJOT0w0cnk1Ym1TVjdFOG53WmNXK3l3clBxaTluRjdYbGNkMmxGQS9UMW5jZ3ExcE81TndFRjBrWDdEbGpuV0gyZlZ4MFo1bWVVWHpIc1dkREs0L3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA1Njk2CWZpbGU6SmliLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuNgo0WmhJK1BGdGUvVlhkQ2w1bUk3NFBiazVCd0NDbHY3bCtOZnV0dU82S00yVWhBWkw1OCs0UU9MT1JJMUJwdldNS0hWajhqM1FtUUVwNDdKOWNwMHdEQT09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.6/Jib.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjZ4dmwzTEgzNE5meVptZ09GUmhmaE9vcXNEUXNsR0RWYTFieDAxMkc4MUlMbjd6RDdCdWs1b2UxbHg1cDNHbGJsYVhCejBhekxra2xtZVEyTlFQdWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjIyNzc4CWZpbGU6SmliXzAuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNQpDOHhDYkNzOW01MExPYnB1OWc2eDdYZjlCZEhtZXRVc2poeXpKbmpwdUlheTdqRmR3UzlheStkTTJvWi9GbDEvbVNRdE1RemRodkRPUmxJb2F0UFNCdz09Cg==",
-      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.5/Jib_0.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFVIMWhPclZqQjQ5NmJscjJSUHlzdE5RdUI0TnRkRXVnbkoraTd5REZDOGtBSFpCczdJZU14VURRWnNyLzBTN2I1d2c2YXNselI5VGU2WkF2T0dJTC9od2hQei9rWUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA2MzM0CWZpbGU6SmliXzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpveW84blNja29kVnMxZitJUGNnZVk2bW1yVHRDQmNWcFo2UktRVUxrajNFNnQvcUc4RmxYNWt6SnVxRWhiZlBvWWJ6SnJJdTB2b1NZYzdmT0FaM2pDdz09Cg==",
+      "url": "https://github.com/onu-soft/jib-releases/releases/download/v0.2.6/Jib_0.2.6_x64-setup.exe"
     }
   }
 }
